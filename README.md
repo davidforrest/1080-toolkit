@@ -28,3 +28,15 @@ coding:
 - notebook video edits? volume increase?
 - host the vids somewhere. LL’s vimeo?
 - write overview blurbs for notebooks.
+
+### Sitemap:
+
+index.html
+math.html
+- sine_waves.html
+- logarithms.html
+- complex_numbers.html
+- derivatives_integrals.html
+- diff_eqs.html
+music.html
+coding.html
