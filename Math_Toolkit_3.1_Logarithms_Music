@@ -1,0 +1,9 @@
+Math Toolkit: Logarithms
+
+How do logarithms relate to music?
+
+Humans, computers, amplifiers, and musical tuning systems each rely on different numerical systems. Our standard way of counting is based in multiples of 10, but a computer thinks in multiples of 2, because computers are fundamentally built on voltages that are either on or off.
+
+Likewise, we don’t just think of musical pitches in a linear sequence from lowest to highest. We hear different octaves as though they are the same note, and each octave is a doubling of the frequency of the previous octave. Our ears also work this way with amplitude. When you turn up the volume knob on your stereo, each notch isn’t a fixed increment, but a logarithmic increment. A doubling of the amplitude maps into a linear change in our perception. This also means that doubling the amplitude of the vibration of a string or doubling the amount of air a subwoofer moves doesn’t double the loudness we actually hear.
+
+We also use logarithms to calculate the pitches in our musical tuning system, and this is what allows us to play the same music in any key. The “equal tempered” system means that each of our 12 notes is equally spaced within an octave, the result of a base-12 logarithm.

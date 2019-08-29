@@ -1,0 +1,10 @@
+What are logarithms?
+
+Logarithms capture that relationship between multiplication and addition. Logarithms are formally defined as undoing exponentiation: so if 2^3 = 8, then log_2(8) = 3. But they also have the neat property that log(ab) = log(a) + log(b). So logarithms turn multiplying into adding.
+
+A “logarithmic scale” means that a +1 difference on that scale actually represents a multiplication by some value (usually *2, or *10). Think of every value on the scale being passed through a log(x) before reaching the scale. Volume, pitch, and earthquakes are all measured on logarithmic scales.
+
+Some more resources:
+
+Zachary’s logarithms observable: https://observablehq.com/d/26d7cef0868f22e5
+An explanation of logarithms, explained via music and pitch. Arithmetic vs geometric sequences, logarithms, logarithms with different bases, inverse of exponentiation, log(1) and log(0), equal temperament, n-tone equal temperament.

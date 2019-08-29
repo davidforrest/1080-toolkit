@@ -1,0 +1,9 @@
+Math Toolkit: Sine Waves
+
+How do sine waves relate to music?
+
+Sound is produced by repetitive signals--when something repeats in time. This might be the vibration of a guitar string, or the air moving in a trumpet, or the signal that comes from an electronic instrument, like a synthesizer.
+
+A sine wave is a very simple way to represent a repetitive signal, and it gives us a foundation for analyzing more complex sounds. It’s possible to split a sound up in lots of ways, for example, synthesizers often use square, triangle, and sawtooth waves to create complex sounds. But engineers prefer sine waves to analyze sounds because the math is much easier to work with.
+
+Any repetitive signal can be broken down into individual sine waves that have the same period as the original signal. An engineer can then analyze each sine wave one at a time and put them back together, modeling the original sound. Being able to analyze sine waves can also help us understand the principles behind familiar musical products, like noise cancelling headphones, which work by calculating differences in phase.

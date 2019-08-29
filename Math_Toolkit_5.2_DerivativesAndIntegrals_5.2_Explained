@@ -1,0 +1,14 @@
+What are derivatives and integrals?
+
+Derivatives and integrals come from calculus, the study of functions and how they change over time. In mathematics, this refers to how the slope of a function (such as a line or a polynomial) can change as you move along the graph. If you are looking at the graph of a horizontal line for example, the slope is always constant. If you wanted to characterize the slope of a more complicated function, like a parabola, you could pick individual points on the graph and find the slope, but you couldn’t find the slope at every point. That’s where derivatives come in. A derivative is an expression that gives the slope of a function at any point you plug into it.
+
+What does the change of a function over time really mean though? Well, think of traveling in a car. We can say the function in this case is your distance at every time (at 0 sec, 1 sec, 2 sec ect.). Now say you want the velocity you’re traveling at, you would want to find how your distance traveled changes over time, or the derivative. So in this case, distance is the function and velocity is the derivative. If you wanted to find your velocity during a certain time interval you could just take your distance divided by the amount of time it took you to cover that distance; however, with a derivative, you could find the velocity of any instant during that car trip.
+
+Some more resources:
+
+3b1b calculus
+ episode #1 (introduction) https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=1,
+#2 (derivatives) https://www.youtube.com/watch?v=9vKqVkMQHK,
+#3 and #4 and #5 (power rule, chain rule/product rule, e^x, sin/cos),
+#8 (integrals) https://www.youtube.com/watch?v=rfG8ce4nNh0,
+#10 (higher order derivatives) https://www.youtube.com/watch?v=BLkz5LGWihw

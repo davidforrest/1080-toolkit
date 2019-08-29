@@ -1,0 +1,5 @@
+Math Toolkit: Complex Numbers
+
+How do complex numbers relate to music?
+
+Complex numbers set the stage for some very convenient ways of working with sine waves (and other signals that repeat over time). It’s possible to capture both the amplitude and phase of a sine wave using a single complex number, and also to express those relationships graphically. Much of the math behind signals is built using complex numbers to take advantage of this efficie
