@@ -9,6 +9,35 @@
   margin-right: 200px;
 }
 
+#toolkit-overview {
+  color: #707070; /*dark gray*/
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.section-overview {
+  width: 100%;
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 8px;
+  background-color: #dbe9e9; /*light teal*/
+}
+
+.section-overview p {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.section-overview h2 {
+  color: white;
+}
+
+.section-overview a {
+  color: #707070; /*dark gray*/
+  text-decoration: none;
+}
+
 .q-a-container {
   margin-left: 100px;
   margin-right: 100px;
@@ -33,6 +62,7 @@ h1 {
   margin: 55px 0px;
   text-transform: uppercase;
   letter-spacing: -1px;
+  color: crimson;
 }
 
 h2 {
