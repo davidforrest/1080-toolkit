@@ -1,19 +1,155 @@
+/* Make sure that padding does not make div bigger */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+#content-column {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#toolkit-overview {
+  color: #707070; /*dark gray*/
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.section-overview {
+  width: 100%;
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 8px;
+  background-color: #dbe9e9; /*light teal*/
+}
+
+.section-overview p {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.section-overview h2 {
+  color: white;
+}
+
+.section-overview a {
+  color: #707070; /*dark gray*/
+  text-decoration: none;
+}
+
+.q-a-container {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.q-a-container h2 {
+  color: teal;
+  text-align: center;
+}
+
+.q-a-container p {
+  color: #707070; /*dark gray*/
+  text-align: center;
+}
+
 h1 {
-	font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 1.2em;
+  text-align: center;
+  margin: 55px 0px;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  color: crimson;
 }
 
 h2 {
-	font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 1.2em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: -1px;
 }
 
 h3 {
-	font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-size: 24px;
+  font-weight: 50;
+  line-height: 1.2em;
+  text-align: center;
 }
 
 p {
-	font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', serif;
+  line-height: 30px;
+  text-align: center;
 }
 
 li {
-	font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', serif;
+  line-height: 30px;
 }
+
+.video-container {
+  width: 100%;
+  overflow: auto;
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 8px;
+  background-color: #dbe9e9; /*light teal*/
+}
+
+.video-container p {
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  color: #707070; /*dark gray*/;
+}
+
+#player {
+  float: right;
+}
+
+.video-description {
+  margin: 20px;
+  color: black;
+  float: left;
+  width: 33%;
+}
+
+.video-description h3 {
+  text-align: left;  
+}
+
+.video-description p {
+  text-align: justify;
+}
+
+.video-description iframe {
+  float: right;
+}
+
+/* Temporary class for things that need to get done still */
+.todo {
+  color: red;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+#more-resources {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 1em;
+  background-color: #707070; /*dark gray*/
+  color: white;
+}
+
+#more-resources a {
+  color: lightgray;
+}
+
+

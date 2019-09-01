@@ -1,190 +1,142 @@
 <!DOCTYPE html>
-
 <html>
+  <head>
+    <link rel="stylesheet" href="1080-toolkit.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="content-column">
+      <h1>Sine Waves</h1>
+      <div class="q-a-container">
+        <h2>How do sine waves relate to music?</h2>
+        <p>A sine wave is a very simple way to represent a repetitive signal, and it gives us a foundation for analyzing more complex sounds. It’s possible to split a sound up in lots of ways, for example, synthesizers often use square, triangle, and sawtooth waves to create complex sounds. But engineers prefer sine waves to analyze sounds because the math is much easier to work with.</p>
 
-<head>
-  <link rel="stylesheet" href="1080-toolkit.css">
-  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
-</head>
+        <p>Any repetitive signal can be broken down into individual sine waves that have the same period as the original signal. An engineer can then analyze each sine wave one at a time and put them back together, modeling the original sound. Being able to analyze sine waves can also help us understand the principles behind familiar musical products, like noise cancelling headphones, which work by calculating differences in phase.</p>
 
-<body>
+        <h2>What are sine waves?</h2>
 
-<h1>Math Toolkit: Sine Waves</h1>
+        <p class="todo">[pic of sine wave! Or embed zach’s animation?]</p>
 
-<h2>
-How do sine waves relate to music?
-</h2>
+        <p>A sine wave is a curve that represents a repetitive signal. Sine waves come from trigonometry, when a right triangle is inscribed inside a circle, spinning in time.</p>
 
-<p>
-A sine wave is a very simple way to represent a repetitive signal, and it gives us a foundation for analyzing more complex sounds. It’s possible to split a sound up in lots of ways, for example, synthesizers often use square, triangle, and sawtooth waves to create complex sounds. But engineers prefer sine waves to analyze sounds because the math is much easier to work with.
-</p>
+        <p>Starting with a right triangle, the sine of an angle is the height of the opposite side divided by the hypotenuse:</p>
 
-<p>
-Any repetitive signal can be broken down into individual sine waves that have the same period as the original signal. An engineer can then analyze each sine wave one at a time and put them back together, modeling the original sound. Being able to analyze sine waves can also help us understand the principles behind familiar musical products, like noise cancelling headphones, which work by calculating differences in phase.
-</p>
+        <p>Next, imagine that the hypotenuse of the triangle is the radius of a circle:</p>
 
-<h2>
-What are sine waves?
-</h2>
+        <p>Now start that circle spinning, which represents repetitions in time.</p>
 
-<p>
-[pic of sine wave! Or embed zach’s animation?]
-</p>
+        <p>If you rotate that around 360 degrees and take the sine of the angle, you’ve created a sine wave.</p>
 
-<p>
-A sine wave is a curve that represents a repetitive signal. Sine waves come from trigonometry, when a right triangle is inscribed inside a circle, spinning in time.
-</p>
+        <p>And here you can see triangles inscribed in this circle, where sine is the height of the opposite leg of the triangle, and cosine is the adjacent leg: <a href="https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html">https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html</a></p>
 
-<p>
-Starting with a right triangle, the sine of an angle is the height of the opposite side divided by the hypotenuse:
-</p>
+        <p>Here, you can see how a sine wave is derived from a spinning circle: <a href="https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html">https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html</a></p>
 
-<p>
-Next, imagine that the hypotenuse of the triangle is the radius of a circle:
-</p>
+        <p>Any sine wave can be described by three numbers: its amplitude (the height of the highest point of the wave), its period (the distance between repetitions of the wave), and its phase (the position of the wave relative to a reference point, like time = 0).</p>
+      </div> 
+      
+      <hr>
 
-<p>
-Now start that circle spinning, which represents repetitions in time.
-</p>
+      <h2>
+      Prof. Wood's Overview Videos
+      </h2>
 
-<p>
-If you rotate that around 360 degrees and take the sine of the angle, you’ve created a sine wave.
-</p>
+      <div class="video-container">
+        <div class="video-description">
+          <h3>The function, graph, amplitude and period of a sine wave.</h3>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354282529?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>    
+        </div>
 
-<p>
-And here you can see triangles inscribed in this circle, where sine is the height of the opposite leg of the triangle, and cosine is the adjacent leg: <a href="https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html">https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html</a>
-</p>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Angular Frequency</h3>
+            <p>What angular frequency and frequency are, how they are related and their units of measure.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354283781?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
-<p>
-Here, you can see how a sine wave is derived from a spinning circle: <a href="https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html">https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html</a>
-</p>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Frequency and Period</h3>
+            <p>Relationship between frequency and period, how adjusting one affects the other.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354284308?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
-<p>
-Any sine wave can be described by three numbers: its amplitude (the height of the highest point of the wave), its period (the distance between repetitions of the wave), and its phase (the position of the wave relative to a reference point, like time = 0).
-</p>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Changing Amplitude</h3>
+            <p>Effect of changing amplitude on a sine wave graph and how changing the amplitude of a sound wave affects human perception.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354284403?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+        </div>
 
-<h2>
-Prof. Wood's Overview Videos
-</h2>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Changing Angular Frequency</h3>
+            <p>Effect of changing angular frequency on a sine wave graph and how the period changes as a result.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354284758?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
-<h3>
-The function, graph, amplitude and period of a sine wave.
-</h3>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Angular Frequency and Octaves</h3>
+            <p>How the angular frequency of a sine wave relates to going up or down an octave in music.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285144?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
-<iframe src="https://player.vimeo.com/video/354282529?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Representing Pitch Through Sine Waves</h3>
+            <p>How sine waves represent pitches and how pitches make up a note.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285392?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+        </div>
 
-<h3>
-Angular Frequency
-</h3>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Human Perception of Oscillations</h3>
+            <p>How we perceive oscillations as a single tone and the limits of human hearing in terms of angular frequency of a sine wave.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285538?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
-<p>
-What angular frequency and frequency are, how they are related and their units of measure.
-</p>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Effect of Phase on a Sine Wave</h3>
+            <p>Introduction to what phase is in a sine equation and example graph of how phase shifts the a sine graph horizontally.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285967?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
-<iframe src="https://player.vimeo.com/video/354283781?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Combining Sine Waves</h3>
+            <p>Example of sine waves with different phases and how they combine constructively or destructively. Explanation of how phase is used to create noise cancelling headphones.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354286722?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
 
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Cosine in Terms of Sine</h3>
+            <p>Definition of cosine in terms of sine at a certain phase.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354287037?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>        
 
-<h3>
-Frequency and Period
-</h3>
-
-<p>
-Relationship between frequency and period, how adjusting one affects the other.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354284308?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Changing Amplitude
-</h3>
-
-<p>
-Effect of changing amplitude on a sine wave graph and how changing the amplitude of a sound wave affects human perception.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354284403?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Changing Angular Frequency
-</h3>
-
-<p>
-Effect of changing angular frequency on a sine wave graph and how the period changes as a result.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354284758?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Angular Frequency and Octaves
-</h3>
-
-<p>
-How the angular frequency of a sine wave relates to going up or down an octave in music.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354285144?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Representing Pitch Through Sine Waves
-</h3>
-
-<p>
-How sine waves represent pitches and how pitches make up a note.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354285392?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Human Perception of Oscillations
-</h3>
-
-<p>
-How we perceive oscillations as a single tone and the limits of human hearing in terms of angular frequency of a sine wave.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354285538?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Effect of Phase on a Sine Wave
-</h3>
-
-<p>
-Introduction to what phase is in a sine equation and example graph of how phase shifts the a sine graph horizontally.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354285967?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Combining Sine Waves
-</h3>
-
-<p>
-Example of sine waves with different phases and how they combine constructively or destructively. Explanation of how phase is used to create noise cancelling headphones.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354286722?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Cosine in Terms of Sine
-</h3>
-
-<p>
-Definition of cosine in terms of sine at a certain phase.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354287037?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-More resources
-</h3>
-
-<ul>
-<li>Let’s learn about waveforms: <a href="https://pudding.cool/2018/02/waveforms/">https://pudding.cool/2018/02/waveforms/</a>
-<li>Work In Progress: Zachary’s sine wave observable (more detail after Pudding Waveforms): <a href="https://observablehq.com/d/9839c66d3b020c87">https://observablehq.com/d/9839c66d3b020c87</a>
-sin(x), phase , amplitude, frequency, radians (how to use them, radians vs degrees, why you’ll need to know them)
-<ul>
-
-</body>
-
+        <div id="more-resources">
+          <h3>More resources</h3>
+          <ul>
+            <li>Let’s learn about waveforms: <a href="https://pudding.cool/2018/02/waveforms/">https://pudding.cool/2018/02/waveforms/</a>
+            <li>Work In Progress: Zachary’s sine wave observable (more detail after Pudding Waveforms): <a href="https://observablehq.com/d/9839c66d3b020c87">https://observablehq.com/d/9839c66d3b020c87</a>
+            sin(x), phase , amplitude, frequency, radians (how to use them, radians vs degrees, why you’ll need to know them)
+          <ul>  
+        </div>
+      </div>
+    </div>
+  </body>
 </html>

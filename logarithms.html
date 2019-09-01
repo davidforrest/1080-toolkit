@@ -1,112 +1,82 @@
 <!DOCTYPE html>
-
 <html>
+  <head>
+    <link rel="stylesheet" href="1080-toolkit.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+  </head>
 
-<head>
-  <link rel="stylesheet" href="1080-toolkit.css">
-  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
-</head>
+  <body>
+    <div id="content-column">
+      <h1>Logarithms</h1>
+      <div class="q-a-container">
+        <h2>How do logarithms relate to music?</h2>
+        <p>Humans, computers, amplifiers, and musical tuning systems each rely on different numerical systems. Our standard way of counting is based in multiples of 10, but a computer thinks in multiples of 2, because computers are fundamentally built on voltages that are either on or off.</p>
 
-<body>
+        <p>Likewise, we don’t just think of musical pitches in a linear sequence from lowest to highest. We hear different octaves as though they are the same note, and each octave is a doubling of the frequency of the previous octave. Our ears also work this way with amplitude. When you turn up the volume knob on your stereo, each notch isn’t a fixed increment, but a logarithmic increment. A doubling of the amplitude maps into a linear change in our perception. This also means that doubling the amplitude of the vibration of a string or doubling the amount of air that a subwoofer moves doesn’t double the loudness we actually hear.</p>
 
-<h1>Math Toolkit: Logarithms</h1>
+        <p>We also use logarithms to calculate the pitches in our musical tuning system, and this is what allows us to play the same music in any key. The “equal tempered” system means that each of our 12 notes is equally spaced within an octave, the result of a base-12 logarithm.</p>
 
-<h2>
-How do logarithms relate to music?
-</h2>
+        <h2>What are logarithms?</h2>
 
-<p>
-Humans, computers, amplifiers, and musical tuning systems each rely on different numerical systems. Our standard way of counting is based in multiples of 10, but a computer thinks in multiples of 2, because computers are fundamentally built on voltages that are either on or off.
-</p>
+        <p>Logarithms capture the relationship between multiplication and addition. Logarithms are formally defined as <em>undoing exponentiation</em>: so if 2^3 = 8, then log_2(8) = 3. But they also have the neat property that log(ab) = log(a) + log(b). So logarithms turn multiplying into adding.</p>
 
-<p>
-Likewise, we don’t just think of musical pitches in a linear sequence from lowest to highest. We hear different octaves as though they are the same note, and each octave is a doubling of the frequency of the previous octave. Our ears also work this way with amplitude. When you turn up the volume knob on your stereo, each notch isn’t a fixed increment, but a logarithmic increment. A doubling of the amplitude maps into a linear change in our perception. This also means that doubling the amplitude of the vibration of a string or doubling the amount of air that a subwoofer moves doesn’t double the loudness we actually hear.
-</p>
+        <p>A “logarithmic scale” means that a +1 difference on that scale actually represents a multiplication by some value (usually *2, or *10). Think of every value on the scale being passed through a log(x) before reaching the scale. Volume, pitch, and earthquakes are all measured on logarithmic scales.</p>
 
-<p>
-We also use logarithms to calculate the pitches in our musical tuning system, and this is what allows us to play the same music in any key. The “equal tempered” system means that each of our 12 notes is equally spaced within an octave, the result of a base-12 logarithm.
-</p>
+        <p class="todo">INSERT LINEAR/LOG IMAGE HERE</p>  
+      </div>
 
-<h2>
-What are logarithms?
-</h2>
+      <h2>
+      Prof. Wood's Overview Videos
+      </h2>
 
-<p>
-Logarithms capture the relationship between multiplication and addition. Logarithms are formally defined as <em>undoing exponentiation</em>: so if 2^3 = 8, then log_2(8) = 3. But they also have the neat property that log(ab) = log(a) + log(b). So logarithms turn multiplying into adding.
-</p>
+      <div class="video-container">
+        <div class="video-description">
+          <h3>Elements of a Logarithmic Sequence</h3>
+          <p>Introduction to linear and logarithmic sequences, examples of each and how they relate to each other. This section also covers the elements of a logarithmic sequence, including base and exponent.</p>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354278550?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+      </div>
 
-<p>
-A “logarithmic scale” means that a +1 difference on that scale actually represents a multiplication by some value (usually *2, or *10). Think of every value on the scale being passed through a log(x) before reaching the scale. Volume, pitch, and earthquakes are all measured on logarithmic scales.
-</p>
+      <div class="video-container">
+        <div class="video-description">
+          <h3>Logarithms and Binary</h3>    
+          <p>How base 2 logarithms are used in computers as binary and how that applies to converting signals from a microphone recording on to a computer.</p>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354279934?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+      </div>
+      
+      <div class="video-container">
+        <div class="video-description">
+          <h3>Logarithms in Terms of Exponents</h3>
+          <p>Alternative definition of a logarithm as a function of a base number raised to a power and an introduction to logarithmic notation and how it translates to english.</p>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354280881?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </div>      
 
-<p>
-INSERT LINEAR/LOG IMAGE HERE
-</p>
+      <div class="video-container">
+        <div class="video-description">
+          <h3>Logarithmic Property of Multiplication</h3>
+          <p>Explanation of the logarithmic property of multiplication.</p>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354281433?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </div>
 
-<h2>
-Prof. Wood's Overview Videos
-</h2>
+      <div class="video-container">
+        <div class="video-description">
+          <h3>Representing Sound Through Logarithms</h3>
+          <p>Examples of how sound can be represented logarithmically. How octaves are a logarithmic representation of pitches. How human perception of sound is logarithmic to the actual amplitude of the sound wave.</p>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354691773?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </div>
 
-<h3>
-Elements of a Logarithmic Sequence
-</h3>
-
-<p>
-Introduction to linear and logarithmic sequences, examples of each and how they relate to each other. This section also covers the elements of a logarithmic sequence, including base and exponent.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354278550?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Logarithms and Binary
-</h3>
-
-<p>
-How base 2 logarithms are used in computers as binary and how that applies to converting signals from a microphone recording on to a computer.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354279934?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Logarithms in Terms of Exponents
-</h3>
-
-<p>
-Alternative definition of a logarithm as a function of a base number raised to a power and an introduction to logarithmic notation and how it translates to english.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354280881?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Logarithmic Property of Multiplication
-</h3>
-
-<p>
-Explanation of the logarithmic property of multiplication.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354281433?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h3>
-Representing Sound Through Logarithms
-</h3>
-
-<p>
-Examples of how sound can be represented logarithmically. How octaves are a logarithmic representation of pitches. How human perception of sound is logarithmic to the actual amplitude of the sound wave.
-</p>
-
-<iframe src="https://player.vimeo.com/video/354691773?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<h2>
-Some more resources
-</h2>
-
-<ul>
-<li>Zachary’s logarithms observable: <a href="https://observablehq.com/d/26d7cef0868f22e5">https://observablehq.com/d/26d7cef0868f22e5</a>
-<li>An explanation of logarithms, explained via music and pitch. Arithmetic vs geometric sequences, logarithms, logarithms with different bases, inverse of exponentiation, log(1) and log(0), equal temperament, n-tone equal temperament.
-<ul>
-
-</body>
-
+      <div id="more-resources">
+        <h2>Some more resources</h2>
+        <ul>
+          <li>Zachary’s logarithms observable: <a href="https://observablehq.com/d/26d7cef0868f22e5">https://observablehq.com/d/26d7cef0868f22e5</a>
+          <li>An explanation of logarithms, explained via music and pitch. Arithmetic vs geometric sequences, logarithms, logarithms with different bases, inverse of exponentiation, log(1) and log(0), equal temperament, n-tone equal temperament.
+        <ul>
+      </div>
+    </div>
+  </body>
 </html>
