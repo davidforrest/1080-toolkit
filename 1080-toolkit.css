@@ -43,7 +43,7 @@
   margin-right: 100px;
 }
 
-.q-a-container .question {
+.q-a-container h2 {
   color: teal;
   text-align: center;
 }
@@ -56,7 +56,7 @@
 h1 {
   font-family: 'Lato', sans-serif;
   font-size: 48px;
-  font-weight: 50;
+  font-weight: 300;
   line-height: 1.2em;
   text-align: center;
   margin: 55px 0px;
@@ -68,7 +68,7 @@ h1 {
 h2 {
   font-family: 'Lato', sans-serif;
   font-size: 36px;
-  font-weight: 50;
+  font-weight: 300;
   line-height: 1.2em;
   text-align: center;
   text-transform: uppercase;
@@ -92,10 +92,6 @@ p {
 li {
   font-family: 'Merriweather', serif;
   line-height: 30px;
-}
-
-.video-title {
-  text-align: left;
 }
 
 .video-container {
@@ -125,10 +121,19 @@ li {
   width: 33%;
 }
 
+.video-description h3 {
+  text-align: left;  
+}
+
 .video-description p {
   text-align: justify;
 }
 
+.video-description iframe {
+  float: right;
+}
+
+/* Temporary class for things that need to get done still */
 .todo {
   color: red;
   font-weight: 500;
@@ -146,3 +151,5 @@ li {
 #more-resources a {
   color: lightgray;
 }
+
+
