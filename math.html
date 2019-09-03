@@ -4,6 +4,14 @@
     <link rel="stylesheet" href="1080-toolkit.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+      });
+    </script>
   </head>
   <body>
 
@@ -20,23 +28,628 @@
 
       <a href="index.html" style="text-decoration: none;">
         <div id="header">
-          <h2>Harvard College GenEd 1080 Toolkits</h1>  
+          <h2>Harvard College GenEd 1080 Toolkit</h1>  
         </div>
       </a>
 
       <h1 class="math-text-item">Math</h1>   
-      <h2>Welcome to the GE1080 Math Toolkit!</h2>
       <p>
       The <strong>Math Toolkit</strong> reviews five subjects that are especially relevant to engineering and music.
       </p>
+
       <div class="section-overview">
         <ul>
-          <li><a href="sine_waves.html">Sine Waves</a>
-          <li><a href="logarithms.html">Logarithms</a>
-          <li><a href="complex_numbers.html">Complex Numbers</a>
-          <li><a href="derivatives_integrals.html">Derivatives and Integrals</a>, and
-          <li><a href="diff_eqs.html">Differential Equations</a>
+          <li><a href="#sine-waves">Sine Waves</a>
+          <li><a href="#logarithms">Logarithms</a>
+          <li><a href="#complex-numbers">Complex Numbers</a>
+          <li><a href="#derivatives-integrals">Derivatives and Integrals</a>, and
+          <li><a href="#diff-eqs">Differential Equations</a>
         <ul>
+      </div>
+
+      <!-- SINE WAVES -->
+
+      <h1 class="math-text-item"><a name="sine-waves">Sine Waves</a></h1>
+      <div class="q-a-container">
+
+        <h2>How do sine waves relate to music?</h2>
+
+        <p>A sine wave is a very simple way to represent a repetitive signal, and it gives us a foundation for analyzing more complex sounds. It’s possible to split a sound up in lots of ways, for example, synthesizers often use square, triangle, and sawtooth waves to create complex sounds. But engineers prefer sine waves to analyze sounds because the math is much easier to work with.</p>
+
+        <p>Any repetitive signal can be broken down into individual sine waves that have the same period as the original signal. An engineer can then analyze each sine wave one at a time and put them back together, modeling the original sound. Being able to analyze sine waves can also help us understand the principles behind familiar musical products, like noise cancelling headphones, which work by calculating differences in phase.</p>
+
+        <h2>What are sine waves?</h2>
+
+        <p>
+        Sine waves come from trigonometry, which is the study of how the side lengths and angles of a triangle affect each other. According to trigonometry, the “sine” of any given angle of a triangle is the length of the opposite side divided by the length of the longest side of the triangle- the hypotenuse. But this “sine” of a triangle is just one value, and the sine we’ll consider is those single sine values as a function of time. 
+        </p>
+
+        <p>
+        Now imagine that same triangle is a right triangle and you draw a circle around it, where the hypotenuse is the radius of the circle and the vertex of the angle we were referencing before is the center. See this <a href="https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html">visual representation</a> of the sine of a center angle of a triangle inscribed in a circle.
+        </p>
+
+        <p>
+        If we spin the circle, we add the dimension of time, because it takes a certain time for the circle to complete each rotation. If you take the sine of that initial angle we mentioned before as the circle completes a 360 degree rotation, you’ve created a sine wave, which is the sine of that center angle as a function of time. See this <a href="https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html">visual representation</a> of how a sine wave is derived from a spinning circle.  
+        </p>
+
+        <p>
+        As the value of sine oscillates as a function of time, graphically it looks like a continuous series of waves. This wave can be defined by three values: 
+        </p>
+        <ul>
+          <li><strong>amplitude</strong>, the height of the highest point of the wave,</li>
+          <li><strong>period</strong>, the distance between repetitions of the wave, and</li>
+          <li><strong>phase</strong>, the position of the wave relative to a reference point (e.g., time = 0 seconds)</li>
+        </ul>
+        </p>
+      </div>
+
+      <h2><strong>Sine Waves</strong>: Video Explanations</h2>
+
+      <div class="video-container">
+        <div class="video-description">
+          <h3>The function, graph, amplitude and period of a sine wave.</h3>
+        </div>
+        <iframe src="https://player.vimeo.com/video/354282529?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>    
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Angular Frequency</h3>
+            <p>What angular frequency and frequency are, how they are related and their units of measure.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354283781?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Frequency and Period</h3>
+            <p>Relationship between frequency and period, how adjusting one affects the other.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354284308?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Changing Amplitude</h3>
+            <p>Effect of changing amplitude on a sine wave graph and how changing the amplitude of a sound wave affects human perception.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354284403?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Changing Angular Frequency</h3>
+            <p>Effect of changing angular frequency on a sine wave graph and how the period changes as a result.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354284758?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Angular Frequency and Octaves</h3>
+            <p>How the angular frequency of a sine wave relates to going up or down an octave in music.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285144?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Representing Pitch Through Sine Waves</h3>
+            <p>How sine waves represent pitches and how pitches make up a note.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285392?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Human Perception of Oscillations</h3>
+            <p>How we perceive oscillations as a single tone and the limits of human hearing in terms of angular frequency of a sine wave.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285538?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Effect of Phase on a Sine Wave</h3>
+            <p>Introduction to what phase is in a sine equation and example graph of how phase shifts the a sine graph horizontally.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354285967?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Combining Sine Waves</h3>
+            <p>Example of sine waves with different phases and how they combine constructively or destructively. Explanation of how phase is used to create noise cancelling headphones.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354286722?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-container">
+          <div class="video-description">
+            <h3>Cosine in Terms of Sine</h3>
+            <p>Definition of cosine in terms of sine at a certain phase.</p>
+          </div>
+          <iframe src="https://player.vimeo.com/video/354287037?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>        
+
+        <div id="more-resources">
+          <h2><strong>Sine Waves</strong>: More Resources</h2>
+          <ul>
+            <li>Getting Started: <a href="https://pudding.cool/2018/02/waveforms/">The Pudding: Let’s Learn About Waveforms</a>.
+            <li>For more information on phase, amplitude, angles in degrees and radians, and more, see the <a href="https://observablehq.com/d/9839c66d3b020c87">Waveforms Observable</a>.
+          <ul>  
+        </div>
+
+        <!-- LOGARITHMS -->
+
+        <h1 class="math-text-item"><a name="logarithms">Logarithms</a></h1>
+      
+          <div class="q-a-container">
+            <h2>How do logarithms relate to music?</h2>
+            <p>Humans, computers, amplifiers, and musical tuning systems each rely on different numerical systems. Our standard way of counting is based in multiples of 10, but a computer thinks in multiples of 2, because computers are fundamentally built on voltages that are either on or off.</p>
+
+            <p>Likewise, we don’t just think of musical pitches in a linear sequence from lowest to highest. We hear different octaves as though they are the same note, and each octave is a doubling of the frequency of the previous octave. Our ears also work this way with amplitude. When you turn up the volume knob on your stereo, each notch isn’t a fixed increment, but a logarithmic increment. A doubling of the amplitude maps into a linear change in our perception. This also means that doubling the amplitude of the vibration of a string or doubling the amount of air that a subwoofer moves doesn’t double the loudness we actually hear.</p>
+
+            <p>We also use logarithms to calculate the pitches in our musical tuning system, and this is what allows us to play the same music in any key. The “equal tempered” system means that each of our 12 notes is equally spaced within an octave, the result of a base-12 logarithm.</p>
+
+            <h2>What are logarithms?</h2>
+
+            <p>Logarithms capture the relationship between multiplication and addition. Logarithms are formally defined as <em>undoing exponentiation</em>: so if $2^3 = 8$, then $log_{2} 8 = 3$. But they also have the neat property that $log(ab) = log(a) + log(b)$. So logarithms turn multiplying into adding.</p>
+
+            <p>A “logarithmic scale” means that a +1 difference on that scale actually represents a multiplication by some value (usually *2, or *10). Think of every value on the scale being passed through a $log(x)$ before reaching the scale. Volume, pitch, and earthquakes are all measured on logarithmic scales.</p>
+          </div>
+
+          <h2><strong>Logarithms</strong>: Video Explanations</h2>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Elements of a Logarithmic Sequence</h3>
+              <p>Introduction to linear and logarithmic sequences, examples of each and how they relate to each other. This section also covers the elements of a logarithmic sequence, including base and exponent.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354278550?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Logarithms and Binary</h3>    
+              <p>How base 2 logarithms are used in computers as binary and how that applies to converting signals from a microphone recording on to a computer.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354279934?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+          
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Logarithms in Terms of Exponents</h3>
+              <p>Alternative definition of a logarithm as a function of a base number raised to a power and an introduction to logarithmic notation and how it translates to english.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354280881?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>      
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Logarithmic Property of Multiplication</h3>
+              <p>Explanation of the logarithmic property of multiplication.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354281433?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Representing Sound Through Logarithms</h3>
+              <p>Examples of how sound can be represented logarithmically. How octaves are a logarithmic representation of pitches. How human perception of sound is logarithmic to the actual amplitude of the sound wave.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354691773?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div id="more-resources">
+            <h2><strong>Logarithms</strong>: More Resources</h2>
+            <ul>
+              <li><a href="https://observablehq.com/d/26d7cef0868f22e5">Logarithms Observable</a>
+            <ul>
+          </div>
+
+          <!-- COMPLEX NUMBERS -->
+
+          <h1 class="math-text-item"><a name="complex-numbers">Complex Numbers</a></h1>
+          <div class="q-a-container">
+            <h2 class="question">How do complex numbers relate to music?</h2>
+            <p>
+              Complex numbers set the stage for some very convenient ways of working with sine waves (and other signals that repeat over time). It’s possible to capture both the amplitude and phase of a sine wave using a single complex number, and also to express those relationships graphically. Much of the math behind signals is built using complex numbers to take advantage of this efficiency.
+            </p>
+          </div>
+
+          <div class="q-a-container">
+
+            <h2 class="question">What are complex numbers?</h2>
+            <p>
+              Complex numbers are a number system where the square root of $-1$ is declared to be a valid number. For example, the number $4$ has two square roots: $2$ and $-2$. But what number would you square to get $-4$? This is where the square root of $-1$ (usually called $i$ for “imaginary”) comes to the rescue.
+            </p>
+
+            <p style="text-align:center">$i = \sqrt{-1}$</p>
+
+            <p>
+            A complex number can be expressed in terms of two components: a real part and an imaginary part. The real part is what we’re all used to when we think of numbers: like $1$, $3$, $5$, $\pi$, and so forth. The imaginary part is a real number multiplied by $i$.
+            </p>
+
+            <p>
+            Complex numbers are usually graphed on the “complex plane”. You may be familiar with the number line, a one-dimensional line that describes all real numbers, with zero in the middle, positive numbers on the right and negatives on the left. the complex plane is a two-dimensional plane, where zero is still in the middle, positives on the right, and negatives on the left, but this time multiples of $i$ go <em>upwards</em> from zero, and multiples of negative $i$ go downwards from zero. So to graph a number $a+bi$, you’d go right or left depending on the value of $a$, then go up or down depending on the value of 
+            $b$.
+            </p>
+
+            <p>
+            The following are examples of complex numbers: $1+2i$, $1.56+10i$. All real numbers can also be represented as complex numbers by having a zero imaginary part: $2+0i$, $-100+0i$, and so on.
+            </p>
+
+            <p>
+            So multiplication, an abstract, algebraic thing to do, is transformed into rotating and scaling, a visual, geometric thing to do. That’s the beauty of complex numbers!
+            </p>
+
+          </div>
+
+          <hr>
+
+          <h2><strong>Complex Numbers</strong>: Video Explanations</h2>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Complex Numbers and Number Sets</h3>
+              <p>Definition of a complex number as a number set. Break down of the real, imaginary and $i$ components of a complex number.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354265137?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Definition of $i$</h3>
+              <p>Definition of $i$ in a complex number and its properties in terms of raising it to a power.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354265768?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Differences Between Number Sets</h3>
+              <p>Examples of why different number sets (real, whole, integers, complex, etc.) are used over the others.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354265980?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Properties of Complex Numbers</h3>
+              <p>Addition and multiplication properties of complex numbers.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354266340?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Complex Numbers and Signals</h3>
+              <p>Why complex numbers are important with examples of how they can be used to represent the relationship between signals.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354266787?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Signals in the Complex Plane</h3>
+              <p>Definition of a signal in relation to a musical note. Introduction to the complex plane and how to graph complex numbers.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354266937?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Graphing Complex Numbers</h3>
+              <p>How a signal translates to a graph of a complex number. How the amplitude of a signal translates to the magnitude of a vector.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354267514?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Displacing a Signal</h3>
+              <p>Explanation of how displacing a signal horizontally represents the angle of its corresponding vector.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354267694?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Application of Complex Numbers</h3>
+              <p>Why using complex numbers is a better way to represent signals than an X and Y plane.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354268024?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Complex Numbers and Differential Equations</h3>
+              <p>General overview of how solutions to differential equations can be complex numbers.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354268632?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div id="more-resources">
+            <h2><strong>Complex Numbers</strong>: More Resources</h2>
+            <ul>
+              <li>Khan Academy: <a href="https://www.youtube.com/watch?v=SP-YJe7Vldo">Imaginary Numbers</a></li>
+              <li><a href="https://www.youtube.com/watch?v=Z49hXoN4KWg">What are the square roots of -1?</a>
+            </ul>
+          </div>
+
+          <h1 class="math-text-item"><a name="derivatives-integrals">Derivatives & Integrals</a></h1>
+
+          <div class="q-a-container">
+            <h2>How do derivatives and integrals relate to music?</h2>
+
+            <p>
+            As we mentioned in the sine waves section, sine waves can represent sounds, pitches, and notes in music. They are the foundational building blocks of sound. You can adjust a sine wave’s amplitude, frequency, period, and wavelength to change the pitch it represents; however, there is much more you can do to characterize these waves. That’s where derivatives and integrals come in. Since derivatives and integrals characterize functions, we can use them to characterize and represent sine waves. Derivatives can give you the slope of the sine wave at any given value, while integrals can give you the area underneath the curve. 
+
+            More importantly, we can use derivatives and integrals to build differential equations, which can model complex energy exchanges, such as oscillations. On its own, a single derivative can’t represent much in music, but second, third and higher order derivatives can be used in a differential equation to build an oscillator, which is a basic building block in music.
+            </p>
+
+            <h2 class="question">What are derivatives and integrals?</h2>
+
+            <p>
+            Derivatives and integrals come from calculus, the study of functions and how they change over time. In mathematics, this refers to how the slope of a function (such as a line or a polynomial) can change as you move along the graph. If you are looking at the graph of a horizontal line for example, the slope is always constant. If you wanted to characterize the slope of a more complicated function, like a parabola, you could pick individual points on the graph and find the slope, but you couldn’t find the slope at <strong>every</strong> point. That’s where derivatives come in. A derivative is an expression that gives the slope of a function at any point you plug into it.
+            </p>
+
+            <p>
+            What does the change of a function over time really mean though? Well, think of traveling in a car. We can say the function in this case is your distance at every time (at 0 sec, 1 sec, 2 sec etc.). Now say you want the velocity you’re traveling at, you would want to find how your distance traveled changes over time, or the derivative. So in this case, distance is the function and velocity is the derivative. If you wanted to find your velocity during a certain time interval you could just take your distance divided by the amount of time it took you to cover that distance; however, with a derivative, you could find the velocity of any instant during that car trip.
+            </p>
+
+            <p>
+            While derivatives represent how the slope of a function changes over time, an integral represents how a function <em>accumulates</em> over time. The best way to think about these two concepts is graphically. Picture the graph of a horizontal line. If you found the slope at a given point on the graph (which in this case is zero), you are finding the derivative of the function. If you found the area underneath the function on a certain interval, such as 0 to 3 (which in this case is just the y value of the horizontal line times 3), you would be finding the integral.
+            </p>
+
+            <p>
+            What can the accumulation of a function actually be used for? Let’s go back to our traveling in a car example. Now let’s say that you know your velocity and you want to find your distance over time. You could graph your velocity as a function of time and find the area underneath the graph. If your velocity graph is a polynomial with curves, it’s a little more challenging to get the area than the horizontal line we mentioned before. Instead, you could approximate the area by taking small rectangular sections of the graph that are close to modeling the actual curve. The more rectangular sections you slice it into, the more accurate your approximation of the area. By taking the integral of the function, you are taking an infinite number of slices and therefore getting the exact area and in this case, the exact distance over time.
+            </p>
+
+            <p>
+            So, if the derivative of distance is velocity and the integral of velocity is distance, we see there is an inverse relationship between these two concepts and that you can use one to find the other. This is why an integral is also called an antiderivative. These two ways of representing changes in functions are interconnected and together make up calculus.
+            </p>
+          </div>
+
+          <hr>
+
+          <!-- DERIVATIVES & INTEGRALS -->
+
+          <h2><strong>Derivatives & Integrals</strong>: Video Explanations</h2>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Intro to Derivatives</h3>
+              <p>Definition of a derivative and examples of what a derivative is graphically. What makes a function “differentiable” and what a solution to a differential equation represents.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354287270?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Properties of Derivatives</h3>
+              <p>Multiplying by a constant, addition rule, product rule, chain rule, and exponent rule.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354288073?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Derivative of $e$</h3>
+              <p>How to find the derivative of $y=e^x$ and the properties of $e$ as a transcendental number.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354289087?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Derivative of Natural Logarithm</h3>
+              <p>Definition of a natural logarithm and how to find its derivative (logarithm rule)</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354289448?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+          
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Derivative Examples</h3>
+              <p>Worked out examples of finding the derivative of a function using all of the rules explained earlier in the video.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354289584?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Derivative of Sine and Cosine</h3>
+              <p>The rules and properties of deriving sine and cosine explained graphically.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354289864?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Intro to Integrals</h3>
+              <p>Definition of integrals and how they relate to derivatives explained graphically.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354290065?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Changing the Limits of Integration</h3>
+              <p>How changing the limits of an integral affects the solution graphically and how to express that in terms of an original area. Proof of why an integral is an antiderivative.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354290481?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Definition of Integrals in Terms of $dx$</h3>
+              <p>Graphical explanation of what an integral is through taking small slices of an area. Definition of dx.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354292218?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>      
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Characterizing Integrals</h3>
+              <p>Definition of a definite and indefinite integral, proper integral notation and what limits and $dx$ mean.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354291200?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Integral Properties</h3>
+              <p>Multiplying by a constant, addition rule, power rule, natural log and e rules. What $dx$ represents graphically.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354291543?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Definite Integrals Explained Graphically</h3>
+              <p>General definition of a definite integral combining the graphical explanations throughout the video.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354292552?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>  
+
+          <div id="more-resources">
+            <h2><strong>Derivatives & Integrals</strong>: More resources</h2>
+            <ul>
+              <li>
+                <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=WUvTyaaNkzM">Chapter 1 (Introduction)</a>
+                  <li><a href="https://www.youtube.com/watch?v=9vKqVkMQHKk">Chapter 2 (Derivatives)</a>
+                  <li><a href="https://www.youtube.com/watch?v=S0_qX4VJhMQ">Chapter 3 (Power Rule)</a>
+                  <li><a href="https://www.youtube.com/watch?v=YG15m2VwSjA">Chapter 4 (Chain Rule / Product Rule)</a>
+                  <li><a href="https://www.youtube.com/watch?v=m2MIpDrF7Es">Chapter 5 (Euler's number)</a>
+                  <li><a href="https://www.youtube.com/watch?v=qb40J4N1fa4">Chapter 6 (Implicit differentiation)</a>
+                  <li><a href="https://www.youtube.com/watch?v=rfG8ce4nNh0">Chapter 8 (Integration)</a>
+                  <li><a href="https://www.youtube.com/watch?v=BLkz5LGWihw">Chapter 10 (Higher order derivatives)</a>
+                </ul>
+              </li>
+            </ul>    
+          </div>
+
+          <!-- DIFFERENTIAL EQUATIONS -->
+
+          <h1 class="math-text-item"><a name="diff-eqs">Differential Equations</a></h1>
+          <div class="q-a-container">
+            <h2>How do differential equations relate to music?</h2>
+            <p>Sound waves are generated by a physical object that is resonating, and resonating systems are best described by differential equations that are higher than first order. A first order system has no acceleration, so the result won’t have an oscillating behavior.</p>
+
+            <p>In a second order differential equation, a second derivative of the function introduces acceleration and creates the oscillating behavior that you’d see in, say, a spring or a pendulum. Once you use a second or higher order differential equation, you can model the movement of energy back and forth, which can model musical systems that are more complex.</p>
+
+            <h2 class="question">What are differential equations?</h2>
+
+            <p>
+            A differential equation is a mathematical equation that relates a function with its derivatives. Since derivatives represent the rate of change of a function, relating an equation to its derivatives can be useful in showing change over time. They allow us to model more complex motion than just a single function can.
+            </p>
+
+            <p>
+            Think of a mass on a spring bouncing up and down. We can use Newton’s second law to characterize this motion which states:
+            </p>
+
+            <p style="text-align:center">$F = ma$</p>
+
+            <p>
+            Here, $F$ stands for <em>force</em>, $m$ stands for <em>mass</em>, and $a$ stands for <em>acceleration</em>. In this case the <em>mass</em> is constant, so we only need to consider <em>force</em> and <em>acceleration</em> as variables in creating our differential equation. 
+            </p>
+
+            <p>
+            By another physical principle, <a href="https://en.wikipedia.org/wiki/Hooke%27s_law">Hooke’s Law</a>, we know the force of a spring is equal to a constant $k$ multiplied by the displacement of the spring. Combining these two concepts, we can say:
+            </p>
+
+            <p style="text-align:center">$kx=ma$</p>
+
+            <p>Here, $x$ is <em>displacement</em> and $a$ is <em>acceleration</em> of the <em>mass</em> as a function of <em>time</em>. As we mentioned in the derivatives and integrals section, if you take the derivative of displacement over time twice, you get the acceleration over time. So we can rewrite the equation of the movement of the spring in terms of one function, displacement over time, and its derivatives. So we can say:
+            </p>
+
+            <p style="text-align:center">$-kx = m \frac {d^2x}{dt^2} $</p>
+
+            <p>
+            Here, the $\frac {d^2x}{dt^2}$ is the <em>second derivative of $x$</em>. This differential equations allows us to model the complex motion that is oscillating in one simple equation. This is useful because you can relate the movement of the mass on the spring with its acceleration with only one function, instead of two.
+            </p>
+
+          </div>
+
+          <hr>
+
+          <h2><strong>Differential Equations</strong>: Video Explanations</h2>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Algebraic Expressions</h3>    
+              <p>Definition and example of an algebraic expression and its graph.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354293086?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Intro to Differential Equations</h3>
+              <p>Definition of a differential equation, an example of one, and how it differs from an algebraic expression.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354293505?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Solutions to Differential Equations</h3>
+              <p>What a solution to a differential equation looks like and an example.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354293752?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Checking a Solution to a Differential Equation</h3>
+              <p>How to check if a function is a solution to a differential equation by using derivatives to plug it back in. Example of what a differential equation and its solution could be used to model.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354293970?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>      
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Properties of Differential Equations</h3>
+              <p>Properties of ordinary differential equations: linear vs. nonlinear, order and dimension (with examples of each).</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354295139?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Real and Complex Solutions to Differential Equations</h3>
+              <p>General form of a solution to ordinary differential equations and how it differs based on the exponent being real or complex. Defining and using Euler’s identity to find complex solutions.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354296524?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Differential Equations and Pitch</h3>
+              <p>How ordinary differential equation solutions with a complex exponents look graphically and how they are linked  to frequency and pitch in music.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354296778?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>More Complex Differential Equations</h3>
+              <p>Examples of what makes up a complex differential equation regarding dimensionality, order and linearity. Introduction to what a partial derivative is.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354297369?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+          
+          <div id="more-resources">
+            <h2><strong>Differential Equations</strong>: More resources</h2>
+            <ul>
+              <li><a href="https://observablehq.com/@hzsteinberg/differential-equations">Differential Equations Observable</a>
+            </ul>  
+          </div>
+        </div>
       </div>
     </div>
   </body>

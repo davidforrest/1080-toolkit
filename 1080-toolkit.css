@@ -149,8 +149,7 @@
 }
 
 .q-a-container {
-  margin-left: 100px;
-  margin-right: 100px;
+
 }
 
 .q-a-container h2 {
@@ -183,6 +182,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: -1px;
   color: teal;
+  text-decoration: none;
 }
 
 h2 {
