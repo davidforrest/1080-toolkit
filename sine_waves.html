@@ -23,30 +23,38 @@
     <div id="content-column">
       <h1>Sine Waves</h1>
       <div class="q-a-container">
+
         <h2>How do sine waves relate to music?</h2>
+
         <p>A sine wave is a very simple way to represent a repetitive signal, and it gives us a foundation for analyzing more complex sounds. It’s possible to split a sound up in lots of ways, for example, synthesizers often use square, triangle, and sawtooth waves to create complex sounds. But engineers prefer sine waves to analyze sounds because the math is much easier to work with.</p>
 
         <p>Any repetitive signal can be broken down into individual sine waves that have the same period as the original signal. An engineer can then analyze each sine wave one at a time and put them back together, modeling the original sound. Being able to analyze sine waves can also help us understand the principles behind familiar musical products, like noise cancelling headphones, which work by calculating differences in phase.</p>
 
         <h2>What are sine waves?</h2>
 
-        <p class="todo">[pic of sine wave! Or embed zach’s animation?]</p>
+        <p>
+        Sine waves come from trigonometry, which is the study of how the side lengths and angles of a triangle affect each other. According to trigonometry, the “sine” of any given angle of a triangle is the length of the opposite side divided by the length of the longest side of the triangle- the hypotenuse. But this “sine” of a triangle is just one value, and the sine we’ll consider is those single sine values as a function of time. 
+        </p>
 
-        <p>A sine wave is a curve that represents a repetitive signal. Sine waves come from trigonometry, when a right triangle is inscribed inside a circle, spinning in time.</p>
+        <p>
+        Now imagine that same triangle is a right triangle and you draw a circle around it, where the hypotenuse is the radius of the circle and the vertex of the angle we were referencing before is the center. See this <a href="https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html">visual representation</a> of the sine of a center angle of a triangle inscribed in a circle.
+        </p>
 
-        <p>Starting with a right triangle, the sine of an angle is the height of the opposite side divided by the hypotenuse:</p>
+        <p>
+        If we spin the circle, we add the dimension of time, because it takes a certain time for the circle to complete each rotation. If you take the sine of that initial angle we mentioned before as the circle completes a 360 degree rotation, you’ve created a sine wave, which is the sine of that center angle as a function of time. See this <a href="https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html">visual representation</a> of how a sine wave is derived from a spinning circle.  
+        </p>
 
-        <p>Next, imagine that the hypotenuse of the triangle is the radius of a circle:</p>
+        <p>
+        As the value of sine oscillates as a function of time, graphically it looks like a continuous series of waves. This wave can be defined by three values: 
+        </p>
+        <ul>
+          <li><strong>amplitude</strong>, the height of the highest point of the wave,</li>
+          <li><strong>period</strong>, the distance between repetitions of the wave, and</li>
+          <li><strong>phase</strong>, the position of the wave relative to a reference point (e.g., time = 0 seconds)</li>
+        </ul>
+          
+        </p>
 
-        <p>Now start that circle spinning, which represents repetitions in time.</p>
-
-        <p>If you rotate that around 360 degrees and take the sine of the angle, you’ve created a sine wave.</p>
-
-        <p>And here you can see triangles inscribed in this circle, where sine is the height of the opposite leg of the triangle, and cosine is the adjacent leg: <a href="https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html">https://zsteinberg.github.io/explanaria/examples/sine_waves/opt_sine_triangle.html</a></p>
-
-        <p>Here, you can see how a sine wave is derived from a spinning circle: <a href="https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html">https://zsteinberg.github.io/explanaria/examples/explained_sine_definition.html</a></p>
-
-        <p>Any sine wave can be described by three numbers: its amplitude (the height of the highest point of the wave), its period (the distance between repetitions of the wave), and its phase (the position of the wave relative to a reference point, like time = 0).</p>
       </div> 
       
       <hr>
@@ -143,11 +151,10 @@
         </div>        
 
         <div id="more-resources">
-          <h3>More resources</h3>
+          <h2>More Resources</h2>
           <ul>
-            <li>Let’s learn about waveforms: <a href="https://pudding.cool/2018/02/waveforms/">https://pudding.cool/2018/02/waveforms/</a>
-            <li>Work In Progress: Zachary’s sine wave observable (more detail after Pudding Waveforms): <a href="https://observablehq.com/d/9839c66d3b020c87">https://observablehq.com/d/9839c66d3b020c87</a>
-            sin(x), phase , amplitude, frequency, radians (how to use them, radians vs degrees, why you’ll need to know them)
+            <li>Getting Started: <a href="https://pudding.cool/2018/02/waveforms/">The Pudding: Let’s Learn About Waveforms</a>.
+            <li>For more information on phase, amplitude, angles in degrees and radians, and more, see the <a href="https://observablehq.com/d/9839c66d3b020c87">Waveforms Observable</a>.
           <ul>  
         </div>
       </div>

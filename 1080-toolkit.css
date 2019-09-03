@@ -95,13 +95,24 @@
 }
 
 .q-a-container h2 {
-  color: teal;
-  text-align: center;
+  color: black;
+  text-align: left;
+  text-transform: none;
+}
+
+.q-a-container h3 {
+  color: black;
+  text-align: left;
+  text-transform: none;
 }
 
 .q-a-container p {
   color: #707070; /*dark gray*/
-  text-align: center;
+  text-align: left;
+}
+
+.q-a-container li {
+  color: #707070; /*dark gray*/
 }
 
 h1 {
