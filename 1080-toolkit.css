@@ -5,17 +5,21 @@
 }
 
 #header {
-  background-color: teal;
+  background-color: #ffb347;
   height: 100px;
+  margin-bottom: 8px;
+  display: block;
 }
 
 #header h2 {
   line-height: 100px;
-  text-align: left;
+  text-align: center;
   margin-top: 0px;
   margin-bottom: 0px;
-  padding-left: 200px;
   color: white;
+  text-transform: none;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 #menu-container {
@@ -35,7 +39,7 @@
 
 .menu li {
   display: inline;
-  font-family: 'Lato', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 17.1px;
   font-weight: bold;
   padding-right: 24px;
@@ -47,7 +51,7 @@
 .menu a {
   text-decoration: none;
   display: inline;
-  font-family: 'Lato', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 17.1px;
   font-weight: bold;
   letter-spacing: .8px;
@@ -56,14 +60,69 @@
 }
 
 #content-column {
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 #toolkit-overview {
   color: #707070; /*dark gray*/
-  margin-left: 100px;
-  margin-right: 100px;
+  margin: 50px 100px 50px 100px;
+}
+
+#toolkit-overview p {
+  color: #707070; /*dark gray*/
+  text-align: justify;
+}
+
+.math-menu-item {
+  background-color: #FE6B64;
+}
+
+.math-text-item {
+  color: #FE6B64;
+}
+
+.music-menu-item {
+  background-color: #77DD77;
+}
+
+.music-text-item {
+  color: #77DD77;
+}
+
+.coding-menu-item {
+  background-color: #779ECB;
+}
+
+.coding-text-item {
+  color: #779ECB; 
+}
+
+#top-level-block-container {
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.top-level-block {
+  height: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 350px;
+  display: inline-block;
+}
+
+.top-level-block h2 {
+  font-weight: bold;
+  color: white;
+  letter-spacing: 2px;
+}
+
+.top-level-block p {
+  line-height: 1.75em;
+  color: white;
+  letter-spacing: 1px;
 }
 
 .section-overview {
@@ -121,7 +180,6 @@ h1 {
   font-weight: 300;
   line-height: 1.2em;
   text-align: center;
-  margin: 55px 0px;
   text-transform: uppercase;
   letter-spacing: -1px;
   color: teal;
