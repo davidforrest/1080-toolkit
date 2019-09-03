@@ -4,6 +4,14 @@
     <link rel="stylesheet" href="1080-toolkit.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+      });
+    </script>
   </head>
   <body>
 
@@ -35,11 +43,30 @@
         </p>
 
         <p>
-        Think of a mass on a spring bouncing up and down. We can use Newton’s second law to characterize this motion which states F(force)= m(mass) x a(acceleration). In this case the mass is constant, so we only need to consider force and acceleration as variables in creating our differential equation. By another physical principle, Hooke’s Law, we know the force of a spring is equal to a constant “k” multiplied by the displacement of the spring. Combining these two concepts, we can say we can say kx=ma, where “x” is displacement and “a” is acceleration of the mass as a function of time.
+        Think of a mass on a spring bouncing up and down. We can use Newton’s second law to characterize this motion which states:
+        </p>
+
+        <p style="text-align:center">$F = ma$</p>
+          
+        <!-- F(force)= m(mass) \times a(acceleration) -->
+
+        <p>
+        Here, $F$ stands for <em>force</em>, $m$ stands for <em>mass</em>, and $a$ stands for <em>acceleration</em>. In this case the <em>mass</em> is constant, so we only need to consider <em>force</em> and <em>acceleration</em> as variables in creating our differential equation. 
         </p>
 
         <p>
-        As we mentioned in the derivatives and integrals section, if you take the derivative of displacement over time twice, you get the acceleration over time. So we can rewrite the equation of the movement of the spring in terms of one function, displacement over time, and its derivatives. So we can say kx=m(second derivative of x). This differential equations allows us to model the complex motion that is oscillating in one simple equation. This is useful because you can relate the movement of the mass on the spring with its acceleration with only one function, instead of two.
+        By another physical principle, Hooke’s Law, we know the force of a spring is equal to a constant $k$ multiplied by the displacement of the spring. Combining these two concepts, we can say:
+        </p>
+
+        <p style="text-align:center">$kx=ma$</p>
+
+        <p>Here, $x$ is <em>displacement</em> and $a$ is <em>acceleration</em> of the <em>mass</em> as a function of <em>time</em>. As we mentioned in the derivatives and integrals section, if you take the derivative of displacement over time twice, you get the acceleration over time. So we can rewrite the equation of the movement of the spring in terms of one function, displacement over time, and its derivatives. So we can say:
+        </p>
+
+        <p style="text-align:center">$-kx = m \frac {d^2x}{dt^2} $</p>
+
+        <p>
+        Here, the $\frac {d^2x}{dt^2}$ is the <em>second derivative of $x$</em>. This differential equations allows us to model the complex motion that is oscillating in one simple equation. This is useful because you can relate the movement of the mass on the spring with its acceleration with only one function, instead of two.
         </p>
 
       </div>
