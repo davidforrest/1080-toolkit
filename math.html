@@ -4,6 +4,14 @@
     <link rel="stylesheet" href="1080-toolkit.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+      });
+    </script>
   </head>
   <body>
 
@@ -32,15 +40,17 @@
 
       <div class="section-overview">
         <ul>
-          <li><a href="#sine_waves">Sine Waves</a>
-          <li><a href="logarithms.html">Logarithms</a>
-          <li><a href="complex_numbers.html">Complex Numbers</a>
-          <li><a href="derivatives_integrals.html">Derivatives and Integrals</a>, and
-          <li><a href="diff_eqs.html">Differential Equations</a>
+          <li><a href="#sine-waves">Sine Waves</a>
+          <li><a href="#logarithms">Logarithms</a>
+          <li><a href="#complex-numbers">Complex Numbers</a>
+          <li><a href="#derivatives-integrals">Derivatives and Integrals</a>, and
+          <li><a href="#diff-eqs">Differential Equations</a>
         <ul>
       </div>
 
-      <h1 class="math-text-item">Sine Waves</h1>
+      <!-- SINE WAVES -->
+
+      <h1 class="math-text-item"><a name="sine-waves">Sine Waves</a></h1>
       <div class="q-a-container">
 
         <h2>How do sine waves relate to music?</h2>
@@ -169,6 +179,209 @@
             <li>Getting Started: <a href="https://pudding.cool/2018/02/waveforms/">The Pudding: Let’s Learn About Waveforms</a>.
             <li>For more information on phase, amplitude, angles in degrees and radians, and more, see the <a href="https://observablehq.com/d/9839c66d3b020c87">Waveforms Observable</a>.
           <ul>  
+        </div>
+
+        <!-- LOGARITHMS -->
+
+        <h1 class="math-text-item"><a name="logarithms">Logarithms</a></h1>
+      
+          <div class="q-a-container">
+            <h2>How do logarithms relate to music?</h2>
+            <p>Humans, computers, amplifiers, and musical tuning systems each rely on different numerical systems. Our standard way of counting is based in multiples of 10, but a computer thinks in multiples of 2, because computers are fundamentally built on voltages that are either on or off.</p>
+
+            <p>Likewise, we don’t just think of musical pitches in a linear sequence from lowest to highest. We hear different octaves as though they are the same note, and each octave is a doubling of the frequency of the previous octave. Our ears also work this way with amplitude. When you turn up the volume knob on your stereo, each notch isn’t a fixed increment, but a logarithmic increment. A doubling of the amplitude maps into a linear change in our perception. This also means that doubling the amplitude of the vibration of a string or doubling the amount of air that a subwoofer moves doesn’t double the loudness we actually hear.</p>
+
+            <p>We also use logarithms to calculate the pitches in our musical tuning system, and this is what allows us to play the same music in any key. The “equal tempered” system means that each of our 12 notes is equally spaced within an octave, the result of a base-12 logarithm.</p>
+
+            <h2>What are logarithms?</h2>
+
+            <p>Logarithms capture the relationship between multiplication and addition. Logarithms are formally defined as <em>undoing exponentiation</em>: so if $2^3 = 8$, then $log_{2} 8 = 3$. But they also have the neat property that $log(ab) = log(a) + log(b)$. So logarithms turn multiplying into adding.</p>
+
+            <p>A “logarithmic scale” means that a +1 difference on that scale actually represents a multiplication by some value (usually *2, or *10). Think of every value on the scale being passed through a $log(x)$ before reaching the scale. Volume, pitch, and earthquakes are all measured on logarithmic scales.</p>
+          </div>
+
+          <h2><strong>Logarithms</strong>: Video Explanations</h2>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Elements of a Logarithmic Sequence</h3>
+              <p>Introduction to linear and logarithmic sequences, examples of each and how they relate to each other. This section also covers the elements of a logarithmic sequence, including base and exponent.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354278550?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Logarithms and Binary</h3>    
+              <p>How base 2 logarithms are used in computers as binary and how that applies to converting signals from a microphone recording on to a computer.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354279934?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+          
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Logarithms in Terms of Exponents</h3>
+              <p>Alternative definition of a logarithm as a function of a base number raised to a power and an introduction to logarithmic notation and how it translates to english.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354280881?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>      
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Logarithmic Property of Multiplication</h3>
+              <p>Explanation of the logarithmic property of multiplication.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354281433?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3>Representing Sound Through Logarithms</h3>
+              <p>Examples of how sound can be represented logarithmically. How octaves are a logarithmic representation of pitches. How human perception of sound is logarithmic to the actual amplitude of the sound wave.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354691773?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div id="more-resources">
+            <h2><strong>Logarithms</strong>: More Resources</h2>
+            <ul>
+              <li><a href="https://observablehq.com/d/26d7cef0868f22e5">Logarithms Observable</a>
+            <ul>
+          </div>
+
+          <!-- COMPLEX NUMBERS -->
+
+          <h1 class="math-text-item"><a name="complex-numbers">Complex Numbers</a></h1>
+          <div class="q-a-container">
+            <h2 class="question">How do complex numbers relate to music?</h2>
+            <p>
+              Complex numbers set the stage for some very convenient ways of working with sine waves (and other signals that repeat over time). It’s possible to capture both the amplitude and phase of a sine wave using a single complex number, and also to express those relationships graphically. Much of the math behind signals is built using complex numbers to take advantage of this efficiency.
+            </p>
+          </div>
+
+          <div class="q-a-container">
+
+            <h2 class="question">What are complex numbers?</h2>
+            <p>
+              Complex numbers are a number system where the square root of $-1$ is declared to be a valid number. For example, the number $4$ has two square roots: $2$ and $-2$. But what number would you square to get $-4$? This is where the square root of $-1$ (usually called $i$ for “imaginary”) comes to the rescue.
+            </p>
+
+            <p style="text-align:center">$i = \sqrt{-1}$</p>
+
+            <p>
+            A complex number can be expressed in terms of two components: a real part and an imaginary part. The real part is what we’re all used to when we think of numbers: like $1$, $3$, $5$, $\pi$, and so forth. The imaginary part is a real number multiplied by $i$.
+            </p>
+
+            <p>
+            Complex numbers are usually graphed on the “complex plane”. You may be familiar with the number line, a one-dimensional line that describes all real numbers, with zero in the middle, positive numbers on the right and negatives on the left. the complex plane is a two-dimensional plane, where zero is still in the middle, positives on the right, and negatives on the left, but this time multiples of $i$ go <em>upwards</em> from zero, and multiples of negative $i$ go downwards from zero. So to graph a number $a+bi$, you’d go right or left depending on the value of $a$, then go up or down depending on the value of 
+            $b$.
+            </p>
+
+            <p>
+            The following are examples of complex numbers: $1+2i$, $1.56+10i$. All real numbers can also be represented as complex numbers by having a zero imaginary part: $2+0i$, $-100+0i$, and so on.
+            </p>
+
+            <p>
+            So multiplication, an abstract, algebraic thing to do, is transformed into rotating and scaling, a visual, geometric thing to do. That’s the beauty of complex numbers!
+            </p>
+
+          </div>
+
+          <hr>
+
+          <h2><strong>Complex Numbers</strong>: Video Explanations</h2>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Complex Numbers and Number Sets</h3>
+              <p>Definition of a complex number as a number set. Break down of the real, imaginary and $i$ components of a complex number.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354265137?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Definition of $i$</h3>
+              <p>Definition of $i$ in a complex number and its properties in terms of raising it to a power.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354265768?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Differences Between Number Sets</h3>
+              <p>Examples of why different number sets (real, whole, integers, complex, etc.) are used over the others.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354265980?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Properties of Complex Numbers</h3>
+              <p>Addition and multiplication properties of complex numbers.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354266340?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Complex Numbers and Signals</h3>
+              <p>Why complex numbers are important with examples of how they can be used to represent the relationship between signals.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354266787?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Signals in the Complex Plane</h3>
+              <p>Definition of a signal in relation to a musical note. Introduction to the complex plane and how to graph complex numbers.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354266937?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Graphing Complex Numbers</h3>
+              <p>How a signal translates to a graph of a complex number. How the amplitude of a signal translates to the magnitude of a vector.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354267514?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Displacing a Signal</h3>
+              <p>Explanation of how displacing a signal horizontally represents the angle of its corresponding vector.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354267694?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Application of Complex Numbers</h3>
+              <p>Why using complex numbers is a better way to represent signals than an X and Y plane.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354268024?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div class="video-container">
+            <div class="video-description">
+              <h3 class="video-title">Complex Numbers and Differential Equations</h3>
+              <p>General overview of how solutions to differential equations can be complex numbers.</p>
+            </div>
+            <iframe src="https://player.vimeo.com/video/354268632?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+          </div>
+
+          <div id="more-resources">
+            <h2><strong>Complex Numbers</strong>: More Resources</h2>
+            <ul>
+              <li>Khan Academy: <a href="https://www.youtube.com/watch?v=SP-YJe7Vldo">Imaginary Numbers</a></li>
+              <li><a href="https://www.youtube.com/watch?v=Z49hXoN4KWg">What are the square roots of -1?</a>
+            </ul>
+          </div>
+
+
+
+
         </div>
       </div>
     </div>
