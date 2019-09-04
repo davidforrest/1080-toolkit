@@ -38,9 +38,7 @@
   .q-a-container {
     width: 90%;
   }
-}
 
-@media only screen and (max-width: 800px) {
   #menu-container {
     width: 100%;
     display: flex;
@@ -48,9 +46,7 @@
     flex-wrap: wrap;
     overflow: auto;
   }
-}
 
-@media only screen and (max-width: 800px) {
   .menu-item {
     width: 100%;
     display: inline-block;
@@ -66,22 +62,16 @@
   .menu-item h2 {
     font-size: 24px;
   }
-}
 
-@media only screen and (max-width: 800px) {
   #toolkit-overview {
     width: 100%;
   }
-}
-  
-@media only screen and (max-width: 800px) {
+
   #toolkit-overview p {
     width: 100%;
     color: red;
   }
-}
 
-@media only screen and (max-width: 800px) {
   #top-level-block-container {
     width: 100%;
     display: flex;
@@ -89,9 +79,7 @@
     justify-content: center;
     flex-wrap: wrap;
   }
-}
 
-@media only screen and (max-width: 800px) {
   .top-level-block {
     display: inline-block;
   }
@@ -123,6 +111,7 @@
   width: 33.3333%;
   float: left;
   display: inline-block;
+  margin-bottom: 15px;
 }
 
 .menu-item h2 {
@@ -192,6 +181,14 @@
   color: white;
   letter-spacing: 1px;
 }
+
+.section-blurb {
+  /*padding-top: 70px;*/
+  /*background-color: black;
+  padding: 10px;
+  color: white;*/
+}
+
 
 .section-overview {
   width: 100%;
