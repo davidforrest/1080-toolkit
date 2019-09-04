@@ -98,6 +98,25 @@
   .top-level-block h2 {
     font-size: 28px;
   }
+
+  .video-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .video-description {
+    display: inline;
+    margin: auto;
+  }
+
+  .video-description p {
+    width: 100%;
+  }
+
+  .video-description h3 {
+    width: 100%;
+  }
 }
 
 #menu-container {
@@ -325,11 +344,12 @@ img {
 }
 
 .video-description {
+  width: 100%;
+  display: inline-block;
   padding-left: 20px;
   padding-right: 20px;
   color: black;
   float: left;
-  width: 59%;
 }
 
 .video-description h3 {
