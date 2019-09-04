@@ -5,7 +5,6 @@
 }
 
 #header {
-  background-color: #ffb347;
   height: 100px;
   margin-bottom: 8px;
   display: block;
@@ -20,53 +19,41 @@
   text-transform: none;
   font-weight: bold;
   letter-spacing: 2px;
+
 }
 
-#menu-container {
-  text-align: left;
-}
-
-.menu {
-  list-style-type: none;
-  background-color: #AF263F;
-  margin-top: 0px;
-  padding-left: 200px;
-}
-
-.menu ul {
-  list-style-type: none;
-}
-
-.menu li {
-  display: inline;
-  font-family: 'Lato', sans-serif;
-  font-size: 17.1px;
-  font-weight: bold;
-  padding-right: 24px;
-  letter-spacing: .8px;
-  text-transform: uppercase;
-  color: #CCCCCC;
-}
-
-.menu a {
+#header a {
   text-decoration: none;
-  display: inline;
-  font-family: 'Lato', sans-serif;
-  font-size: 17.1px;
-  font-weight: bold;
-  letter-spacing: .8px;
-  text-transform: uppercase;
-  color: white;
 }
 
 #content-column {
   margin: auto;
-  width: 1024px;
+  width: 800px;
 }
 
 @media only screen and (max-width: 800px) {
   #content-column {
     width: 100%;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  #menu-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow: auto;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .menu-item {
+    width: 100%;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;    
   }
 }
 
@@ -86,21 +73,15 @@
 @media only screen and (max-width: 800px) {
   #top-level-block-container {
     width: 100%;
-    height: 1000px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     flex-wrap: wrap;
-    /*overflow: auto;*/
-    background-color: black;
   }
 }
 
 @media only screen and (max-width: 800px) {
   .top-level-block {
-    width: 600px;
-    height: 200px;
-    background-color: black;
     display: inline-block;
   }
 }
@@ -114,6 +95,34 @@
 #toolkit-overview p {
   color: #707070; /*dark gray*/
   text-align: justify;
+}
+
+#menu-container {
+  height: 100px;
+  width: 100%;
+  display: inline;
+  overflow: auto;
+}
+
+.menu-item {
+  width: 33.3333%;
+  float: left;
+  display: inline-block;
+}
+
+.menu-item h2 {
+  font-weight: bold;
+  color: white;
+  letter-spacing: 2px;
+  line-height: 0.33em;
+}
+
+.home-menu-item {
+  background-color: #ffb347;
+}
+
+.home-text-item {
+  color: #ffb347;
 }
 
 .math-menu-item {
@@ -154,7 +163,7 @@
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 15px;
-  display: inline-block;
+  float: left;
 }
 
 .top-level-block h2 {
@@ -172,7 +181,7 @@
 .section-overview {
   width: 100%;
   margin-bottom: 8px;
-  padding-top: 8px;
+  padding-top: px;
   padding-bottom: 8px;
   padding-right: 8px;
   background-color: #dbe9e9; /*light teal*/
@@ -210,7 +219,7 @@
 
 .q-a-container p {
   color: #707070; /*dark gray*/
-  text-align: left;
+  text-align: justify;
 }
 
 .q-a-container li {
