@@ -280,7 +280,23 @@ p {
 li {
   font-family: 'Merriweather', serif;
   line-height: 30px;
-  margin: ;
+}
+
+
+iframe {
+  float: right;
+}
+
+img {
+  max-width: 90%;
+  margin: auto;
+  display: block;
+}
+
+.img-container {
+  text-align: center;
+  margin: auto;
+  overflow: auto;
 }
 
 .video-container {
@@ -318,9 +334,6 @@ li {
   text-align: justify;
 }
 
-iframe {
-  float: right;
-}
 
 /* Temporary class for things that need to get done still */
 .todo {
@@ -332,6 +345,7 @@ iframe {
 #more-resources {
   padding-top: 10px;
   padding-bottom: 10px;
+  margin-bottom: 50px;
   line-height: 1em;
   background-color: #707070; /*dark gray*/
   color: white;
