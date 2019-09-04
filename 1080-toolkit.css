@@ -38,9 +38,7 @@
   .q-a-container {
     width: 90%;
   }
-}
 
-@media only screen and (max-width: 800px) {
   #menu-container {
     width: 100%;
     display: flex;
@@ -48,9 +46,7 @@
     flex-wrap: wrap;
     overflow: auto;
   }
-}
 
-@media only screen and (max-width: 800px) {
   .menu-item {
     width: 100%;
     display: inline-block;
@@ -66,22 +62,16 @@
   .menu-item h2 {
     font-size: 24px;
   }
-}
 
-@media only screen and (max-width: 800px) {
   #toolkit-overview {
     width: 100%;
   }
-}
-  
-@media only screen and (max-width: 800px) {
+
   #toolkit-overview p {
     width: 100%;
     color: red;
   }
-}
 
-@media only screen and (max-width: 800px) {
   #top-level-block-container {
     width: 100%;
     display: flex;
@@ -89,9 +79,7 @@
     justify-content: center;
     flex-wrap: wrap;
   }
-}
 
-@media only screen and (max-width: 800px) {
   .top-level-block {
     display: inline-block;
   }
@@ -99,17 +87,6 @@
   .top-level-block h2 {
     font-size: 28px;
   }
-}
-
-#toolkit-overview {
-  color: #707070; /*dark gray*/
-  width: 90%;
-  margin: auto;
-}
-
-#toolkit-overview p {
-  color: #707070; /*dark gray*/
-  text-align: justify;
 }
 
 #menu-container {
@@ -123,6 +100,7 @@
   width: 33.3333%;
   float: left;
   display: inline-block;
+  margin-bottom: 15px;
 }
 
 .menu-item h2 {
@@ -196,15 +174,11 @@
 .section-overview {
   width: 100%;
   margin-bottom: 8px;
-  padding-top: px;
   padding-bottom: 8px;
-  padding-right: 8px;
-  background-color: #dbe9e9; /*light teal*/
 }
 
 .section-overview p {
-  margin-left: 100px;
-  margin-right: 100px;
+
 }
 
 .section-overview h2 {
@@ -214,6 +188,24 @@
 .section-overview a {
   color: #707070; /*dark gray*/
   text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.section-overview ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.section-overview li {
+  flex: auto;
+  display: flex;
+  padding: 8px;
 }
 
 .q-a-container {
