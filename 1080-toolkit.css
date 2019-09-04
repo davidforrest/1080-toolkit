@@ -58,6 +58,14 @@
     justify-content: center;
     flex-wrap: wrap;    
   }
+
+  #header h2 {
+    font-size: 28px;
+  }
+
+  .menu-item h2 {
+    font-size: 24px;
+  }
 }
 
 @media only screen and (max-width: 800px) {
@@ -86,6 +94,10 @@
 @media only screen and (max-width: 800px) {
   .top-level-block {
     display: inline-block;
+  }
+
+  .top-level-block h2 {
+    font-size: 28px;
   }
 }
 
