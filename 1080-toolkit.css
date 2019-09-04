@@ -327,12 +327,14 @@ img {
   background-color: #dbe9e9; /*light teal*/
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
+  align-content: center;
   flex-wrap: wrap;
 }
 
 .video-container iframe {
-  float: right;
+  margin: auto;
+  display: inline-flex;
 }
 
 .video-container p {
@@ -344,12 +346,11 @@ img {
 }
 
 .video-description {
-  width: 100%;
+  width: 59%;
   display: inline-block;
   padding-left: 20px;
   padding-right: 20px;
   color: black;
-  float: left;
 }
 
 .video-description h3 {
