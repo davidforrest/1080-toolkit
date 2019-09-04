@@ -273,10 +273,6 @@ li {
   line-height: 30px;
 }
 
-iframe {
-  float: right;
-}
-
 img {
   max-width: 90%;
   margin: auto;
@@ -290,7 +286,7 @@ img {
 }
 
 .video-container {
-  width: 660px;
+  width: 800px;
   margin: auto;
   overflow: auto;
   margin-bottom: 8px;
@@ -300,47 +296,41 @@ img {
   background-color: #dbe9e9; /*light teal*/
 }
 
+.video-container iframe {
+  float: right;
+}
+
 .video-container p {
   font-family: 'Lato', sans-serif;
   text-align: left;
+  font-size: 14px;
+  line-height: 1.25em;
   color: #707070; /*dark gray*/;
 }
 
-#player {
-  float: right;
-  height: 100px;
-}
-
 .video-description {
-  /*margin: 20px;*/
   padding-left: 20px;
   padding-right: 20px;
-
   color: black;
   float: left;
-  width: 100%;
+  width: 59%;
 }
 
 .video-description h3 {
-  text-align: left;  
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 1em;
 }
 
 .video-description p {
   text-align: justify;
 }
 
-
-/* Temporary class for things that need to get done still */
-.todo {
-  color: red;
-  font-weight: 500;
-  font-size: 30px;
-}
-
 #more-resources {
   padding-top: 10px;
   padding-bottom: 10px;
-  width: 90%;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
