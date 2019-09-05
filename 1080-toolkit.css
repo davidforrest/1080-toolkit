@@ -310,6 +310,10 @@ img {
   display: block;
 }
 
+a {
+  text-decoration: none;
+}
+
 .img-container {
   text-align: center;
   margin: auto;
@@ -362,6 +366,19 @@ img {
 
 .video-description p {
   text-align: justify;
+}
+
+.video-description ul {
+  padding-left: 10px;
+  list-style-type: none;  
+}
+
+.video-description li {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 1.5em;
+  font-weight: bold;
+  list-style-type: none;
 }
 
 #more-resources {
