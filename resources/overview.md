@@ -24,7 +24,7 @@ Final Project
 - [Week 15 - Reading Week](#reading-week)
 - [Week 16 - 1080 Fest](#1080-fest)
 
-
+---
 ## Weekly Stucture
 - Announcements
   - Weekly Update / Week Overview / Calendar
@@ -41,8 +41,8 @@ Final Project
 
 
 ---
-## Course Introduction and Overview
 Week 1 (8/31 - 9/4)
+## Course Introduction and Overview
 
 ### Calendar
 - Classes begin Weds 9/2
@@ -66,8 +66,8 @@ Week 1 (8/31 - 9/4)
    - no handout
 
 ---
-## Physics of Sound
 Week 2 (9/7 - 9/11)
+## Physics of Sound
 
 ### Calendar
 - Labor Day Holiday Monday 9/7
@@ -98,8 +98,8 @@ Week 2 (9/7 - 9/11)
 - **Intro to Prototyping I - CAD, 3D Printing**
 
 ---
-## String Instruments and the Harmonic Series
 Week 3 (9/14 - 9/18)
+## String Instruments and the Harmonic Series
 
 ### Calendar
 -
@@ -131,8 +131,8 @@ Week 3 (9/14 - 9/18)
 - **Intro to Prototyping II - Machining, 3D printing, project planning**
 
 ---
-## Frequency Analysis and Music Composition
 Week 4 (9/21 - 9/25)
+## Frequency Analysis and Music Composition
 
 ### Calendar
 -  
@@ -163,8 +163,8 @@ Week 4 (9/21 - 9/25)
 - **Working time for Acoustic Project (1 of 2)**
 
 ---
-## Vocal and Auditory Systems in Humans and Animals
 Week 5 (9/28 - 10/2)
+## Vocal and Auditory Systems in Humans and Animals
 
 ### Calendar
 -  
@@ -201,8 +201,8 @@ Week 5 (9/28 - 10/2)
 - **Working time for Acoustic Project (2 of 2)**
 
 ---
-## Wind and Percussion Instruments
 Week 6 (10/5 - 10/9)
+## Wind and Percussion Instruments
 
 ### Calendar
 -  
@@ -235,8 +235,8 @@ Week 6 (10/5 - 10/9)
 - **Sound, electricity, and the piezoelectric effect**
 
 ---
-## Room Acoustics and Music-Theoretical Systems
 Week 7 (10/12 - 10/16)
+## Room Acoustics and Music-Theoretical Systems
 
 ### Calendar
 - Columbus Day Holiday Mon 10/12
@@ -267,8 +267,8 @@ Week 7 (10/12 - 10/16)
 - **Sound Synthesizer via Arduino**
 
 ---
-## Microphones and Pickups (Transducers)
 Week 8 (10/19 - 10/23)
+## Microphones and Pickups (Transducers)
 
 ### Calendar
 -  
@@ -292,8 +292,8 @@ Week 8 (10/19 - 10/23)
 - **MIDI & Arduino**
 
 ---
-## Circuits and Synthesizers
 Week 9 (10/26 - 10/30)
+## Circuits and Synthesizers
 
 ### Calendar
 -  
@@ -324,8 +324,8 @@ Week 9 (10/26 - 10/30)
 - **Analog Synthesizers & Max/MSP**
 
 ---
-## Signals and Electronic Effects
 Week 10 (11/2 - 11/6)
+## Signals and Electronic Effects
 
 ### Calendar
 -  
@@ -358,8 +358,8 @@ Week 10 (11/2 - 11/6)
 - **Electronic Effects**
 
 ---
-## Audio Storage and Transmission
 Week 11 (11/9 - 11/13)
+## Audio Storage and Transmission
 
 ### Calendar
 -  
@@ -396,8 +396,8 @@ Week 11 (11/9 - 11/13)
 - **Working Time for Electronic Composition (2 of 2)**
 
 ---
-## Amplifiers and Speakers
 Week 12 (11/16 - 11/20)
+## Amplifiers and Speakers
 
 ### Calendar
 -  
@@ -428,8 +428,8 @@ Week 12 (11/16 - 11/20)
 
 
 ---
-## Audio Fingerprinting and Music Copyright
 Week 13 (11/23 - 11/27)
+## Audio Fingerprinting and Music Copyright
 
 ### Calendar
 - Thanksgiving Recess Wed-Sun 11/25-11/29
@@ -454,8 +454,8 @@ Week 13 (11/23 - 11/27)
 - **Working time for Final Project (2 of 3)**
 
 ---
-## Engineering in Music Culture and Practice
 Week 14 (11/30 - 12/4) Final week of lectures
+## Engineering in Music Culture and Practice
 
 ### Calendar
 - Last Day of Classes Thurs 12/3
@@ -488,8 +488,8 @@ Week 14 (11/30 - 12/4) Final week of lectures
 - **Working time for Final Project (3 of 3)**
 
 ---
-## Reading Week
 Week 15 (12/7 - 12/11)
+## Reading Week
 
 ### Calendar
 - Reading Period through Weds 12/9
@@ -502,8 +502,8 @@ Week 15 (12/7 - 12/11)
 -  
 
 ---
-## 1080 Fest
 Week 16 (12/14 - 12/18)
+## 1080 Fest
 
 ### Calendar
 - Final Exam Period ends Sat 12/19
