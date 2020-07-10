@@ -25,7 +25,7 @@ Final Project
 - [Week 16 - 1080 Fest](#1080-fest)
 
 ---
-## Weekly Stucture
+## Weekly Structure
 - Sync:
   - **Watch Party** (small groups)
   - **Reading Group** (small groups)
