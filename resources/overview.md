@@ -26,18 +26,23 @@ Final Project
 
 ---
 ## Weekly Stucture
-- Announcements
-  - Weekly Update / Week Overview / Calendar
-  - Acoustic, Electronic, Final Projects
-- **Sync #1: Class Meeting (large group)**
-  - **Reading Assignment** (+ Framing Questions)
-  - **Viewing Assignment** (+ Framing Questions)
-  - **Activity** (Apply lesson content)
-  - **Quiz** based on Framing Questions
-- **Sync #2: Lab Meeting (sections)**
-  - **Lab Assignment**
-- **Semi-sync: Small group hangout**
-- Office Hours, Staff Support, Discussion Threads
+- Sync:
+  - **Watch Party** (small groups)
+  - **Reading Group** (small groups)
+  - **Lab Meeting** (sections)
+
+
+- Course Content:
+  - **Lesson Videos** (during Watch Party)
+  - **Readings** (prior to Reading Group)
+  - **Explorable Activity** (prior to Reading Group)
+  - **Lab Assignment** (prior to Lab Meeting, includes **Instrument Build Prompts**)
+
+
+- Supplemental
+  - **Weekly Update** (Week Overview, Calendar, Announcements)
+  - **Discussion Questions** for lesson videos and readings (set up expectations for Reading Group)
+  - **Async Support** (Office Hours, Staff Support, Discussion Threads)
 
 
 ---
