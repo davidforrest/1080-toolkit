@@ -6,9 +6,9 @@
 
 ## Activity Sketches
 
-- [Measuring Resistance](activities/measuring-resistance/measuring-resistance.md) (Circuits)
+- [Measuring Resistance](measuring-resistance/measuring-resistance.md) (Circuits)
 
-- [Water Analogy](activities/water-analogy/water-analogy.md) (Circuits)
+- [Water Analogy](water-analogy/water-analogy.md) (Circuits)
 
 ## Inspiration
 
