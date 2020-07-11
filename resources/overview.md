@@ -55,10 +55,10 @@ Week 1 (8/31 - 9/4)
 ### Announcements
 - Intro Survey
 
-### Reading Assignment
+### Readings
 - none
 
-### Viewing Assignment
+### Lesson Videos
 - **Introduction and Course Description**
   - Past info
     - F19 given Tues 9/3 (Lecture 1)
@@ -66,7 +66,7 @@ Week 1 (8/31 - 9/4)
 
 ### Activities
 
-### Lab
+### Lab Assignment
 - **Introduction to Computational Tools**
    - no handout
 
@@ -80,10 +80,10 @@ Week 2 (9/7 - 9/11)
 
 ### Announcements
 
-### Reading Assignment
+### Readings
 - What is Sound?
 
-### Viewing Assignment
+### Lesson Videos
 - **What is sound? (Part 1 of 2)**
   - Past info
     - F19 given: Thurs 9/5 (Lecture 2)
@@ -99,7 +99,7 @@ Week 2 (9/7 - 9/11)
 - Jupyter Notebook: Beating Example
 - Jupyter Notebook: Visualizing Sound (formerly WaveCam)
 
-### Lab
+### Lab Assignment
 - **Intro to Prototyping I - CAD, 3D Printing**
 
 ---
@@ -112,10 +112,10 @@ Week 3 (9/14 - 9/18)
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 - Vibrating Systems
 
-### Viewing Assignment
+### Lesson Videos
 - **Instruments I (Strings)**
   - Past info
     - F19 given: Thurs 9/12 (Lecture 4)
@@ -132,7 +132,7 @@ Week 3 (9/14 - 9/18)
 - Jupyter Notebook: Chirps-Spectogram
 - Jupyter Notebook: Vibrations
 
-### Lab
+### Lab Assignment
 - **Intro to Prototyping II - Machining, 3D printing, project planning**
 
 ---
@@ -145,10 +145,10 @@ Week 4 (9/21 - 9/25)
 ### Announcements
 - Acoustic Project Announced
 
-### Reading Assignment
+### Readings
 - Scales, Tuning, and Intonation
 
-### Viewing Assignment
+### Lesson Videos
 - **Time/Frequency Analysis**
   - Past info
     - F19 given: Thurs 9/26 (Lecture 8)
@@ -164,7 +164,7 @@ Week 4 (9/21 - 9/25)
   - Jupyter Notebook: System Analysis
   - Jupyter Notebook: Spectrum / Synthesis Analysis (duplicate?)
 
-### Lab
+### Lab Assignment
 - **Working time for Acoustic Project (1 of 2)**
 
 ---
@@ -177,10 +177,10 @@ Week 5 (9/28 - 10/2)
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 - Human Hearing
 
-### Viewing Assignment
+### Lesson Videos
 - **Voice as an Instrument**
   - Past info
     - **GUEST** (Mass Eye and Ear)
@@ -202,7 +202,7 @@ Week 5 (9/28 - 10/2)
 ### Activities
 - Jupyter Notebook: Auto-compose
 
-### Lab
+### Lab Assignment
 - **Working time for Acoustic Project (2 of 2)**
 
 ---
@@ -215,10 +215,10 @@ Week 6 (10/5 - 10/9)
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 - Pipes and Plates
 
-### Viewing Assignment
+### Lesson Videos
 - **Instruments III (Pipes)**
   - Past info
     - **GUEST** (Skinner Organs)
@@ -236,7 +236,7 @@ Week 6 (10/5 - 10/9)
 
 ### Activities
 
-### Lab
+### Lab Assignment
 - **Sound, electricity, and the piezoelectric effect**
 
 ---
@@ -250,10 +250,10 @@ Week 7 (10/12 - 10/16)
 - Acoustic Instrument and Composition Due
 - Room Acoustics Assignment announced
 
-### Reading Assignment
+### Readings
 - Room Acoustics
 
-### Viewing Assignment
+### Lesson Videos
 - **Room Acoustics**
   - Past info
     - F19 given: Tues 10/15 (Lecture 13)
@@ -268,7 +268,7 @@ Week 7 (10/12 - 10/16)
 
 ### Activities
 
-### Lab
+### Lab Assignment
 - **Sound Synthesizer via Arduino**
 
 ---
@@ -282,10 +282,10 @@ Week 8 (10/19 - 10/23)
 - Room Acoustics Assignment Due
 - Final Project Preliminary Proposal Announced
 
-### Reading Assignment
+### Readings
 - Sound Transducers
 
-### Viewing Assignment
+### Lesson Videos
 - **Transducers**
   - Past info
     - F19 given: Tues 10/22 (Lecture 15)
@@ -293,7 +293,7 @@ Week 8 (10/19 - 10/23)
 
 ### Activities
 
-### Lab
+### Lab Assignment
 - **MIDI & Arduino**
 
 ---
@@ -306,10 +306,10 @@ Week 9 (10/26 - 10/30)
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 - Circuit Analysis
 
-### Viewing Assignment
+### Lesson Videos
 - **Circuits for Musicians I**
   - Past info
     - F19 given: Thurs 10/24 (Lecture 16)
@@ -325,7 +325,7 @@ Week 9 (10/26 - 10/30)
 ### Activities
 - Jupyter Notebook: Circuits
 
-### Lab
+### Lab Assignment
 - **Analog Synthesizers & Max/MSP**
 
 ---
@@ -338,10 +338,10 @@ Week 10 (11/2 - 11/6)
 ### Announcements
 - Final Project Preliminary Proposal Due
 
-### Reading Assignment
+### Readings
 - Sampling and Audio to Digital Conversion (ADC)
 
-### Viewing Assignment
+### Lesson Videos
 - **Signals & Systems I (Continuous)**
   - Past info
     - F19 given: Thurs 10/31 (Lecture 18)
@@ -358,7 +358,7 @@ Week 10 (11/2 - 11/6)
 ### Activities
 - Jupyter Notebook: Impulse Response
 
-### Lab
+### Lab Assignment
 - **Working Time for Electronic Composition (1 of 2)**
 - **Electronic Effects**
 
@@ -372,10 +372,10 @@ Week 11 (11/9 - 11/13)
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 - Digital to Analog Conversion (DAC)
 
-### Viewing Assignment
+### Lesson Videos
 - **How Music is Stored I (Analog)**
   - Past info
     - F19 given: Thurs 11/7 (Lecture 20)
@@ -397,7 +397,7 @@ Week 11 (11/9 - 11/13)
 - Jupyter Notebook: Compression-
 - Jupyter Notebook: Amplitude Modulation
 
-### Lab
+### Lab Assignment
 - **Working Time for Electronic Composition (2 of 2)**
 
 ---
@@ -410,10 +410,10 @@ Week 12 (11/16 - 11/20)
 ### Announcements
 - Electronic Instrument and Composition Due
 
-### Reading Assignment
+### Readings
 - Amplifiers
 
-### Viewing Assignment
+### Lesson Videos
 - **Playback I (Amplification)**
   - Past info
     - **GUEST** (Claire Chase)
@@ -428,7 +428,7 @@ Week 12 (11/16 - 11/20)
 
 ### Activities
 
-### Lab
+### Lab Assignment
 - **Working time for Final Project (1 of 3)**
 
 
@@ -442,10 +442,10 @@ Week 13 (11/23 - 11/27)
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 -  
 
-### Viewing Assignment
+### Lesson Videos
 - **How Music is Transmitted (Partial)**
   - Past info
     - F19 given: Thurs 11/14 (Lecture 22)
@@ -455,7 +455,7 @@ Week 13 (11/23 - 11/27)
     - Jupyter Notebook: Amplitude Modulation
     - Jupyter Notebook: Audio Fingerprinting
 
-### Lab
+### Lab Assignment
 - **Working time for Final Project (2 of 3)**
 
 ---
@@ -469,10 +469,10 @@ Week 14 (11/30 - 12/4) Final week of lectures
 ### Announcements
 -  
 
-### Reading Assignment
+### Readings
 -  
 
-### Viewing Assignment
+### Lesson Videos
 - **Applications of Sound in Technology (Part 1)**
   - Past info
     - **GUEST** (Yo-Yo Ma)
@@ -489,7 +489,7 @@ Week 14 (11/30 - 12/4) Final week of lectures
 
 ### Activities
 
-### Lab
+### Lab Assignment
 - **Working time for Final Project (3 of 3)**
 
 ---
@@ -503,7 +503,7 @@ Week 15 (12/7 - 12/11)
 ### Announcements
 - Final Project Due
 
-### Reading Assignment
+### Readings
 -  
 
 ---
