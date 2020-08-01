@@ -15,13 +15,28 @@ This page is **heavily under construction** and still contains plenty of copy fr
 
 <iframe src="//player.vimeo.com/video/348453269?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" width="425" height="350" allowfullscreen="allowfullscreen"></iframe>
 
-How does Shazam know what song is playing? Why do some rooms have better acoustics than others? How and why do singers harmonize? Do high-end musical instruments sound better than cheap ones? How do electronic synthesizers work? What processes are common in designing a device and composing a piece of music? How is music stored and manipulated in a digital form? This class explores these and related themes in an accessible way for all concentrators, regardless of technical background. The class is driven by hands-on projects to enhance your technical literacy, a critical skill for anyone designing solutions to today’s most pressing and complex issues. The projects are designed so that the creativity of students in all fields will have a role to play. Lectures, demonstrations, and guest lecturers/performers are integrated into the class to build foundational knowledge and to inspire. We will also explore wider social and historical themes related to music and acoustics. The class is approached from an engineering perspective, using music and musical instruments as the framework to introduce a broad array of concepts in physics, mathematics, and engineering. Requires no previous exposure to physics or calculus beyond the high school level.
+How does Shazam know what song is playing? Why do some rooms have better acoustics than others? How and why do singers harmonize? Do high-end musical instruments sound better than cheap ones? How do electronic synthesizers work? What processes are common in designing a device and composing a piece of music? How is music stored and manipulated in a digital form? This class explores these and related themes in an accessible way for all concentrators, regardless of technical background.
 
-The course will be divided into two main topics: the first half of the course will deal with mechan-ical/analog musical phenomena and instruments.  The second half will explore electrical effects,instruments, playback, and music storage. We will reserve a short time at the end of the course forshort discussions on applications of sound in technology.
+The class is driven by hands-on projects to enhance your technical literacy, a critical skill for anyone designing solutions to today’s most pressing and complex issues. The projects are designed so that the creativity of students in all fields will have a role to play. Lectures, demonstrations, and guest lecturers/performers are integrated into the class to build foundational knowledge and to inspire. We will also explore wider social and historical themes related to music and acoustics. The class is approached from an engineering perspective, using music and musical instruments as the framework to introduce a broad array of concepts in physics, mathematics, and engineering. No prior experience beyond high school level calculus and physics is required. Experience with a musical instrument (including voice) is a plus, but is also not required.
 
-### Prerequisite
-High school level calculus and physics;
-experience with a musical instrument (including voice) is a plus but not required.
+### Acoustic and Electronic Builds
+
+The course is divided into two main topics: the first half of the course explores analog and mechanical musical instruments and phenomena; the second half explores electronics, including electrical effects, instruments, playback, and music storage.
+
+The acoustic and electronic topics each culminate in an opportunity to design and build an musical instrument, and to create an original composition related to the unique characteristics of your instrument.
+
+### Final Project and 1080 Fest
+
+<iframe src="//player.vimeo.com/video/384793562?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" width="425" height="350" allowfullscreen="allowfullscreen"></iframe>
+
+The semester culminates in a collaborative final project and a science-fair-meets-music-festival called *1080 Fest* to showcase your work.
+
+Final project topics are open-ended, but generally involve one or more of the following:
+- design, fabrication, and analysis of a musical device or system (in either software or hardware);
+- musical composition using principles discussed in class; and/or
+- exploration of a historical or scientific musical event or phenomena.
+
+The acoustic, electronic, and final projects bring together the technical and creative skills you've gained throughout the semester. You're encouraged to let your curiosity guide you and to take advantage of the varied expertise of the teaching staff!
 
 
 <br>
@@ -66,17 +81,6 @@ Labs are 75 minutes and will be held at the times listed below. Lab attendance i
 Unless otherwise notified, all labs will be held in **Maxwell Dworkin, room B127**
 
 
-### Final Project (inst builds & fest)
-
-Students must complete a final project (see Assignments for details). This will conclude with a presentation that will take the place during the time allotted for the GENED 1080 final exam (since there is no final exam for this class): Wednesday, December 11 at 2:00pm (room TBA).
-
-Towards  the  end  of  the  semester,  groups  of  students  will  participate  in  a  collaborative  project related to the topics we have explored in the course. This is open-ended, but will generally involve one or more of the following topics:
-- design, fabrication, and analysis of a musical device or system (in either software or hard-ware);
-- composition using principles discussed in class; and/or
-- the exploration of a historical or scientific musical event or phenomena.
-
-It is expected that each member of the group will successfully contribute to the project as a whole, depending on their expertise and/ or area of interest. Groups will be expected to present periodic updates throughout the latter portion of the semester, as well as create a final demonstration and report on their project. More details will be provided later in the course. In past offerings of the course, the final project has been a highlight and we encourage you to let your curiosity guide you and take advantage of the varied expertise of the teaching staff!
-
 ### Course website
 Please use the course website on Canvas as your first resource for course materials and communications.  Updates will be made daily as appropriate – it is essential that you check the website periodically.  Posts will include lecture notes, interesting websites, course announcements, hand-outs, exercises and assignments, as well as info on the various tools used in the class. We will be using a Jupyter hub (Python) on Canvas with pre-cooked code for you to explore various topics we introduce in class. No coding experience is necessary. Your experience with Python will be guided by your interest to learn more about it.
 
@@ -89,33 +93,74 @@ Please use the course website on Canvas as your first resource for course materi
 
 ### Instructor
 
-Robert Wood  
+**Robert Wood**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rob.jpg" width="50"/>  
 <a href="rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>   
 Office Hours: by appointment  
 Office: Maxwell Dworkin 149
 
 ### TFs
 
-- Rachel Zoll <a href="mailto:rachelzoll@g.harvard.edu">rachelzoll@g.harvard.edu</a>  
-- Sophia TenHuisen <a href="mailto:stenhuisen@g.harvard.edu">stenhuisen@g.harvard.edu</a>  
-- Ethan Schumann <a href="mailto:eschumann@g.harvard.edu">eschumann@g.harvard.edu</a>  
-- Shravan Nageswaran <a href="mailto:snageswaran@g.harvard.edu">snageswaran@g.harvard.edu</a>  
-- Spandan Madan <a href="mailto:spandan_madan@g.harvard.edu">spandan_madan@g.harvard.edu</a>  
-- Mark Lock <a href="mailto:yienhaolock@g.harvard.edu">yienhaolock@g.harvard.edu</a>  
-- Nupur Gurjar <a href="mailto:nupur_gurjar@mde.harvard.edu">nupur_gurjar@mde.harvard.edu</a>  
-- David Forrest (Head TF) <a href="mailto:dforrest@g.harvard.edu">dforrest@g.harvard.edu</a>  
-- New TF (RSTF)
+**Rachel Zoll**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rachel.jpg" width="50"/>  
+<a href="mailto:rachelzoll@g.harvard.edu">rachelzoll@g.harvard.edu</a>  
+
+**Sophia TenHuisen**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/sophia.jpg" width="50"/>  
+<a href="mailto:stenhuisen@g.harvard.edu">stenhuisen@g.harvard.edu</a>  
+
+**Ethan Schumann**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<a href="mailto:eschumann@g.harvard.edu">eschumann@g.harvard.edu</a>  
+
+**Spandan Madan**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/spandan.jpg" width="50"/>  
+<a href="mailto:spandan_madan@g.harvard.edu">spandan_madan@g.harvard.edu</a>  
+
+**Mark Lock**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/mark.jpg" width="50"/>  
+<a href="mailto:yienhaolock@g.harvard.edu">yienhaolock@g.harvard.edu</a>  
+
+**Nupur Gurjar**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/nupur.jpg" width="50"/>  
+<a href="mailto:nupur_gurjar@mde.harvard.edu">nupur_gurjar@mde.harvard.edu</a>  
+
+**David Forrest** (Head TF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/david.jpg" width="50"/>  
+<a href="mailto:dforrest@g.harvard.edu">dforrest@g.harvard.edu</a>
+
+**New TF** (Lab TF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+
+**New TF** (RSTF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
 
 ### Active Learning Labs
 
-- Elaine Kristant<a href="mailto:ekristant@g.harvard.edu">ekristant@g.harvard.edu</a>  
-- Xuan Liang <a href="mailto:xuan@seas.harvard.edu">xuan@seas.harvard.edu</a>  
+**Elaine Kristant**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<a href="mailto:ekristant@g.harvard.edu">ekristant@g.harvard.edu</a>  
+
+**Xuan Liang**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<a href="mailto:xuan@seas.harvard.edu">xuan@seas.harvard.edu</a>  
 
 ### SEAS Design and Innovation  
-- Salma Abu Ayyash <a href="mailto:salma@g.harvard.edu">salma@g.harvard.edu</a>  
-- Kelly Miller <a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>  
-- Jim MacArthur <a href="mailto:jmacarth@g.harvard.edu">jmacarth@g.harvard.edu</a>  
-- Munib Wober <a href="mailto:mwober@seas.harvard.edu">mwober@seas.harvard.edu</a>  
+**Salma Abu Ayyash**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/salma.jpg" width="50"/>  
+<a href="mailto:salma@g.harvard.edu">salma@g.harvard.edu</a>  
+
+**Kelly Miller**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>  
+
+**Jim MacArthur**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/jim.jpg" width="50"/>  
+<a href="mailto:jmacarth@g.harvard.edu">jmacarth@g.harvard.edu</a>  
+
+**Munib Wober**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/munib.jpg" width="50"/>  
+<a href="mailto:mwober@seas.harvard.edu">mwober@seas.harvard.edu</a>  
 
 
 <br>
@@ -148,7 +193,7 @@ Students needing academic adjustments or accommodations should speak with the co
 
 **Acoustics**
 - [Week 1 - Introduction and Physics of Sound](#introduction-and-physics-of-sound)
-- [Week 2 - Physics of Sound (Part 2)](#physics-of-sound-part-)
+- [Week 2 - Physics of Sound (Part 2)](#physics-of-sound-part-2-)
 - [Week 3 - String Instruments and the Harmonic Series](#string-instruments-and-the-harmonic-series)
 - [Week 4 - Frequency Analysis and Music Composition](#frequency-analysis-and-music-composition)
 - [Week 5 - Vocal and Auditory Systems in Humans and Animals](#vocal-and-auditory-systems-in-humans-and-animals)
