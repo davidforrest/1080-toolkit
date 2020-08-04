@@ -1,0 +1,8 @@
+﻿Steps to fix the Chirps-Spectrogram notebook:
+ 
+1. Open the GENED1080 Jupyterhub via Canvas
+2. Go to the Chirps-Spectrogram directory 
+3. Click on the ‘New’ button and select ‘Terminal”
+4. In the new terminal window type 
+"cp thinkdsp.py usr/share/miniconda3/lib/python3.7/site-packages”
+4. When done, x-out of that window and go back to original window with Chirps-Spectrogram directory to run the notebook
