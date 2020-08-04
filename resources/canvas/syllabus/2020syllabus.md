@@ -7,7 +7,7 @@ Changes tracked [here](https://github.com/davidforrest/1080-toolkit/commits/mast
 ## Welcome to GenEd 1080!
 
 - [Course Overview](#course-overview)
-- [Weekly Structure](#weekly-structure)
+- [Remote Weekly Structure](#remote-weekly-structure)
 - [Your Teaching Staff](#your-teaching-staff)
 - [Grading and Course Policies](#grading-and-course-policies)
 - [Semester Schedule](#semester-schedule)
@@ -49,25 +49,32 @@ The acoustic, electronic, and final projects bring together the technical and cr
 ##### [↑ Back to top](#welcome-to-gened-1080-)
 
 ---
-## Weekly Structure
+## Remote Weekly Structure
 
-[Rob's Remote Learning Video]
+<br>
 
-You can think of each week as a vinyl record (stay tuned for much more on vinyl in [Week 11](#audio-storage-and-transmission)).
+<iframe src="https://drive.google.com/file/d/1GEuqyZCiOO_5fS3ZV4NLVucUz4jS0E2r/preview" width="425" height="239.06" allowfullscreen="allowfullscreen"></iframe>
 
-Each week's topic, like "Physics of Sound," or "Circuits and Synthesizers," is like an album:
+<br>
+
+You can think of each week of GenEd 1080 as a vinyl record (stay tuned for much more on vinyl in [Week 11](#audio-storage-and-transmission)).
+
+The week's topic, like "Physics of Sound," or "Circuits and Synthesizers," is like an album with two sides:
 - On **Side A** you'll find everything for our **Class Meeting**, and
 - On **Side B**, you'll find everything for **Lab Sections**.
 
 Each side starts out with tracks you listen to on your own, and ends with tracks we listen to as a group. So here's how the week looks:
 
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_sketch.jpg" alt="The week as a record" width="660"/>
+###### (New illustration coming soon!)
+
+<br>
 
 ### Side A - Listen on your own
 
 During the weekend before the start of the week, you listen on your own to the opening tracks of Side A. These will be things like **lesson videos**, **readings**, **explorables**, and **interesting websites** about the week's topic.
 
-All these materials will be available on the GenEd 1080 Canvas Site (the site you're looking at right now). Canvas will be the central hub for staying on track, so be sure to check in regularly for course [announcements](https://canvas.harvard.edu/courses/75224/announcements)!
+All these materials will be available on the GenEd 1080 Canvas Site (the site you're looking at right now). Canvas will be the central hub for staying on track (pun intended), so be sure to drop in (pun intended) regularly for [course announcements](https://canvas.harvard.edu/courses/75224/announcements)!
 
 <br>
 
@@ -83,7 +90,7 @@ Depending on your time zone and schedule, you have the option to **sign up for (
 
 ### Side B - Listen on your own
 
-During the early part of the week, flip the record over and start digging into the week's **lab activity**. Everyone in the class will receive a **lab swag kit** by mail, full of instrument parts, electronic components, a prototyping board, tools, cables, drum sticks, and everything else you need to be a mad scientist-musician at home.
+During the early part of the week, we'll flip the record over and start digging into the week's **lab activity**. Everyone in the class will receive a **lab swag kit** by mail, full of instrument parts, electronic components, a prototyping board, tools, cables, drum sticks, and everything else you need to be a mad scientist-musician at home.
 
 The first track on Side B will be instructions for building the week's project, which you'll complete on your own (or with your friends) during the middle of the week.
 
@@ -113,13 +120,19 @@ All throughout the week, there will be ongoing discussions and support on the **
 
 <br>
 
-### Instructor
+### Instructors
 
 **Robert Wood**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rob.jpg" width="50"/>  
 <a href="rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>   
 Office Hours: by appointment  
 Office: Maxwell Dworkin 149
+
+<br>
+
+**Kelly Miller**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>
 
 <br>
 
@@ -196,12 +209,6 @@ I'm a second year PhD student in SEAS with broad interests across CAD modeling/s
 **Salma Abu Ayyash**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/salma.jpg" width="50"/>  
 <a href="mailto:salma@g.harvard.edu">salma@g.harvard.edu</a>  
-
-<br>
-
-**Kelly Miller**  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
-<a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>  
 
 <br>
 
