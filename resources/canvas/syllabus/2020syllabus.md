@@ -12,11 +12,11 @@
 
 ## Shopping Week & Enrollment Lottery
 
-Thanks for joining us as we explore the connections between two very different sides of the human experience: our expression through music, and our ability to design and engineer aspects of the world around us.
+Thanks for joining us as we explore connections between two very different sides of the human experience: our expression through music, and our ability to design and engineer aspects of the world around us.
 
-To get a feel for the course, here are a few things you can do during shopping week:
+Here are a few things you can do to get a feel for the course during shopping week:
 
-- Browse through **this syllabus** to get an overview of the course topics and structure
+- Browse through the **syllabus** (which you're reading right now) to get an overview of the course's topics and structure
 - Watch the **course trailer** and **1080 Fest trailer** in the [Course Overview](#course-overview) section below
 - Watch the [Intro Lesson](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a#) to start diving into the material, and then dive even deeper into [Physics of Sound I](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)
 
@@ -24,13 +24,13 @@ To get a feel for the course, here are a few things you can do during shopping w
 
 **If you'd like to enroll** in GenEd 1080, here's what to do:
 
-- Since the course has a limit on how many students can enroll, the first thing you need to do is **submit a petition** through your Crimson Cart on my.harvard.
-- This petition is your ticket into the GenEd enrollment lottery, and must be submitted **by 11:59pm EDT on Friday, August 21st**. This is very important, because without a petition, GenEd won't know to include you in the lottery!
-- GenEd will run the **lottery on Monday, August 24th**, and shortly thereafter, you will see either a green checkmark or a red "X" for the course in your Crimson Cart, indicating your approval to enroll in the course.
-- If you see a green checkmark, you've won the lottery! BUT you **must still enroll** through my.harvard before the enrollment deadline of **11:59pm EDT on Wednesday, August 26th**.
-- If we still have spots open after the 26th, anyone who wasn't approved in the lottery but still wishes to enroll can re-petition to add the course.
+- Since this course has a limit on how many students can enroll, the first thing you need to do is **submit a petition** through your Crimson Cart on my.harvard.
+- This petition is your ticket into the GenEd enrollment lottery, and must be submitted **by 11:59pm (Boston time) on Friday, August 21st**. This is very important, because without a petition, GenEd won't know to include you in the lottery!
+- GenEd will run the **lottery on Monday, August 24th**, and shortly thereafter, you will see either a green checkmark or a red "x" for the course in your Crimson Cart, indicating whether you're approved to enroll in the course.
+- If you see a green checkmark, you've won the lottery! BUT you **must still enroll** through my.harvard before the enrollment deadline of **11:59pm (Boston time) on Wednesday, August 26th**.
+- If we still have some spots open after the 26th, anyone who wasn't approved in the lottery but still wishes to enroll can re-petition to add the course.
 
-We've expanded the course's enrollment quite a bit from last year so that more people who want to enroll will be able to. If you're dedicated to joining the course, be sure to stay on track with the material, and you can always reach out to the course staff by email or on [Slack](https://canvas.harvard.edu/courses/75224/external_tools/63266)
+We've expanded the course's enrollment quite a bit from last year so that more people who want to enroll will be able to. If you're dedicated to joining the course, be sure to stay on track with the material, and you can always reach out to the course staff by email or on the [GenEd 1080 Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266)
 
 If you have questions about the enrollment lottery, GenEd is keeping [this webpage](gened.fas.harvard.edu/fall-2020) up to date with the latest info and FAQs, and you can also <a href="gened_enrollment@fas.harvard.edu">email GenEd</a> with any questions you have.
 
@@ -97,15 +97,15 @@ Each side starts out with tracks you listen to on your own, and ends with tracks
 
 <br>
 
-### Side A - Class Prep (on your own)
+### Side A - Listen on your own (Class Prep)
 
-During the weekend before the start of the week, you listen on your own to the opening tracks of Side A. These will be things like **lesson videos**, **readings**, **explorables**, and **interesting websites** about the week's topic.
+During the weekend (before the week starts), you listen on your own to the opening tracks of Side A. These will be things like **lesson videos**, **readings**, **explorables**, and **interesting websites** about the week's topic.
 
-All these materials will be available on the GenEd 1080 Canvas Site (the site you're looking at right now). Canvas will be the central hub for staying on track (pun intended), so be sure to drop in (pun intended) regularly for [course announcements](https://canvas.harvard.edu/courses/75224/announcements)!
+All these materials will be available on the GenEd 1080 Canvas Site (the site you're looking at right now). Canvas will be our central hub for staying on track (pun intended), so be sure to drop in (pun intended) regularly for [course announcements](https://canvas.harvard.edu/courses/75224/announcements)!
 
 <br>
 
-### Side A - Class Meeting (large group)
+### Side A - Listen together (Class Meeting)
 
 Then, on Mondays, we'll come together as a group on Zoom. Here, Prof. Wood and the teaching staff will lead **discussions**, **group activities**, **demos**, host **special guests**, and dive into some **deep cuts** to close out Side A.
 
@@ -115,7 +115,7 @@ Depending on your time zone and schedule, you have the option to **sign up for (
 
 <br>
 
-### Side B - Lab Prep (on your own)
+### Side B - Listen on your own (Lab Prep)
 
 During the early part of the week, we'll flip the record over and start digging into the week's **lab build**. Everyone in the class will receive a **lab swag kit** by mail, full of instrument parts, electronic components, a prototyping board, tools, cables, drum sticks, and everything else you need to be a mad scientist-musician at home.
 
@@ -125,7 +125,7 @@ During the Acoustic, Electronic, and Final Project builds, this will be time for
 
 <br>
 
-### Side B - Lab Meeting (small groups)
+### Side B - Listen together (Lab Meetings)
 
 Toward the end of the week, we'll come back together in **lab sections** to troubleshoot what you've built, brainstorm ideas and modifications, and squeeze all the knowledge and experience you can out of your wildly brilliant and interesting lab TFs.
 
@@ -135,7 +135,7 @@ Lab sections are scheduled at the beginning of the semester, and are determined 
 
 ### Extended Play
 
-All throughout the week, there will be ongoing discussions and support on the **GenEd 1080 Slack channel**, where you can get nearly round-the-clock help from a member of the course staff, join a video watch party, or hang out with your TF and watch YouTube videos about nerdy music things.
+All throughout the week, there will be ongoing discussions and support on the [GenEd 1080 Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266), where you can get nearly round-the-clock help from a member of the course staff, join a video watch party, or hang out with your TF and watch YouTube videos about nerdy music things.
 
 
 <br>
@@ -306,9 +306,10 @@ Students needing academic adjustments or accommodations should speak with the co
 - [Week 16 - 1080 Fest](#1080-fest)
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week1.png" width="50" />
 
 ### Introduction and Physics of Sound (Part 1)
-Week 1 (8/31 - 9/4)
+Week 1 (8/31 - 9/4)</p>
 
 <br>
 
@@ -332,6 +333,8 @@ Side B (Lab)
 <br>
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week2.png" width="50" />
+
 ### Physics of Sound (Part 2)
 Week 2 (9/7 - 9/11)
 
@@ -363,6 +366,8 @@ Side B (Lab)
 <br>
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week3.png" width="50" />
+
 ### String Instruments and the Harmonic Series
 Week 3 (9/14 - 9/18)
 
@@ -388,6 +393,8 @@ Side B (Lab)
 <br>
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week4.png" width="50" />
+
 ### Frequency Analysis and Music Composition
 Week 4 (9/21 - 9/25)
 
@@ -413,6 +420,8 @@ Side B (Lab)
 <br>
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week5.png" width="50" />
+
 ### Vocal and Auditory Systems in Humans and Animals
 Week 5 (9/28 - 10/2)
 
@@ -438,6 +447,8 @@ Side B (Lab)
 <br>
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week6.png" width="50" />
+
 ### Wind and Percussion Instruments
 Week 6 (10/5 - 10/9)
 
@@ -464,6 +475,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week7.png" width="50" />
+
 ### Room Acoustics and Speculative Systems
 Week 7 (10/12 - 10/16)
 
@@ -492,6 +505,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week8.png" width="50" />
+
 ### Microphones and Pickups (Transducers)
 Week 8 (10/19 - 10/23)
 
@@ -518,6 +533,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week9.png" width="50" />
+
 ### Circuits and Synthesizers
 Week 9 (10/26 - 10/30)
 
@@ -544,6 +561,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week10.png" width="50" />
+
 ### Signals and Electronic Effects
 Week 10 (11/2 - 11/6)
 
@@ -570,6 +589,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week11.png" width="50" />
+
 ### Audio Storage and Transmission
 Week 11 (11/9 - 11/13)
 
@@ -598,6 +619,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week12.png" width="50" />
+
 ### Amplifiers and Speakers
 Week 12 (11/16 - 11/20)
 
@@ -624,6 +647,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week13.png" width="50" />
+
 ### Audio Fingerprinting and Music Copyright
 Week 13 (11/23 - 11/27)
 
@@ -649,6 +674,8 @@ Side B (Lab)
 <br>
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week14.png" width="50" />
+
 ### Engineering in Music Culture and Practice
 Week 14 (11/30 - 12/4) Final week of lectures
 
@@ -676,6 +703,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week15.png" width="50" />
+
 ### Reading Week
 Week 15 (12/7 - 12/11)
 
@@ -703,6 +732,8 @@ Side B (Lab)
 
 
 ---
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week16.png" width="50" />
+
 ### 1080 Fest
 Week 16 (12/14 - 12/18)
 
