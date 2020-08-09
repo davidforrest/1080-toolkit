@@ -1,7 +1,3 @@
-This page is **heavily under construction** and still contains plenty of copy from last year!  
-
-Changes tracked [here](https://github.com/davidforrest/1080-toolkit/commits/master/resources/canvas).
-
 <img src="https://gened1080.bok.tools/resources/canvas/media/1080_logo.jpg" alt="1080 logo" width="440"/>
 
 ## Welcome to GenEd 1080!
@@ -11,6 +7,38 @@ Changes tracked [here](https://github.com/davidforrest/1080-toolkit/commits/mast
 - [Your Teaching Staff](#your-teaching-staff)
 - [Grading and Course Policies](#grading-and-course-policies)
 - [Semester Schedule](#semester-schedule)
+
+<br>
+
+## Shopping Week & Enrollment Lottery
+
+Thanks for joining us as we explore the connections between two very different sides of the human experience: our expression through music, and our ability to design and engineer aspects of the world around us.
+
+To get a feel for the course, here are a few things you can do during shopping week:
+
+- Browse through **this syllabus** to get an overview of the course topics and structure
+- Watch the **course trailer** and **1080 Fest trailer** in the [Course Overview](#course-overview) section below
+- Watch the [Intro Lesson](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a#) to start diving into the material, and then dive even deeper into [Physics of Sound I](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)
+
+<br>
+
+**If you'd like to enroll** in GenEd 1080, here's what to do:
+
+- Since the course has a limit on how many students can enroll, the first thing you need to do is **submit a petition** through your Crimson Cart on my.harvard.
+- This petition is your ticket into the GenEd enrollment lottery, and must be submitted **by 11:59pm EDT on Friday, August 21st**. This is very important, because without a petition, GenEd won't know to include you in the lottery!
+- GenEd will run the **lottery on Monday, August 24th**, and shortly thereafter, you will see either a green checkmark or a red "X" for the course in your Crimson Cart, indicating your approval to enroll in the course.
+- If you see a green checkmark, you've won the lottery! BUT you **must still enroll** through my.harvard before the enrollment deadline of **11:59pm EDT on Wednesday, August 26th**.
+- If we still have spots open after the 26th, anyone who wasn't approved in the lottery but still wishes to enroll can re-petition to add the course.
+
+We've expanded the course's enrollment quite a bit from last year so that more people who want to enroll will be able to. If you're dedicated to joining the course, be sure to stay on track with the material, and you can always reach out to the course staff by email or on [Slack](https://canvas.harvard.edu/courses/75224/external_tools/63266)
+
+If you have questions about the enrollment lottery, GenEd is keeping [this webpage](gened.fas.harvard.edu/fall-2020) up to date with the latest info and FAQs, and you can also <a href="gened_enrollment@fas.harvard.edu">email GenEd</a> with any questions you have.
+
+<br>
+
+*And now, back to the music!*
+
+<br>
 
 ---
 ## Course Overview
@@ -63,14 +91,13 @@ The week's topic, like "Physics of Sound," or "Circuits and Synthesizers," is li
 - On **Side A** you'll find everything for our **Class Meeting**, and
 - On **Side B**, you'll find everything for **Lab Sections**.
 
-Each side starts out with tracks you listen to on your own, and ends with tracks we listen to as a group. So here's how the week looks:
+Each side starts out with tracks you listen to on your own, and ends with tracks we listen to as a group. So here's how a given week might look:
 
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_sketch.jpg" alt="The week as a record" width="660"/>
-###### (New illustration coming soon!)
 
 <br>
 
-### Side A - Listen on your own
+### Side A - Class Prep (on your own)
 
 During the weekend before the start of the week, you listen on your own to the opening tracks of Side A. These will be things like **lesson videos**, **readings**, **explorables**, and **interesting websites** about the week's topic.
 
@@ -78,7 +105,7 @@ All these materials will be available on the GenEd 1080 Canvas Site (the site yo
 
 <br>
 
-### Side A - Large group jam
+### Side A - Class Meeting (large group)
 
 Then, on Mondays, we'll come together as a group on Zoom. Here, Prof. Wood and the teaching staff will lead **discussions**, **group activities**, **demos**, host **special guests**, and dive into some **deep cuts** to close out Side A.
 
@@ -88,9 +115,9 @@ Depending on your time zone and schedule, you have the option to **sign up for (
 
 <br>
 
-### Side B - Listen on your own
+### Side B - Lab Prep (on your own)
 
-During the early part of the week, we'll flip the record over and start digging into the week's **lab activity**. Everyone in the class will receive a **lab swag kit** by mail, full of instrument parts, electronic components, a prototyping board, tools, cables, drum sticks, and everything else you need to be a mad scientist-musician at home.
+During the early part of the week, we'll flip the record over and start digging into the week's **lab build**. Everyone in the class will receive a **lab swag kit** by mail, full of instrument parts, electronic components, a prototyping board, tools, cables, drum sticks, and everything else you need to be a mad scientist-musician at home.
 
 The first track on Side B will be instructions for building the week's project, which you'll complete on your own (or with your friends) during the middle of the week.
 
@@ -98,11 +125,11 @@ During the Acoustic, Electronic, and Final Project builds, this will be time for
 
 <br>
 
-### Side B - Small group jam
+### Side B - Lab Meeting (small groups)
 
 Toward the end of the week, we'll come back together in **lab sections** to troubleshoot what you've built, brainstorm ideas and modifications, and squeeze all the knowledge and experience you can out of your wildly brilliant and interesting lab TFs.
 
-Lab sections are scheduled at the beginning of the semester, and are determined by the [GenEd 1080 intro survey](), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes).
+Lab sections are scheduled at the beginning of the semester, and are determined by both the [GenEd 1080 intro survey](), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes). We will talk more about scheduling labs during the first week of classes.
 
 <br>
 
@@ -124,9 +151,8 @@ All throughout the week, there will be ongoing discussions and support on the **
 
 **Robert Wood**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rob.jpg" width="50"/>  
-<a href="rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>   
-Office Hours: by appointment  
-Office: Maxwell Dworkin 149
+<a href="mailto:rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>   
+I am trained as a roboticist and have taught courses in Electrical Engineering, Mechanical Engineering, and Engineering Design... and recently I served as Chair of Bioengineering, so I enjoy interdisciplinary subjects. But another passion of mine has always been music — in particular I have played and tinkered with the electric guitar for over 25 years.
 
 <br>
 
@@ -147,6 +173,7 @@ Office: Maxwell Dworkin 149
 **Sophia TenHuisen**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/sophia.jpg" width="50"/>  
 <a href="mailto:stenhuisen@g.harvard.edu">stenhuisen@g.harvard.edu</a>  
+I'm a second year PhD student in SEAS, interested in new materials and controlling their properties with light. I also play violin and love orchestral music. This summer I've been having fun learning some new fiddle tunes!
 
 <br>
 
@@ -166,12 +193,21 @@ I'm a second year PhD student in SEAS with broad interests across CAD modeling/s
 **Mark Lock**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/mark.jpg" width="50"/>  
 <a href="mailto:yienhaolock@g.harvard.edu">yienhaolock@g.harvard.edu</a>  
+I'm a Data Science Masters student focusing on natural language processing/machine learning, and I worked in data science and tech for 8 years prior to Harvard. I've been an amateur jazz, classical and rock bassist but my ultimate musical passion is composition (and collecting CDs even post-iTunes).
 
 <br>
 
 **Nupur Gurjar**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/nupur.jpg" width="50"/>  
 <a href="mailto:nupur_gurjar@mde.harvard.edu">nupur_gurjar@mde.harvard.edu</a>  
+I am a trained Architect and keep a keen interest in Design Interaction and Experience design. As a second-year Master in Design Engineering (MDE) student at Harvard, I am exploring problem-solving for real-world challenges through the lens of design and systems thinking.
+A cherished passion of mine has always remained performing arts. I have been practicing Indian classical dance forms, Bharathanatyam and Kathak for the last 20 years or so, which introduced me to a world of classical music, both vocal and instrumental. Inspired by the intersection between design and performance, I ventured briefly into set and performance design for the media industry.
+
+<br>
+
+**Ansar Lemon**  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/ansar.jpg" width="50"/>  
+<a href="mailto:ansar_lemon@g.harvard.edu  ">ansar_lemon@g.harvard.edu  </a>  
 
 <br>
 
@@ -181,21 +217,12 @@ I'm a second year PhD student in SEAS with broad interests across CAD modeling/s
 
 <br>
 
-**New TF** (Lab TF)  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
-
-<br>
-
-**New TF** (RSTF)  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
-
-<br>
-
 ### Active Learning Labs
 
 **Elaine Kristant**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
 <a href="mailto:ekristant@g.harvard.edu">ekristant@g.harvard.edu</a>  
+I have a BS in mechanical engineering and worked as a mechanical design engineer at iRobot for some time, then I got a MS in manufacturing engineering and worked for Medtronic prior to working at Harvard. Growing up I played the flute from 5th-8th grade and then switched to trombone (because it's such a similar instrument) and played that through high school. I primarily listen to rock (classic, alternative, punk, pop-punk), but I listen to other styles depending on my mood.
 
 <br>
 
@@ -233,10 +260,9 @@ I'm a second year PhD student in SEAS with broad interests across CAD modeling/s
 <br>
 
 ### Grading Policy
-- 20% Weekly reading assignments
-- 50% Weekly lab assignments
+- 20% Weekly quizzes (during Monday class meeting)
+- 50% Weekly assignments (Lab builds and participation)
 - 30% Final project
-- -1% For each unexcused absence from class or lab. Staff should be informed of absences before class.
 
 <br>
 
@@ -246,12 +272,6 @@ Students needing academic adjustments or accommodations should speak with the co
 
 <br>
 
-### Enrollment
-
-**This course has an enrollment cap and requires that by 11:59 p.m. Thursday, September 5, you use my.harvard to request instructor permission to enroll.** If requests to enroll **do not** exceed available seats, permission to enroll will be granted on Friday, September 6. If interest exceeds available seats, a lottery of those who have requested permission will run on **Friday, September 6**, and all participants will be notified of the results via Harvard email by 5:00 p.m. on **Friday, September 6**. For more information, including how to request permission, please see [gened.fas.harvard.edu/enrollment](gened.fas.harvard.edu/enrollment).
-
-
-<br>
 
 ##### [↑ Back to top](#welcome-to-gened-1080-)
 
@@ -260,7 +280,7 @@ Students needing academic adjustments or accommodations should speak with the co
 
 
 **Acoustics**
-- [Week 1 - Introduction and Physics of Sound](#introduction-and-physics-of-sound)
+- [Week 1 - Introduction and Physics of Sound (Part 1)](#introduction-and-physics-of-sound-part-1-)
 - [Week 2 - Physics of Sound (Part 2)](#physics-of-sound-part-2-)
 - [Week 3 - String Instruments and the Harmonic Series](#string-instruments-and-the-harmonic-series)
 - [Week 4 - Frequency Analysis and Music Composition](#frequency-analysis-and-music-composition)
@@ -287,8 +307,33 @@ Students needing academic adjustments or accommodations should speak with the co
 
 ---
 
-### Introduction and Physics of Sound
+### Introduction and Physics of Sound (Part 1)
 Week 1 (8/31 - 9/4)
+
+<br>
+
+Week description blurb.
+
+<br>
+
+#### **Calendar and Announcements**  
+- Classes begin Weds 9/2
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+- **Track 1 - [Take]()** The GenEd 1080 Intro Survey
+
+Side B (Lab)  
+-  
+
+<br>
+
+---
+### Physics of Sound (Part 2)
+Week 2 (9/7 - 9/11)
 
 <br>
 
@@ -296,41 +341,24 @@ Week 1 (8/31 - 9/4)
 
 <br>
 
-#### Calendar
-- Classes begin Weds 9/2
+#### **Calendar and Announcements**  
+- Labor Day Holiday Monday 9/7
+- Course Registration Deadline Weds 9/9
 
 <br>
 
-#### Announcements
-- Intro Survey
+#### **Track List**
 
-<br>
+Side A (Class)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (over the weekend)  
+- **Track 2 - [Read]()** "What is Sound" (over the weekend)  
+- **Track 3 - [Play]()** with "Visualizing Sound" Colab (over the weekend)  
+- **Track 4 - [Join]()** "Physics of Sound" Zoom (on Monday)  
 
-#### Readings
-- none
-
-<br>
-
-#### Lesson Videos
-- **Introduction and Course Description**
-  - Past info
-    - F19 given Tues 9/3 (Lecture 1)
-    - Internal title: Lesson #1 Introduction
-
-<br>
-
-#### Activities
-
-<br>
-
-#### Lab Assignment
-- **Introduction to Computational Tools**
-   - no handout
-
-
----
-### Physics of Sound (Part 2)
-Week 2 (9/7 - 9/11)
+Side B (Lab)  
+- **Track 1 - [Build]()** "Computational Tools" lab sheet (early/mid-week)  
+- **Track 2 - [Ask]()** your friends or TF questions on Slack (early/mid-week)  
+- **Track 3 - [Join]()** "Introduction to Computational Tools" Zoom (on Friday)  
 
 <br>
 
@@ -342,6 +370,22 @@ Week 3 (9/14 - 9/18)
 
 **How is sound produced acoustically?** A first exploration of the vibrations of strings. Discussion of the wave equation and how the solution gives rise to the harmonic series. We will also illustrate how we can model a complex mechanical system, and then reduce the model to simple approximations that allow us to explore concepts of resonance, damping, and a first introduction of the time-frequency duality.
 
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
 
 ---
 ### Frequency Analysis and Music Composition
@@ -351,6 +395,22 @@ Week 4 (9/21 - 9/25)
 
 **What are the connections between strategies  for musical composition and engineering design?** Design is all around us. Beyond the ubiquitous examples in architecture and consumer devices, engineering design is present in the transportation, communication, and information systems that we take for granted. Similarly, composers often follow an analogous process for creating a piece of music. This module will outline techniques used in engineering design and musical composition.
 
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
 
 ---
 ### Vocal and Auditory Systems in Humans and Animals
@@ -360,6 +420,22 @@ Week 5 (9/28 - 10/2)
 
 **How do we hear?** This module will explore the human auditory system, framing structure and function in an engineering context, with particular emphasis on the importance of impedance matching.
 
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
 
 ---
 ### Wind and Percussion Instruments
@@ -368,6 +444,23 @@ Week 6 (10/5 - 10/9)
 <br>
 
 **How is sound produced acoustically?** A second exploration of the vibrations of plates, harmonic vs. inharmonic instruments, and the motion of air in pipes. This module will allow us to extend our previous analysis of one dimensional systems into 2D and will [build on our discussion of] the human vocal system.
+
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
 
 
 ---
@@ -380,6 +473,23 @@ Week 7 (10/12 - 10/16)
 
 **What are the connections between mechanical vibrations and the evolution of music theory?** While the previous theory module described the physical underpinnings of the harmonic series, this module will investigate how this understanding led to the first musical systems: from Pythagoras and Ptolemy to the evolution of just intonation and equal temperament.
 
+<br>
+
+#### **Calendar and Announcements**  
+- Columbus Day Holiday Mon 10/12
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
 
 ---
 ### Microphones and Pickups (Transducers)
@@ -388,6 +498,23 @@ Week 8 (10/19 - 10/23)
 <br>
 
 **How do we transform vibrations into electrical signals?** This module will introduce the concept of transduction – converting energy from one form to another – by studying microphones and pickups. This will require the introduction of some fundamental principles such as electromagnetism and electromagnetic induction. This will also allow us to revisit discussions on sensitivity, bandwidth, and second-order dynamics.
+
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
 
 
 ---
@@ -398,6 +525,23 @@ Week 9 (10/26 - 10/30)
 
 **How do we manipulate electrical signals?** Now that we have converted mechanical vibrations to electrical signals, this module will introduce basic electrical circuit theory. This will be primarily in the context of simple effects such as tone controls. Using this framework, we can revisit time-frequency analysis and introduce concepts such as frequency response and transfer functions.
 
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
 
 ---
 ### Signals and Electronic Effects
@@ -406,6 +550,23 @@ Week 10 (11/2 - 11/6)
 <br>
 
 **Electrical instruments, synthesis, and digital audio workstations.** In addition to capturing acoustic music using microphones and pickups, we can directly synthesize music electronically.  This module will describe techniques for music synthesis, including modeling acoustic instruments in electronic form. This module will also introduce very basic concepts in digital signal processing and common effects. For example, we will tie in the previous discussion on room acoustics and reverberation with the instantiation of reverb effects – one of the most common electronic effects in sound production and live performance.
+
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
 
 
 ---
@@ -418,6 +579,23 @@ Week 11 (11/9 - 11/13)
 
 **How is music transmitted?** This module will describe a historical and technical overview of radio. In addition, more contemporary approaches such as streaming music and techniques for compression will be introduced.
 
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
 
 ---
 ### Amplifiers and Speakers
@@ -427,10 +605,46 @@ Week 12 (11/16 - 11/20)
 
 **Playback and amplification.** This module will bring our discussion full circle by investigating transduction in reverse. Topics will include device physics associated with vacuum tubes and more modern semiconductor transistors, basic amplifier concepts and architectures, and the design of speaker drivers, speaker enclosures, and crossover networks.
 
+<br>
+
+#### **Calendar and Announcements**  
+-  
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
 
 ---
 ### Audio Fingerprinting and Music Copyright
 Week 13 (11/23 - 11/27)
+
+<br>
+
+Week description blurb.
+
+<br>
+
+#### **Calendar and Announcements**  
+- Thanksgiving Recess Wed-Sun 11/25-11/29
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
 
 <br>
 
@@ -440,11 +654,53 @@ Week 14 (11/30 - 12/4) Final week of lectures
 
 <br>
 
+Week description blurb.
+
+<br>
+
+#### **Calendar and Announcements**  
+- Last Day of Classes Thurs 12/3
+- Reading Period Begins Fri 12/4
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
+
 ---
 ### Reading Week
 Week 15 (12/7 - 12/11)
 
 <br>
+
+Week description blurb.
+
+<br>
+
+#### **Calendar and Announcements**  
+- Reading Period through Weds 12/9
+- Final Exam Period begins Thurs 12/10
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
 
 ---
 ### 1080 Fest
@@ -452,8 +708,25 @@ Week 16 (12/14 - 12/18)
 
 <br>
 
-
+Week description blurb.
 
 <br>
+
+#### **Calendar and Announcements**  
+- Final Exam Period ends Sat 12/19
+- 1080 Fest
+
+<br>
+
+#### **Track List**
+
+Side A (Class)  
+-  
+
+Side B (Lab)  
+-  
+
+<br>
+
 
 ##### [↑ Back to top](#welcome-to-gened-1080-)
