@@ -10,15 +10,15 @@
 
 <br>
 
-## Shopping Week & Enrollment Lottery
+## Shopping Period & Enrollment Lottery
 
 Thanks for joining us as we explore connections between two very different sides of the human experience: our expression through music, and our ability to design and engineer aspects of the world around us.
 
-Here are a few things you can do to get a feel for the course during shopping week:
+Here are a few things you can do to get a feel for the course during shopping period:
 
 - Browse through the **syllabus** (which you're reading right now) to get an overview of the course's topics and structure
 - Watch the **course trailer** and **1080 Fest trailer** in the [Course Overview](#course-overview) section below
-- Watch the [Intro Lesson](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a#) to start diving into the material, and then dive even deeper into [Physics of Sound I](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)
+- Watch the [Intro Lesson](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a) to start diving into the material, and then dive even deeper into [Physics of Sound I](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)
 
 <br>
 
@@ -208,6 +208,12 @@ A cherished passion of mine has always remained performing arts. I have been pra
 **Ansar Lemon**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/ansar.jpg" width="50"/>  
 <a href="mailto:ansar_lemon@g.harvard.edu  ">ansar_lemon@g.harvard.edu  </a>  
+
+<br>
+
+**George Touloumes** (Remote Support TF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/george.jpg" width="50"/>  
+<a href="mailto:touloumes@g.harvard.edu">touloumes@g.harvard.edu</a>
 
 <br>
 
