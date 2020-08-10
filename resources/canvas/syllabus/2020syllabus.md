@@ -32,7 +32,7 @@ Here are a few things you can do to get a feel for the course during shopping we
 
 We've expanded the course's enrollment quite a bit from last year so that more people who want to enroll will be able to. If you're dedicated to joining the course, be sure to stay on track with the material, and you can always reach out to the course staff by email or on the [GenEd 1080 Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266)
 
-If you have questions about the enrollment lottery, GenEd is keeping [this webpage](gened.fas.harvard.edu/fall-2020) up to date with the latest info and FAQs, and you can also <a href="gened_enrollment@fas.harvard.edu">email GenEd</a> with any questions you have.
+If you have questions about the enrollment lottery, GenEd is keeping [this webpage](https://gened.fas.harvard.edu/fall-2020) up to date with the latest info and FAQs, and you can also <a href="mailto:gened_enrollment@fas.harvard.edu">email GenEd</a> with any questions you have.
 
 <br>
 
@@ -121,7 +121,7 @@ During the early part of the week, we'll flip the record over and start digging 
 
 The first track on Side B will be instructions for building the week's project, which you'll complete on your own (or with your friends) during the middle of the week.
 
-During the Acoustic, Electronic, and Final Project builds, this will be time for you to work on prototyping and iterating on your design.
+During the Acoustic, Electronic, and Final Project builds, this will be time for you to work on prototyping and iterating on your instrument design and composition.
 
 <br>
 
@@ -129,7 +129,7 @@ During the Acoustic, Electronic, and Final Project builds, this will be time for
 
 Toward the end of the week, we'll come back together in **lab sections** to troubleshoot what you've built, brainstorm ideas and modifications, and squeeze all the knowledge and experience you can out of your wildly brilliant and interesting lab TFs.
 
-Lab sections are scheduled at the beginning of the semester, and are determined by both the [GenEd 1080 intro survey](), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes). We will talk more about scheduling labs during the first week of classes.
+Lab sections are scheduled at the beginning of the semester, and are determined by both the [GenEd 1080 intro survey](https://forms.gle/HHFX4yh65jiEypxD6), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes). We'll talk more about scheduling labs during the first week of classes.
 
 <br>
 
@@ -306,46 +306,48 @@ Students needing academic adjustments or accommodations should speak with the co
 - [Week 16 - 1080 Fest](#1080-fest)
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week1.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week1.png" width="75" />
 
 ### Introduction and Physics of Sound (Part 1)
 Week 1 (8/31 - 9/4)</p>
 
 <br>
 
-Week description blurb.
+**Welcome to GenEd 1080!** This week we'll introduce the course, get up and running on Slack, get everyone scheduled in lab sections (which begin in Week 2), and start diving into the course material. We'll also begin exploring the physics of sound, including some basic definitions of waves and the universal wave equation.
 
 <br>
 
 #### **Calendar and Announcements**  
-- Classes begin Weds 9/2
+- Fall semester begins Weds 9/2 (Monday schedule)
+- No labs this week (short week)
 
 <br>
 
 #### **Track List**
 
-Side A (Class)  
-- **Track 1 - [Take]()** The GenEd 1080 Intro Survey
+- **Track 1 - [Fill out](https://forms.gle/HHFX4yh65jiEypxD6)** The GenEd 1080 Intro Survey (right away!)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a)** "Introduction" (before class on Wednesday)
+- **Track 3 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)** "Physics of Sound I" (before class on Wednesday)
+- **Track 4 - Join** our first class meeting on Zoom (on Wednesday)  
+- **Track 5 - [Say hi](https://canvas.harvard.edu/courses/75224/external_tools/63266)** on the GenEd 1080 Slack channel (before the end of the week)  
 
-Side B (Lab)  
--  
 
 <br>
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week2.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week2.png" width="75" />
 
 ### Physics of Sound (Part 2)
 Week 2 (9/7 - 9/11)
 
 <br>
 
-**What is sound?** This module will explore the physics of sound, including some basic definitions of waves, the universal wave equation, and properties of sound propagation such as the speed of sound, refraction, reflection, and diffraction. This module will also go over some history of our understanding of these phenomena and how they have been exploited throughout human history.
+**What is sound?** This week we'll continue exploring the properties of sound propagation, such as the speed of sound, refraction, reflection, and diffraction. We'll also go over some history of our understanding of these phenomena and how they have been exploited throughout human history.
 
 <br>
 
 #### **Calendar and Announcements**  
-- Labor Day Holiday Monday 9/7
+- Labor Day Holiday Monday 9/7 (no Class Meeting)
 - Course Registration Deadline Weds 9/9
 
 <br>
@@ -353,20 +355,18 @@ Week 2 (9/7 - 9/11)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (over the weekend)  
-- **Track 2 - [Read]()** "What is Sound" (over the weekend)  
-- **Track 3 - [Play]()** with "Visualizing Sound" Colab (over the weekend)  
-- **Track 4 - [Join]()** "Physics of Sound" Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (over the weekend / early in the week)  
+- **Track 2 - Read** "What is Sound?" (over the weekend / early in the week)  
 
 Side B (Lab)  
-- **Track 1 - [Build]()** "Computational Tools" lab sheet (early/mid-week)  
-- **Track 2 - [Ask]()** your friends or TF questions on Slack (early/mid-week)  
-- **Track 3 - [Join]()** "Introduction to Computational Tools" Zoom (on Friday)  
+- **Track 1 - Complete** "Intro to Computational Tools" lab assignment (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack, ask a question, help someone out (early/mid-week)  
+- **Track 3 - Join** "Intro to Computational Tools" first lab section on Zoom (end of the week)  
 
 <br>
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week3.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week3.png" width="75" />
 
 ### String Instruments and the Harmonic Series
 Week 3 (9/14 - 9/18)
@@ -378,310 +378,370 @@ Week 3 (9/14 - 9/18)
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Normal week schedule
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "String Instruments" (over the weekend)
+- **Track 2 - Watch** "The Harmonic Series" (over the weekend)  
+- **Track 3 - Read** "String Instruments and the Harmonic Series" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "Prototyping: Computer Aided Design (CAD)" lab assignment (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** "Prototyping: Computer Aided Design (CAD)" lab section on Zoom (end of the week)  
 
 <br>
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week4.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week4.png" width="75" />
 
 ### Frequency Analysis and Music Composition
 Week 4 (9/21 - 9/25)
 
 <br>
 
-**What are the connections between strategies  for musical composition and engineering design?** Design is all around us. Beyond the ubiquitous examples in architecture and consumer devices, engineering design is present in the transportation, communication, and information systems that we take for granted. Similarly, composers often follow an analogous process for creating a piece of music. This module will outline techniques used in engineering design and musical composition.
+**What are the connections between strategies  for musical composition and engineering design?** Design is all around us. Beyond the ubiquitous examples in architecture and consumer devices, engineering design is present in the transportation, communication, and information systems that we take for granted. Similarly, composers often follow an analogous process for creating a piece of music. This week we'll outline techniques used in both engineering design and musical composition.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Acoustic Instrument and Composition Announced
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Time/Frequency Analysis" (over the weekend)  
+- **Track 2 - Watch** "Composition" (over the weekend)
+- **Track 3 - Read** "Frequency Analysis and Music Composition" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "Prototyping: Machining and 3D Printing" lab assignment (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** "Prototyping: Machining and 3D Printing" lab section on Zoom (end of the week)  
 
 <br>
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week5.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week5.png" width="75" />
 
 ### Vocal and Auditory Systems in Humans and Animals
 Week 5 (9/28 - 10/2)
 
 <br>
 
-**How do we hear?** This module will explore the human auditory system, framing structure and function in an engineering context, with particular emphasis on the importance of impedance matching.
+**How do we vocalize?** This week we'll take a look at how our own vocal cords work, and how they relate to the principles we've already modeled in vibrating strings.
+
+**How do we hear?** We'll also explore the human auditory system, framing its structure and function in an engineering context, with particular emphasis on the importance of impedance matching.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Normal week schedule
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Vocalization" (over the weekend)  
+- **Track 2 - Watch** "How Do We Hear?" (over the weekend)  
+- **Track 3 - Read** "Vocal and Auditory Systems in Humans and Animals" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Start Building** your Acoustic Instrument and Composition (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** lab section on Zoom (end of the week)  
 
 <br>
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week6.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week6.png" width="75" />
 
 ### Wind and Percussion Instruments
 Week 6 (10/5 - 10/9)
 
 <br>
 
-**How is sound produced acoustically?** A second exploration of the vibrations of plates, harmonic vs. inharmonic instruments, and the motion of air in pipes. This module will allow us to extend our previous analysis of one dimensional systems into 2D and will [build on our discussion of] the human vocal system.
+**How is sound produced acoustically?** An exploration of the vibrations of plates, harmonic vs. inharmonic instruments, and the motion of air in pipes. This module will allow us to extend our previous analysis of one-dimensional systems into 2D and will build on our discussion of the human vocal system.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Acoustic Instrument and Composition due by the beginning of lab section
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Pipes" (over the weekend)
+- **Track 2 - Watch** "Plates" (over the weekend)  
+- **Track 3 - Read** "Wind and Percussion Instruments" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Finish Building** your Acoustic Instrument and Composition (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Upload** your Acoustic Instrument and Composition assignment (by the beginning of lab section)
+- **Track 3 - Join** lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week7.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week7.png" width="75" />
 
 ### Room Acoustics and Speculative Systems
 Week 7 (10/12 - 10/16)
 
 <br>
 
-**How do we design spaces to a particular acoustical goal?** This will further  extend our  analysis of sound propagation into 3D spaces,  where  detailed  models quickly become intractably complex and thus we need a new way to analyze how sound reverberates in lecture halls, theaters, and our homes. This is an area rich in local history as the first studies on this topic were performed by a Harvard professor to improve the quality of Harvard lecture halls.
+**How do we design spaces to a particular acoustical goal?** This week we'll extend our analysis of sound propagation into 3D spaces, where detailed models quickly become intractably complex, calling for a new way to analyze how sound reverberates in lecture halls, theaters, and our homes. This is a topic rich in local history, as the first studies on room acoustics were performed by a Harvard professor to improve the quality of Harvard lecture halls.
 
-**What are the connections between mechanical vibrations and the evolution of music theory?** While the previous theory module described the physical underpinnings of the harmonic series, this module will investigate how this understanding led to the first musical systems: from Pythagoras and Ptolemy to the evolution of just intonation and equal temperament.
+**What are the connections between mechanical vibrations and the evolution of music theory?** While our previous discussion of music theory described the physical underpinnings of the harmonic series, we will now investigate how this understanding led to the first musical systems: from Pythagoras and Ptolemy to the evolution of just intonation and equal temperament.
 
 <br>
 
 #### **Calendar and Announcements**  
 - Columbus Day Holiday Mon 10/12
+- Room Acoustics Assignment announced
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Room Acoustics" (over the weekend)  
+- **Track 2 - Read** "Speculative Systems" (over the weekend)  
+- **Track 3 - Join** class on Zoom (alternate schedule)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "Sound, Electricity, and the Piezoelectric Effect" lab assignment (early/mid-week)
+- **Track 2 - Work on** Room Acoustics assignment (early/mid-week)
+- **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 4 - Join** "Sound, Electricity, and the Piezoelectric Effect" lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week8.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week8.png" width="75" />
 
 ### Microphones and Pickups (Transducers)
 Week 8 (10/19 - 10/23)
 
 <br>
 
-**How do we transform vibrations into electrical signals?** This module will introduce the concept of transduction – converting energy from one form to another – by studying microphones and pickups. This will require the introduction of some fundamental principles such as electromagnetism and electromagnetic induction. This will also allow us to revisit discussions on sensitivity, bandwidth, and second-order dynamics.
+**How do we transform vibrations into electrical signals?** This week introduces the concept of transduction – converting energy from one form to another – by studying microphones and pickups. We'll introduce electromagnetism and electromagnetic induction, which will also allow us to revisit discussions on sensitivity, bandwidth, and second-order dynamics.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Room Acoustics Assignment due by the beginning of lab section
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Transducers" (over the weekend)  
+- **Track 2 - Read** "Sound Transducers" (over the weekend)  
+- **Track 3 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "Arduino Sound Synthesizer" lab assignment (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Finish and Upload** Room Acoustics assignment (by the beginning of lab section)
+- **Track 4 - Join** "Arduino Sound Synthesizer" lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week9.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week9.png" width="75" />
 
 ### Circuits and Synthesizers
 Week 9 (10/26 - 10/30)
 
 <br>
 
-**How do we manipulate electrical signals?** Now that we have converted mechanical vibrations to electrical signals, this module will introduce basic electrical circuit theory. This will be primarily in the context of simple effects such as tone controls. Using this framework, we can revisit time-frequency analysis and introduce concepts such as frequency response and transfer functions.
+**How do we manipulate electrical signals?** Now that we have converted mechanical vibrations to electrical signals, this week we'll introduce basic electrical circuit theory. This will be primarily in the context of simple effects such as tone controls. Using this framework, we can revisit time-frequency analysis and introduce concepts such as frequency response and transfer functions.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Final Project and Preliminary Proposal announced
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Circuits for Musicians" (over the weekend)  
+- **Track 2 - Read** "Circuit Analysis" (over the weekend)  
+- **Track 3 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "MIDI & Arduino" lab assignment (early/mid-week)  
+- **Track 2 - Work on** your Final Project Preliminary Proposal (early/mid-week)
+- **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 4 - Join** "MIDI & Arduino" lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week10.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week10.png" width="75" />
 
 ### Signals and Electronic Effects
 Week 10 (11/2 - 11/6)
 
 <br>
 
-**Electrical instruments, synthesis, and digital audio workstations.** In addition to capturing acoustic music using microphones and pickups, we can directly synthesize music electronically.  This module will describe techniques for music synthesis, including modeling acoustic instruments in electronic form. This module will also introduce very basic concepts in digital signal processing and common effects. For example, we will tie in the previous discussion on room acoustics and reverberation with the instantiation of reverb effects – one of the most common electronic effects in sound production and live performance.
+**Electrical instruments, synthesis, and digital audio workstations.** In addition to capturing acoustic music using microphones and pickups, we can directly synthesize music electronically. This week we'll describe techniques for music synthesis, including modeling acoustic instruments in electronic form. This module will also introduce very basic concepts in digital signal processing and common effects. For example, we will tie in our discussion of room acoustics and reverberation with reverb effects – one of the most common electronic effects in sound production and live performance.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Final Project Preliminary Proposal due (by the beginning of lab section)
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Signals & Systems (Continuous)" (over the weekend)
+- **Track 2 - Watch** "Signals & Systems (DSP)" (over the weekend)  
+- **Track 3 - Read** "Sampling and Audio to Digital Conversion (ADC)" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "Analog Synthesizers & Max/MSP" lab assignment (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Upload** your Final Project Preliminary Proposal (by the beginning of lab section)
+- **Track 3 - Join** "Analog Synthesizers & Max/MSP" lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week11.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week11.png" width="75" />
 
 ### Audio Storage and Transmission
 Week 11 (11/9 - 11/13)
 
 <br>
 
-**How is music stored?** The 20th century saw a flurry of techniques emerge for analog music storage that forever changed the way that we produce and experience music. This module will primarily focus on a comparative analysis of records and cassette tapes as the first widespread forms of music storage. Another sea change happened with digital music storage and distribution, and we will also discuss compact discs and MP3 formats with analysis on quality and memory. This will enable us to talk about sampling, analog-to-digital and digital-to-analog conversion techniques, and error checking/correcting.
+**How is music stored?** The 20th century saw a flurry of techniques emerge for analog music storage that forever changed the way that we produce and experience music. This week we will focus on a comparative analysis of records and cassette tapes as the first widespread forms of music storage. Another sea change happened with digital music storage and distribution, and we will also discuss compact discs and MP3 formats with analysis on quality and memory. This will enable us to talk about sampling, analog-to-digital and digital-to-analog conversion techniques, and error checking/correcting.
 
-**How is music transmitted?** This module will describe a historical and technical overview of radio. In addition, more contemporary approaches such as streaming music and techniques for compression will be introduced.
+**How is music transmitted?** We will also tune in to a historical and technical overview of radio. This expands to more contemporary approaches to transmission such as streaming music, including techniques for compression.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Electronic Instrument and Composition announced
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "How Music is Stored" (over the weekend)
+- **Track 2 - Watch** "How Music is Transmitted" (over the weekend)  
+- **Track 3 - Read** "" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Build** "Electronic Effects" lab assignment (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** "Electronic Effects" lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week12.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week12.png" width="75" />
 
 ### Amplifiers and Speakers
 Week 12 (11/16 - 11/20)
 
 <br>
 
-**Playback and amplification.** This module will bring our discussion full circle by investigating transduction in reverse. Topics will include device physics associated with vacuum tubes and more modern semiconductor transistors, basic amplifier concepts and architectures, and the design of speaker drivers, speaker enclosures, and crossover networks.
+**How does my home stereo work?** This module will bring our discussion full circle by investigating transduction in reverse. Topics will include device physics associated with vacuum tubes and more modern semiconductor transistors, basic amplifier concepts and architectures, and the design of speaker drivers, speaker enclosures, and crossover networks.
 
 <br>
 
 #### **Calendar and Announcements**  
--  
+-  Normal week schedule
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Playback I (Amplification)" (over the weekend)
+- **Track 2 - Watch** "Playback II (Speakers)" (over the weekend)  
+- **Track 3 - Read** "Amplifiers" (over the weekend)  
+- **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Start Building** your Electronic Instrument and Composition (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** lab section on Zoom (end of the week)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week13.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week13.png" width="75" />
 
 ### Audio Fingerprinting and Music Copyright
 Week 13 (11/23 - 11/27)
 
 <br>
 
-Week description blurb.
+Week description coming soon!
 
 <br>
 
 #### **Calendar and Announcements**  
 - Thanksgiving Recess Wed-Sun 11/25-11/29
+- Electronic Instrument and Composition due by the end of the day Friday
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "How Music is Transmitted" (over the weekend)  
+- **Track 2 - Read** "Audio Fingerprinting and Music Copyright" (over the weekend)  
+- **Track 3 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Finish Building** your Electronic Instrument and Composition (early/mid-week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Upload** your Electronic Instrument and Composition assignment (by the end of the day Friday)
 
 <br>
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week14.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week14.png" width="75" />
 
 ### Engineering in Music Culture and Practice
 Week 14 (11/30 - 12/4) Final week of lectures
 
 <br>
 
-Week description blurb.
+Week description coming soon!
 
 <br>
 
@@ -694,23 +754,26 @@ Week description blurb.
 #### **Track List**
 
 Side A (Class)  
--  
+- **Track 1 - Watch** "Engineering in Music Culture and Practice" (over the weekend)  
+- **Track 2 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
--  
+- **Track 1 - Work on** your Final Project (all week!)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** lab section on Zoom (no Friday labs this week, but feel free to come to a Thursday lab instead)  
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week15.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week15.png" width="75" />
 
 ### Reading Week
 Week 15 (12/7 - 12/11)
 
 <br>
 
-Week description blurb.
+This week is dedicated to continuing work on your Final Project.
 
 <br>
 
@@ -722,40 +785,35 @@ Week description blurb.
 
 #### **Track List**
 
-Side A (Class)  
--  
-
-Side B (Lab)  
--  
+- **Track 1 - Work on** your Final Project (all week!)  
+- **Track 2 - Check in** with your friends and TF on Slack (any time!, all the time!)   
 
 <br>
 
 
 ---
-<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week16.png" width="50" />
+<img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week16.png" width="75" />
 
 ### 1080 Fest
 Week 16 (12/14 - 12/18)
 
 <br>
 
-Week description blurb.
+This week you'll put the finishing touches on your Final Project and we'll have our annual science-fair-meets-music-festival showcase, *1080 Fest (virtual edition)*!
 
 <br>
 
 #### **Calendar and Announcements**  
+- Final Project due
+- 1080 Fest! (Date TBA)
 - Final Exam Period ends Sat 12/19
-- 1080 Fest
 
 <br>
 
 #### **Track List**
 
-Side A (Class)  
--  
-
-Side B (Lab)  
--  
+- **Track 1 - Upload** your Final Project (due date and time TBA)
+- **Track 2 - Come to** 1080 Fest! (date and time TBA)
 
 <br>
 
