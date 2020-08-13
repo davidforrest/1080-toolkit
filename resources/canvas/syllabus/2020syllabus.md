@@ -110,8 +110,8 @@ All these materials will be available on the GenEd 1080 Canvas Site (the site yo
 Then, on Mondays, we'll come together as a group on Zoom. Here, Prof. Wood and the teaching staff will lead **discussions**, **group activities**, **demos**, host **special guests**, and dive into some **deep cuts** to close out Side A.
 
 Depending on your time zone and schedule, you have the option to **sign up for (and attend) *one*** of the following group sessions for this course:
-- 9-10:15 a.m. (Boston time) on Mondays, or
-- 3-4:15 p.m. (Boston time) on Mondays.
+- 9:00-10:15 a.m. (Boston time) on Mondays, or
+- 3:00-4:15 p.m. (Boston time) on Mondays.
 
 <br>
 
@@ -157,8 +157,9 @@ I am trained as a roboticist and have taught courses in Electrical Engineering, 
 <br>
 
 **Kelly Miller**  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/kelly.jpg" width="50"/>  
 <a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>
+Hi, I’m Kelly - my research interests are the role of both project based learning and technology in improving STEM education. I am not very musical but have had a lot of fun learning about music through the student projects in AP50 (which is what I usually teach). I am looking forward to learning more from the students in this course - I look forward to meeting all of you!
 
 <br>
 
@@ -226,7 +227,7 @@ A cherished passion of mine has always remained performing arts. I have been pra
 ### Active Learning Labs
 
 **Elaine Kristant**  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/elaine.jpg" width="50"/>  
 <a href="mailto:ekristant@g.harvard.edu">ekristant@g.harvard.edu</a>  
 I have a BS in mechanical engineering and worked as a mechanical design engineer at iRobot for some time, then I got a MS in manufacturing engineering and worked for Medtronic prior to working at Harvard. Growing up I played the flute from 5th-8th grade and then switched to trombone (because it's such a similar instrument) and played that through high school. I primarily listen to rock (classic, alternative, punk, pop-punk), but I listen to other styles depending on my mood.
 
@@ -234,7 +235,8 @@ I have a BS in mechanical engineering and worked as a mechanical design engineer
 
 **Xuan Liang**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
-<a href="mailto:xuan@seas.harvard.edu">xuan@seas.harvard.edu</a>  
+<a href="xuan_liang@harvard.edu">xuan_liang@harvard.edu</a>  
+I'm the Associate Director of Instructional Laboratories at SEAS. My role in GenEd 1080 includes a wide spectrum of the labs' operation with quality, effectiveness, efficiency, and best practices in mind. I focus mainly on Electrical Engineering and Computer Science (EECS) lab content. I supported the Electrical Engineering side of the labs in this course last year and enjoyed realizing music via electronics.
 
 <br>
 
@@ -266,7 +268,7 @@ I have a BS in mechanical engineering and worked as a mechanical design engineer
 <br>
 
 ### Grading Policy
-- 20% Weekly quizzes (during Monday class meeting)
+- 20% Class Activities and Assessments (during Monday class meeting)
 - 50% Weekly assignments (Lab builds and participation)
 - 30% Final project
 
@@ -350,10 +352,13 @@ Week 2 (9/7 - 9/11)
 
 **What is sound?** This week we'll continue exploring the properties of sound propagation, such as the speed of sound, refraction, reflection, and diffraction. We'll also go over some history of our understanding of these phenomena and how they have been exploited throughout human history.
 
+Since Monday is a holiday, we will have a **make-up Class Meeting on Wednesday** at the same times as our regular Monday meeting (9:00-10:15 a.m. OR 3:00-4:15 p.m. Boston time). You can come to *either* of these classes, and we will also record the class so anyone who can't attend can watch afterward.
+
 <br>
 
 #### **Calendar and Announcements**  
 - Labor Day Holiday Monday 9/7 (no Class Meeting)
+- Make-up Class Meeting (optional) Wednesday 9/9
 - Course Registration Deadline Weds 9/9
 
 <br>
@@ -361,8 +366,10 @@ Week 2 (9/7 - 9/11)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (over the weekend / early in the week)  
-- **Track 2 - Read** "What is Sound?" (over the weekend / early in the week)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (before class on Wednesday)  
+- **Track 2 - Read** "What is Sound?" (before class on Wednesday)
+- **Track 3 - Join or Watch** class on Zoom (on **Wednesday**)
+
 
 Side B (Lab)  
 - **Track 1 - Complete** "Intro to Computational Tools" lab assignment (early/mid-week)  
