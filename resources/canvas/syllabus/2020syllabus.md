@@ -19,6 +19,18 @@ Here are a few things you can do to get a feel for the course during shopping pe
 - Browse through the **syllabus** (which you're reading right now) to get an overview of the course's topics and structure
 - Watch the **course trailer** and **1080 Fest trailer** in the [Course Overview](#course-overview) section below
 - Watch the [Intro Lesson](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a) to start diving into the material, and then dive even deeper into [Physics of Sound I](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)
+- Visit the GenEd 1080 [Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266) to chat with the course staff and ask us any question you have.
+
+<br>
+
+**The entire course staff is here for you!**
+<br>
+
+The shift to remote learning has made us even more creative about helping you meet the learning goals of the course, and about building an active community within GenEd 1080.
+
+We know how important it is for you to be able to connect with the course staff--especially now that we're all remote--so we've set up several ways to make sure there's always someone available for you. At least one of us is always around on [Slack](https://canvas.harvard.edu/courses/75224/external_tools/63266), and the primary instructors are available for one-on-one or group discussions, in addition to our regular office hours.
+
+Check out the [Remote Weekly Structure](#remote-weekly-structure) section below for more about how the remote semester will look, and the [Teaching Staff](#your-teaching-staff) section for individual office hours and contact info. Please don't hesitate to reach out to us any time!
 
 <br>
 
@@ -135,7 +147,9 @@ Lab sections are scheduled at the beginning of the semester, and are determined 
 
 ### Extended Play
 
-All throughout the week, there will be ongoing discussions and support on the [GenEd 1080 Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266), where you can get nearly round-the-clock help from a member of the course staff, join a video watch party, or hang out with your TF and watch YouTube videos about nerdy music things.
+All throughout the week, there will be ongoing discussions and support on the [GenEd 1080 Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266), where you can get nearly round-the-clock help from a member of the course staff, join a video watch party, or hang out with your TF (and your friends) and watch YouTube videos about nerdy music things.
+
+Beyond Slack, the primary instructors, TFs, and Active Learning Labs staff will hold regular office hours (see the [Teaching Staff](#your-teaching-staff) section below), and are also happy to set up additional one-on-one or group discussions.
 
 
 <br>
@@ -147,80 +161,106 @@ All throughout the week, there will be ongoing discussions and support on the [G
 
 <br>
 
+Each and every staff member is happy to chat with you about any aspects related to your semester and GenEd 1080 in particular. Your lab TF is your go-to person for questions and troubleshooting: they will track your progress and help identify resources that you need. The Active Learning Labs team (their area of expertise and contact information are listed below) are happy to discuss your projects and progress as well. They will be available in office hours, and can also arrange to meet with you at other convenient times. The primary instructors are available to discuss any aspect of the course and to answer your questions at any time.
+
+<br>
+
 ### Instructors
 
 **Robert Wood**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rob.jpg" width="50"/>  
-<a href="mailto:rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>   
+<a href="mailto:rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
 I am trained as a roboticist and have taught courses in Electrical Engineering, Mechanical Engineering, and Engineering Design... and recently I served as Chair of Bioengineering, so I enjoy interdisciplinary subjects. But another passion of mine has always been music — in particular I have played and tinkered with the electric guitar for over 25 years.
 
 <br>
 
 **Kelly Miller**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/kelly.jpg" width="50"/>  
-<a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>
+<a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
 Hi, I’m Kelly - my research interests are the role of both project based learning and technology in improving STEM education. I am not very musical but have had a lot of fun learning about music through the student projects in AP50 (which is what I usually teach). I am looking forward to learning more from the students in this course - I look forward to meeting all of you!
 
 <br>
 
 ### TFs
 
-**Rachel Zoll**  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rachel.jpg" width="50"/>  
-<a href="mailto:rachelzoll@g.harvard.edu">rachelzoll@g.harvard.edu</a>  
+**David Forrest** (Head TF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/david.jpg" width="50"/>  
+<a href="mailto:dforrest@g.harvard.edu">dforrest@g.harvard.edu</a>  
+Virtual Office Hours: TBA
+
+I'm a PhD candidate in music theory (of all things!), and this is my second year as Head TF for GenEd 1080. I care a lot about beginner music learning, and especially about our responsibility to *design* music concepts, much like we design music products. I love how GenEd 1080 opens up creative possibilities that couldn't exist in an engineering or music course alone.  
+
+Although I'm not leading a lab section this semester, I'll be very involved in the composition, theory, and music copyright sections of the course, as well as the instrument builds. I'm a great person to help you brainstorm ideas for your composition, or to help dream up a wild new tuning system or interface for your instrument.
 
 <br>
 
-**Sophia TenHuisen**  
+**Sophia TenHuisen** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/sophia.jpg" width="50"/>  
 <a href="mailto:stenhuisen@g.harvard.edu">stenhuisen@g.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
 I'm a second year PhD student in SEAS, interested in new materials and controlling their properties with light. I also play violin and love orchestral music. This summer I've been having fun learning some new fiddle tunes!
 
 <br>
 
-**Ethan Schumann**  
+**Ethan Schumann** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>   
 <a href="mailto:eschumann@g.harvard.edu">eschumann@g.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
 I'm a second year PhD student in SEAS with broad interests across CAD modeling/simulation, robot manipulation, and controls. I'm picking up the ukulele as a hobby and looking forward to be learning along with everyone else!
 
 <br>
 
-**Spandan Madan**  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/spandan.jpg" width="50"/>  
-<a href="mailto:spandan_madan@g.harvard.edu">spandan_madan@g.harvard.edu</a>  
+**Rachel Zoll** (Lab TF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rachel.jpg" width="50"/>  
+<a href="mailto:rachelzoll@g.harvard.edu">rachelzoll@g.harvard.edu</a>  
+Virtual Office Hours: TBA  
 
 <br>
 
-**Mark Lock**  
+**Spandan Madan** (Lab TF)  
+<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/spandan.jpg" width="50"/>  
+<a href="mailto:spandan_madan@g.harvard.edu">spandan_madan@g.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
+<br>
+
+**Mark Lock** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/mark.jpg" width="50"/>  
 <a href="mailto:yienhaolock@g.harvard.edu">yienhaolock@g.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
 I'm a Data Science Masters student focusing on natural language processing/machine learning, and I worked in data science and tech for 8 years prior to Harvard. I've been an amateur jazz, classical and rock bassist but my ultimate musical passion is composition (and collecting CDs even post-iTunes).
 
 <br>
 
-**Nupur Gurjar**  
+**Nupur Gurjar** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/nupur.jpg" width="50"/>  
 <a href="mailto:nupur_gurjar@mde.harvard.edu">nupur_gurjar@mde.harvard.edu</a>  
+Virtual Office Hours: TBA  
+
 I am a trained Architect and keep a keen interest in Design Interaction and Experience design. As a second-year Master in Design Engineering (MDE) student at Harvard, I am exploring problem-solving for real-world challenges through the lens of design and systems thinking.
+
 A cherished passion of mine has always remained performing arts. I have been practicing Indian classical dance forms, Bharathanatyam and Kathak for the last 20 years or so, which introduced me to a world of classical music, both vocal and instrumental. Inspired by the intersection between design and performance, I ventured briefly into set and performance design for the media industry.
 
 <br>
 
-**Ansar Lemon**  
+**Ansar Lemon** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/ansar.jpg" width="50"/>  
 <a href="mailto:ansar_lemon@g.harvard.edu  ">ansar_lemon@g.harvard.edu  </a>  
+Virtual Office Hours: TBA  
 
 <br>
 
 **George Touloumes** (Remote Support TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/george.jpg" width="50"/>  
-<a href="mailto:touloumes@g.harvard.edu">touloumes@g.harvard.edu</a>
-
-<br>
-
-**David Forrest** (Head TF)  
-<img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/david.jpg" width="50"/>  
-<a href="mailto:dforrest@g.harvard.edu">dforrest@g.harvard.edu</a>
+<a href="mailto:touloumes@g.harvard.edu">touloumes@g.harvard.edu</a>  
+Virtual Office Hours: TBA  
 
 <br>
 
@@ -229,6 +269,7 @@ A cherished passion of mine has always remained performing arts. I have been pra
 **Elaine Kristant**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/elaine.jpg" width="50"/>  
 <a href="mailto:ekristant@g.harvard.edu">ekristant@g.harvard.edu</a>  
+
 I have a BS in mechanical engineering and worked as a mechanical design engineer at iRobot for some time, then I got a MS in manufacturing engineering and worked for Medtronic prior to working at Harvard. Growing up I played the flute from 5th-8th grade and then switched to trombone (because it's such a similar instrument) and played that through high school. I primarily listen to rock (classic, alternative, punk, pop-punk), but I listen to other styles depending on my mood.
 
 <br>
@@ -236,11 +277,13 @@ I have a BS in mechanical engineering and worked as a mechanical design engineer
 **Xuan Liang**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>  
 <a href="xuan_liang@harvard.edu">xuan_liang@harvard.edu</a>  
+
 I'm the Associate Director of Instructional Laboratories at SEAS. My role in GenEd 1080 includes a wide spectrum of the labs' operation with quality, effectiveness, efficiency, and best practices in mind. I focus mainly on Electrical Engineering and Computer Science (EECS) lab content. I supported the Electrical Engineering side of the labs in this course last year and enjoyed realizing music via electronics.
 
 <br>
 
 ### SEAS Design and Innovation  
+
 **Salma Abu Ayyash**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/salma.jpg" width="50"/>  
 <a href="mailto:salma@g.harvard.edu">salma@g.harvard.edu</a>  
@@ -404,9 +447,9 @@ Side A (Class)
 - **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Prototyping: Computer Aided Design (CAD)" lab assignment (early/mid-week)  
+- **Track 1 - Build** "Prototyping I: Computer Aided Design (CAD)" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Prototyping: Computer Aided Design (CAD)" lab section on Zoom (end of the week)  
+- **Track 3 - Join** "Prototyping I: Computer Aided Design (CAD)" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -436,9 +479,9 @@ Side A (Class)
 - **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Prototyping: Machining and 3D Printing" lab assignment (early/mid-week)  
+- **Track 1 - Build** "Prototyping II: Machining and 3D Printing" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Prototyping: Machining and 3D Printing" lab section on Zoom (end of the week)  
+- **Track 3 - Join** "Prototyping II: Machining and 3D Printing" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -539,7 +582,7 @@ Side A (Class)
 
 Side B (Lab)  
 - **Track 1 - Build** "Sound, Electricity, and the Piezoelectric Effect" lab assignment (early/mid-week)
-- **Track 2 - Work on** Room Acoustics assignment (early/mid-week)
+- **Track 2 - Work on** Room Acoustics Assignment (early/mid-week)
 - **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
 - **Track 4 - Join** "Sound, Electricity, and the Piezoelectric Effect" lab section on Zoom (end of the week)  
 
@@ -573,7 +616,7 @@ Side A (Class)
 Side B (Lab)  
 - **Track 1 - Build** "Arduino Sound Synthesizer" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Finish and Upload** Room Acoustics assignment (by the beginning of lab section)
+- **Track 3 - Finish and Upload** Room Acoustics Assignment (by the beginning of lab section)
 - **Track 4 - Join** "Arduino Sound Synthesizer" lab section on Zoom (end of the week)  
 
 <br>
