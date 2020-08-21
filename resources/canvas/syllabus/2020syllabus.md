@@ -19,7 +19,8 @@ Here are a few things you can do to get a feel for the course during shopping pe
 - Browse through the **syllabus** (which you're reading right now) to get an overview of the course's topics and structure
 - Watch the **course trailer** and **1080 Fest trailer** in the [Course Overview](#course-overview) section below
 - Watch the [Intro Lesson](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a) to start diving into the material, and then dive even deeper into [Physics of Sound I](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)
-- Visit the GenEd 1080 [Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266) to chat with the course staff and ask us any question you have.
+- If you weren't able to attend our **half-hour intro session** during shopping period, you can watch a Zoom recording of it [here](https://harvard.zoom.us/rec/play/6JIqJLytrTo3H9CcswSDUPUtW47vJ_qs2yRNqPZZnUi2UXVWZwenZ7EVN-dtZULFuo9Q-qBgbJihNgbD)
+- Visit the GenEd 1080 [Slack channel](https://canvas.harvard.edu/courses/75224/external_tools/63266) to chat with the course staff or ask us any additional question you have.
 
 <br>
 
