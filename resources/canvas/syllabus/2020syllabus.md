@@ -365,36 +365,45 @@ Week 1 (8/31 - 9/4)</p>
 
 <br>
 
-**Welcome to GenEd 1080!** This week we'll introduce the course, get up and running on Slack, get everyone scheduled in lab sections (which begin in Week 2), and start diving into the course material. We'll also begin exploring the physics of sound, including some basic definitions of waves and the universal wave equation.
+**Welcome to GenEd 1080!** This week we'll introduce the course, get up and running on Slack, and schedule lab sections, which will begin in Week 2.
+
+Then we'll dive right in to a discussion of sound waves and the universal wave equation, as well as some properties of sound propagation, like the speed of sound, refraction, reflection, and diffraction. We'll also go over some history of how we've come to understand these phenomena and how they have been exploited throughout human history.
+
+There's lots to watch before we meet on Wednesday, so take a look early and be sure to give yourself enough time!
 
 <br>
 
 #### **Calendar and Announcements**  
 - Fall semester begins Weds 9/2 (Monday schedule)
-- No labs this week (short week)
+- No lab meetings this week
 
 <br>
 
 #### **Track List**
 
+Getting Started
 - **Track 1 - [Fill out](https://forms.gle/HHFX4yh65jiEypxD6)** The GenEd 1080 Intro Survey (right away!)
 - **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e553f8c7-f935-4558-b5e3-ac110034514a)** "Introduction" (before class on Wednesday)
-- **Track 3 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)** "Physics of Sound I" (before class on Wednesday)
-- **Track 4 - Join** our first class meeting on Zoom (on Wednesday)  
-- **Track 5 - [Say hi](https://canvas.harvard.edu/courses/75224/external_tools/63266)** on the GenEd 1080 Slack channel (before the end of the week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/63266)** the GenEd 1080 Slack channel (before class on Wednesday)  
 
+
+For Wednesday's Class
+- **Track 4 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)** "Physics of Sound I" (before class on Wednesday)
+- **Track 5 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (before class on Wednesday)  
+- **Track 6 - [Read](https://canvas.harvard.edu/courses/75224/files/folder/Readings?preview=10474827)** "What is Sound?" (this is an **optional** deeper dive into the week's topic)
+- **Track 7 - [Join](https://harvard.zoom.us/j/97139542200?pwd=RW1yQ3dhSzJUYnRzd2tCc2ExNmZUZz09)** our first class meeting on Zoom (Wednesday at 9am or 3pm, based on your registration)  
 
 <br>
 
 ---
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week2.png" width="75" />
 
-### Physics of Sound (Part 2)
+### Intro to Computational Tools
 Week 2 (9/7 - 9/11)
 
 <br>
 
-**What is sound?** This week we'll continue exploring the properties of sound propagation, such as the speed of sound, refraction, reflection, and diffraction. We'll also go over some history of our understanding of these phenomena and how they have been exploited throughout human history.
+**How do computers model sound?** This week we'll translate physical models of sound into programmatic models, and we'll introduce some of the software tools we'll be using throughout the semester to visualize and manipulate audio.
 
 Since Monday is a holiday, we will have a **make-up Class Meeting on Wednesday** at the same times as our regular Monday meeting (9:00-10:15 a.m. OR 3:00-4:15 p.m. Boston time). You can come to *either* of these classes, and we will also record the class so anyone who can't attend can watch afterward.
 
@@ -410,9 +419,7 @@ Since Monday is a holiday, we will have a **make-up Class Meeting on Wednesday**
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (before class on Wednesday)  
-- **Track 2 - Read** "What is Sound?" (before class on Wednesday)
-- **Track 3 - Join or Watch** class on Zoom (on **Wednesday**)
+- **Track 1 - Join or Watch** class on Zoom (on **Wednesday**)
 
 
 Side B (Lab)  
