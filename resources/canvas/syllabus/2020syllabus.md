@@ -332,8 +332,8 @@ Students needing academic adjustments or accommodations should speak with the co
 
 
 **Acoustics**
-- [Week 1 - Introduction and Physics of Sound (Part 1)](#introduction-and-physics-of-sound-part-1-)
-- [Week 2 - Physics of Sound (Part 2)](#physics-of-sound-part-2-)
+- [Week 1 - Introduction and Physics of Sound](#introduction-and-physics-of-sound)
+- [Week 2 - Modeling Sound](#modeling-sound)
 - [Week 3 - String Instruments and the Harmonic Series](#string-instruments-and-the-harmonic-series)
 - [Week 4 - Frequency Analysis and Music Composition](#frequency-analysis-and-music-composition)
 - [Week 5 - Vocal and Auditory Systems in Humans and Animals](#vocal-and-auditory-systems-in-humans-and-animals)
@@ -360,7 +360,7 @@ Students needing academic adjustments or accommodations should speak with the co
 ---
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week1.png" width="75" />
 
-### Introduction and Physics of Sound (Part 1)
+### Introduction and Physics of Sound
 Week 1 (8/31 - 9/4)</p>
 
 <br>
@@ -398,7 +398,7 @@ For Wednesday's Class
 ---
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week2.png" width="75" />
 
-### Intro to Computational Tools
+### Modeling Sound
 Week 2 (9/7 - 9/11)
 
 <br>
@@ -585,7 +585,7 @@ Week 7 (10/12 - 10/16)
 
 Side A (Class)  
 - **Track 1 - Watch** "Room Acoustics" (over the weekend)  
-- **Track 2 - Read** "Speculative Systems" (over the weekend)  
+- **Track 2 - Watch** "Speculative Systems" (over the weekend)  
 - **Track 3 - Join** class on Zoom (alternate schedule)  
 
 Side B (Lab)  
