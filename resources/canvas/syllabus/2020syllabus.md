@@ -122,9 +122,11 @@ All these materials will be available on the GenEd 1080 Canvas Site (the site yo
 
 Then, on Mondays, we'll come together as a group on Zoom. Here, Prof. Wood and the teaching staff will lead **discussions**, **group activities**, **demos**, host **special guests**, and dive into some **deep cuts** to close out Side A.
 
-Depending on your time zone and schedule, you have the option to **sign up for (and attend) *one*** of the following group sessions for this course:
+Depending on your time zone and schedule, you have the option to **enroll in one** of the following group sessions for this course:
 - 9:00-10:15 a.m. (Boston time) on Mondays, or
 - 3:00-4:15 p.m. (Boston time) on Mondays.
+
+**You're required to attend** the weekly class meeting! Please let the course staff know in advance if you need to miss class, or there's a week when you need to attend the alternate class time.  
 
 <br>
 
@@ -143,6 +145,8 @@ During the Acoustic, Electronic, and Final Project builds, this will be time for
 Toward the end of the week, we'll come back together in **lab sections** to troubleshoot what you've built, brainstorm ideas and modifications, and squeeze all the knowledge and experience you can out of your wildly brilliant and interesting lab TFs.
 
 Lab sections are scheduled at the beginning of the semester, and are determined by both the [GenEd 1080 intro survey](https://forms.gle/HHFX4yh65jiEypxD6), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes). We'll talk more about scheduling labs during the first week of classes.
+
+**You're required to attend** lab section each week! Please let the course staff know in advance if you need to miss a lab, or if there's a week when you need to attend an alternate lab section time.
 
 <br>
 
@@ -313,7 +317,7 @@ I'm the Associate Director of Instructional Laboratories at SEAS. My role in Gen
 
 ### Grading Policy
 - 20% Class Activities and Assessments (during Monday class meeting)
-- 50% Weekly assignments (Lab builds and participation)
+- 50% Weekly assignments (Lab builds and participation in section)
 - 30% Final project
 
 <br>
