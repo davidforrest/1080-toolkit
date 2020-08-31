@@ -197,7 +197,7 @@ Hi, I’m Kelly - my research interests are the role of both project based learn
 <a href="mailto:dforrest@g.harvard.edu">dforrest@g.harvard.edu</a>  
 Virtual Office Hours: TBA
 
-I'm a PhD candidate in music theory (of all things!), and this is my second year as Head TF for GenEd 1080. I care a lot about beginner music learning, and especially about our responsibility to *design* music concepts, much like we design music products. I love how GenEd 1080 opens up creative possibilities that couldn't exist in an engineering or music course alone.  
+I'm a PhD candidate in music theory, and this is my second year as Head TF for GenEd 1080. I care a lot about beginner music learning, and especially about our ability (and responsibility) to *design* music concepts, much like we design music products. I love how GenEd 1080 opens up creative possibilities that couldn't exist in an engineering or music course alone.  
 
 Although I'm not leading a lab section this semester, I'll be very involved in the composition, theory, and music copyright sections of the course, as well as the instrument builds. I'm a great person to help you brainstorm ideas for your composition, or to help dream up a wild new tuning system or interface for your instrument.
 
@@ -224,7 +224,9 @@ I'm a second year PhD student in SEAS with broad interests across CAD modeling/s
 **Rachel Zoll** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rachel.jpg" width="50"/>  
 <a href="mailto:rachelzoll@g.harvard.edu">rachelzoll@g.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: TBA
+
+I am a second year PhD student in SEAS focusing on medical robotics. Recently, I've interacted with music more through projects in signal processing and digital hardware. You can find me listening to many genres of music including electroswing, jazz, and ambient electronic music!  
 
 <br>
 
@@ -232,6 +234,8 @@ Virtual Office Hours: TBA
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/spandan.jpg" width="50"/>  
 <a href="mailto:spandan_madan@g.harvard.edu">spandan_madan@g.harvard.edu</a>  
 Virtual Office Hours: TBA  
+
+I'm a second year PhD student at SEAS working at the intersection of computer vision and computational neuroscience. I've played the guitar since I was 15, and am an avid classic rock and blues fan. Top three picks - Pink Floyd, Led Zeppelin, Buddy Guy. Always down to jam.
 
 <br>
 
@@ -260,12 +264,18 @@ A cherished passion of mine has always remained performing arts. I have been pra
 <a href="mailto:ansar_lemon@g.harvard.edu  ">ansar_lemon@g.harvard.edu  </a>  
 Virtual Office Hours: TBA  
 
+I am a second year PhD student in environmental science and engineering. My research is currently focused on solar geoengineering.
+
+I have played instruments for many years since I was little. My main instruments are currently the piano and guitar (both acoustic and electric), but I also used to play the harmonica and briefly learned how to play the trumpet a bit as well. I was originally classically trained on both the piano and guitar but eventually branched out into other genres such as jazz, folk, and rock. I enjoy writing both instrumental and rock music. I use my classical guitar training to more broadly employ fingerstyle guitar across genres in my compositions. I also enjoy listening to a wide variety of musical genres such as rock, classical (primarily film scores), trip hop, pop, and instrumental.
+
 <br>
 
 **George Touloumes** (Remote Support TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/george.jpg" width="50"/>  
 <a href="mailto:touloumes@g.harvard.edu">touloumes@g.harvard.edu</a>  
 Virtual Office Hours: TBA  
+
+I'm a 6th year PhD student in Bioengineering researching how extracellular matrix proteins protect neurons in the brain from starting seizures after a traumatic brain injury. Although I'm not a musician, I did my undergrad concentration in electrical engineering and learned a ton about music theory from the signal processing side of things. I've also been trained in traditional Byzantine chant music and Greek folk dance.
 
 <br>
 
@@ -395,7 +405,7 @@ For Wednesday's Class
 - **Track 4 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349878a8-f595-4080-a9ba-ac0000faf8f5)** "Physics of Sound I" (before class on Wednesday)
 - **Track 5 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30715c8c-6865-405b-a0bf-ac0000fb24d3)** "Physics of Sound II" (before class on Wednesday)  
 - **Track 6 - [Read](https://canvas.harvard.edu/courses/75224/files/folder/Readings?preview=10474827)** "What is Sound?" (this is an **optional** deeper dive into the week's topic)
-- **Track 7 - [Join](https://harvard.zoom.us/j/97139542200?pwd=RW1yQ3dhSzJUYnRzd2tCc2ExNmZUZz09)** our first class meeting on Zoom (Wednesday at 9am or 3pm, based on your registration)  
+- **Track 7 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** our first class meeting on Zoom (Wednesday at 9am or 3pm, based on your registration)  
 
 <br>
 
