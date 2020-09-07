@@ -417,29 +417,30 @@ Week 2 (9/7 - 9/11)
 
 <br>
 
-**How do computers model sound?** This week we'll translate physical models of sound into programmatic models, and we'll introduce some of the software tools we'll be using throughout the semester to visualize and manipulate audio.
+**How do computers model sound?** This week we'll translate physical models of sound into programmatic models, and we'll introduce two very different software tools to visualize and manipulate audio.
 
-Since Monday is a holiday, we will have a **make-up Class Meeting on Wednesday** at the same times as our regular Monday meeting (9:00-10:15 a.m. OR 3:00-4:15 p.m. Boston time). You can come to *either* of these classes, and we will also record the class so anyone who can't attend can watch afterward.
+Since Monday is a holiday, we will have an **optional Class Meeting on Wednesday** at 9:00-10:15 a.m. Boston time to work together on this week's lab. This will, of course, be infinitely more fun than working on your own.
+
+Finally, **lab sections begin this week**, so be sure to check my.harvard for your lab section assignment.
 
 <br>
 
 #### **Calendar and Announcements**  
 - Labor Day Holiday Monday 9/7 (no Class Meeting)
-- Make-up Class Meeting (optional) Wednesday 9/9
+- Optional Class Meeting Wednesday 9/9
 - Course Registration Deadline Weds 9/9
+- Lab Sections begin this Thurs 9/10 and Friday 9/11
 
 <br>
 
 #### **Track List**
 
-Side A (Class)  
-- **Track 1 - Join or Watch** class on Zoom (on **Wednesday**)
+<br>
 
-
-Side B (Lab)  
-- **Track 1 - Complete** "Intro to Computational Tools" lab assignment (early/mid-week)  
+- **Track 1 - Complete** the [Intro to Computational Tools](https://canvas.harvard.edu/courses/75224/assignments/392130) lab assignment (early/mid-week)  
+- **Track 2 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** our (optional) Class meeting (Wednesday at 9am)
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack, ask a question, help someone out (early/mid-week)  
-- **Track 3 - Join** "Intro to Computational Tools" first lab section on Zoom (end of the week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** your first lab section on Zoom (on Thursday or Friday, based on your registration)  
 
 <br>
 
