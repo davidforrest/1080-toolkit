@@ -464,10 +464,9 @@ Week 3 (9/14 - 9/18)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "String Instruments" (over the weekend)
-- **Track 2 - Watch** "The Harmonic Series" (over the weekend)  
-- **Track 3 - Read** "String Instruments and the Harmonic Series" (over the weekend)  
-- **Track 4 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9676fbb6-8afb-4ab6-bae9-abfe01297ec9)** "String Instruments" (over the weekend)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a4189c9-ac78-4ecb-b135-ac320181166a)** "Musical Intervals" (over the weekend)  
+- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Build** "Prototyping I: Computer Aided Design (CAD)" lab assignment (early/mid-week)  
