@@ -464,14 +464,15 @@ Week 3 (9/14 - 9/18)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9676fbb6-8afb-4ab6-bae9-abfe01297ec9)** "String Instruments" (over the weekend)
-- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a4189c9-ac78-4ecb-b135-ac320181166a)** "Musical Intervals" (over the weekend)  
-- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9676fbb6-8afb-4ab6-bae9-abfe01297ec9)** "String Instruments" (before class on Monday)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a4189c9-ac78-4ecb-b135-ac320181166a)** "Musical Intervals" (before class on Monday)  
+- **Track 3 - [Read](https://drive.google.com/file/d/1JpA6X_bUfnHNeTmk6PYt--jEnAQTdLgO/view)** "Vibrating Systems" (this is *optional*, and builds on several of the topics we've introduced since the beginning of the semester)
+- **Track 4 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Prototyping I: Computer Aided Design (CAD)" lab assignment (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Prototyping I: Computer Aided Design (CAD)" lab section on Zoom (end of the week)  
+- **Track 1 - [Build](https://canvas.harvard.edu/courses/75224/assignments/392131)** "Prototyping I: Computer Aided Design (CAD)" lab assignment (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** your lab section on Zoom (on Thursday or Friday)  
 
 <br>
 
@@ -483,7 +484,7 @@ Week 4 (9/21 - 9/25)
 
 <br>
 
-**What are the connections between strategies  for musical composition and engineering design?** Design is all around us. Beyond the ubiquitous examples in architecture and consumer devices, engineering design is present in the transportation, communication, and information systems that we take for granted. Similarly, composers often follow an analogous process for creating a piece of music. This week we'll outline techniques used in both engineering design and musical composition.
+**What are the connections between strategies for musical composition and engineering design?** Design is all around us. Beyond the ubiquitous examples in architecture and consumer devices, engineering design is present in the transportation, communication, and information systems that we take for granted. Similarly, composers often follow an analogous process for creating a piece of music. This week we'll outline techniques used in both engineering design and musical composition.
 
 <br>
 
@@ -495,15 +496,15 @@ Week 4 (9/21 - 9/25)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Time/Frequency Analysis" (over the weekend)  
-- **Track 2 - Watch** "Composition" (over the weekend)
-- **Track 3 - Read** "Frequency Analysis and Music Composition" (over the weekend)  
-- **Track 4 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9fc471e-65f0-4408-84e1-ac1d016825c8)** "Frequency Analysis" (before class on Monday)  
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a7138c0-8eaa-4e5c-b3de-ac33013c3d52)** "Music Composition" (before class on Monday)
+- **Track 3 - [Read](https://drive.google.com/file/d/1UgCUyKPaVtmFwd4WPDUL3HVUXw0NU3Nt/view)** "Musical Scales, Tuning, and Intonation" (this is *supplemental*, and builds on our discussion of musical intervals, toward constructing a more robust musical system)  
+- **Track 4 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Build** "Prototyping II: Machining and 3D Printing" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Prototyping II: Machining and 3D Printing" lab section on Zoom (end of the week)  
+- **Track 3 - Join** your lab section on Zoom (on Thursday or Friday)  
 
 <br>
 
@@ -570,7 +571,7 @@ Side B (Lab)
 - **Track 1 - Finish Building** your Acoustic Instrument and Composition (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
 - **Track 3 - Upload** your Acoustic Instrument and Composition assignment (by the beginning of lab section)
-- **Track 3 - Join** lab section on Zoom (end of the week)  
+- **Track 4 - Join** lab section on Zoom (end of the week)  
 
 <br>
 
@@ -706,7 +707,7 @@ Side B (Lab)
 - **Track 1 - Build** "Analog Synthesizers & Max/MSP" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
 - **Track 3 - Upload** your Final Project Preliminary Proposal (by the beginning of lab section)
-- **Track 3 - Join** "Analog Synthesizers & Max/MSP" lab section on Zoom (end of the week)  
+- **Track 4 - Join** "Analog Synthesizers & Max/MSP" lab section on Zoom (end of the week)  
 
 <br>
 
