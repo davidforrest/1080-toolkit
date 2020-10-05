@@ -110,7 +110,9 @@ Each side starts out with tracks you listen to on your own, and ends with tracks
 
 <br>
 
-### Side A - Listen on your own (Class Prep)
+### Side A:
+
+### Listen on your own (Class Prep)
 
 During the weekend (before the week starts), you listen on your own to the opening tracks of Side A. These will be things like **lesson videos**, **readings**, **explorables**, and **interesting websites** about the week's topic.
 
@@ -118,7 +120,7 @@ All these materials will be available on the GenEd 1080 Canvas Site (the site yo
 
 <br>
 
-### Side A - Listen together (Class Meeting)
+### Listen together (Class Meeting)
 
 Then, on Mondays, we'll come together as a group on Zoom. Here, Prof. Wood and the teaching staff will lead **discussions**, **group activities**, **demos**, host **special guests**, and dive into some **deep cuts** to close out Side A.
 
@@ -130,7 +132,9 @@ Depending on your time zone and schedule, you have the option to **enroll in one
 
 <br>
 
-### Side B - Listen on your own (Lab Prep)
+### Side B:
+
+### Listen on your own (Lab Prep)
 
 During the early part of the week, we'll flip the record over and start digging into the week's **lab build**. Everyone in the class will receive a **lab swag kit** by mail, full of instrument parts, electronic components, a prototyping board, tools, cables, drum sticks, and everything else you need to be a mad scientist-musician at home.
 
@@ -140,11 +144,19 @@ During the Acoustic, Electronic, and Final Project builds, this will be time for
 
 <br>
 
-### Side B - Listen together (Lab Meetings)
+### Listen together (Lab Meetings)
 
 Toward the end of the week, we'll come back together in **lab sections** to troubleshoot what you've built, brainstorm ideas and modifications, and squeeze all the knowledge and experience you can out of your wildly brilliant and interesting lab TFs.
 
-Lab sections are scheduled at the beginning of the semester, and are determined by both the [GenEd 1080 intro survey](https://forms.gle/HHFX4yh65jiEypxD6), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes). We'll talk more about scheduling labs during the first week of classes.
+Lab sections are scheduled at the beginning of the semester, and are determined by both the [GenEd 1080 intro survey](https://forms.gle/HHFX4yh65jiEypxD6), and by the Registrar's sectioning tool (to make sure there are no schedule conflicts with your other classes). This semester's labs will be held at the following times:  
+
+- Thursday 9:00am - 10:15am (Ansar Lemon)
+- Thursday 12:00pm - 1:15pm (Mark Lock)
+- Thursday 1:30pm - 2:45pm (Sophia TenHuisen)
+- Thursday 4:30pm - 5:45pm (Rachel Zoll)
+- Friday 12:00pm - 1:15pm (Spandan Madan)
+- Friday 1:30pm - 2:45pm (Ethan Schumann)
+- Friday 3:00pm - 4:15pm (Ethan Schumann)
 
 **You're required to attend** lab section each week! Please let the course staff know in advance if you need to miss a lab, or if there's a week when you need to attend an alternate lab section time.
 
@@ -174,8 +186,10 @@ Each and every staff member is happy to chat with you about any aspects related 
 
 **Robert Wood**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rob.jpg" width="50"/>  
-<a href="mailto:rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>  
-Virtual Office Hours: TBA  
+<a href="mailto:rjwood@seas.harvard.edu">rjwood@seas.harvard.edu</a>
+
+Virtual Office Hours: **Wednesdays 2-3pm EST** [here](https://harvard.zoom.us/j/92108995798?pwd=bGtDUHJKeE5TS2J2ejFtQzd2VldqUT09) on Zoom.  
+I am happy to set up separate discussions as well.
 
 I am trained as a roboticist and have taught courses in Electrical Engineering, Mechanical Engineering, and Engineering Design... and recently I served as Chair of Bioengineering, so I enjoy interdisciplinary subjects. But another passion of mine has always been music — in particular I have played and tinkered with the electric guitar for over 25 years.
 
@@ -184,7 +198,8 @@ I am trained as a roboticist and have taught courses in Electrical Engineering, 
 **Kelly Miller**  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/kelly.jpg" width="50"/>  
 <a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>  
-Virtual Office Hours: TBA  
+
+Virtual Office Hours: **Tuesdays 11am-12pm EST** [here](https://harvard.zoom.us/j/9022808955) on Zoom, and by appointment.
 
 Hi, I’m Kelly - my research interests are the role of both project based learning and technology in improving STEM education. I am not very musical but have had a lot of fun learning about music through the student projects in AP50 (which is what I usually teach). I am looking forward to learning more from the students in this course - I look forward to meeting all of you!
 
@@ -195,7 +210,7 @@ Hi, I’m Kelly - my research interests are the role of both project based learn
 **David Forrest** (Head TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/david.jpg" width="50"/>  
 <a href="mailto:dforrest@g.harvard.edu">dforrest@g.harvard.edu</a>  
-Virtual Office Hours: TBA
+Virtual Office Hours: by appointment
 
 I'm a PhD candidate in music theory, and this is my second year as Head TF for GenEd 1080. I care a lot about beginner music learning, and especially about our ability (and responsibility) to *design* music concepts, much like we design music products. I love how GenEd 1080 opens up creative possibilities that couldn't exist in an engineering or music course alone.  
 
@@ -206,7 +221,7 @@ Although I'm not leading a lab section this semester, I'll be very involved in t
 **Sophia TenHuisen** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/sophia.jpg" width="50"/>  
 <a href="mailto:stenhuisen@g.harvard.edu">stenhuisen@g.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I'm a second year PhD student in SEAS, interested in new materials and controlling their properties with light. I also play violin and love orchestral music. This summer I've been having fun learning some new fiddle tunes!
 
@@ -215,7 +230,7 @@ I'm a second year PhD student in SEAS, interested in new materials and controlli
 **Ethan Schumann** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/no_photo.jpg" width="50"/>   
 <a href="mailto:eschumann@g.harvard.edu">eschumann@g.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I'm a second year PhD student in SEAS with broad interests across CAD modeling/simulation, robot manipulation, and controls. I'm picking up the ukulele as a hobby and looking forward to be learning along with everyone else!
 
@@ -224,7 +239,7 @@ I'm a second year PhD student in SEAS with broad interests across CAD modeling/s
 **Rachel Zoll** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/rachel.jpg" width="50"/>  
 <a href="mailto:rachelzoll@g.harvard.edu">rachelzoll@g.harvard.edu</a>  
-Virtual Office Hours: TBA
+Virtual Office Hours: by appointment
 
 I am a second year PhD student in SEAS focusing on medical robotics. Recently, I've interacted with music more through projects in signal processing and digital hardware. You can find me listening to many genres of music including electroswing, jazz, and ambient electronic music!  
 
@@ -233,7 +248,7 @@ I am a second year PhD student in SEAS focusing on medical robotics. Recently, I
 **Spandan Madan** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/spandan.jpg" width="50"/>  
 <a href="mailto:spandan_madan@g.harvard.edu">spandan_madan@g.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I'm a second year PhD student at SEAS working at the intersection of computer vision and computational neuroscience. I've played the guitar since I was 15, and am an avid classic rock and blues fan. Top three picks - Pink Floyd, Led Zeppelin, Buddy Guy. Always down to jam.
 
@@ -242,7 +257,7 @@ I'm a second year PhD student at SEAS working at the intersection of computer vi
 **Mark Lock** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/mark.jpg" width="50"/>  
 <a href="mailto:yienhaolock@g.harvard.edu">yienhaolock@g.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I'm a Data Science Masters student focusing on natural language processing/machine learning, and I worked in data science and tech for 8 years prior to Harvard. I've been an amateur jazz, classical and rock bassist but my ultimate musical passion is composition (and collecting CDs even post-iTunes).
 
@@ -251,7 +266,7 @@ I'm a Data Science Masters student focusing on natural language processing/machi
 **Nupur Gurjar** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/nupur.jpg" width="50"/>  
 <a href="mailto:nupur_gurjar@mde.harvard.edu">nupur_gurjar@mde.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I am a trained Architect and keep a keen interest in Design Interaction and Experience design. As a second-year Master in Design Engineering (MDE) student at Harvard, I am exploring problem-solving for real-world challenges through the lens of design and systems thinking.
 
@@ -262,7 +277,7 @@ A cherished passion of mine has always remained performing arts. I have been pra
 **Ansar Lemon** (Lab TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/ansar.jpg" width="50"/>  
 <a href="mailto:ansar_lemon@g.harvard.edu  ">ansar_lemon@g.harvard.edu  </a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I am a second year PhD student in environmental science and engineering. My research is currently focused on solar geoengineering.
 
@@ -273,7 +288,7 @@ I have played instruments for many years since I was little. My main instruments
 **George Touloumes** (Remote Support TF)  
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/george.jpg" width="50"/>  
 <a href="mailto:touloumes@g.harvard.edu">touloumes@g.harvard.edu</a>  
-Virtual Office Hours: TBA  
+Virtual Office Hours: by appointment  
 
 I'm a 6th year PhD student in Bioengineering researching how extracellular matrix proteins protect neurons in the brain from starting seizures after a traumatic brain injury. Although I'm not a musician, I did my undergrad concentration in electrical engineering and learned a ton about music theory from the signal processing side of things. I've also been trained in traditional Byzantine chant music and Greek folk dance.
 
@@ -326,9 +341,42 @@ I'm the Associate Director of Instructional Laboratories at SEAS. My role in Gen
 <br>
 
 ### Grading Policy
-- 20% Class Activities and Assessments (during Monday class meeting)
-- 50% Weekly assignments (Lab builds and participation in section)
-- 30% Final project
+
+<br>
+
+**Class (20%)**
+- Attendance and participation during Monday class meetings comprise 20% of your course grade.
+- Activities are graded for participation only (not for correctness), and to show your attendance. The purpose of class activities is to spark discussion in your group, and to reinforce the most important concepts from the week's material.
+- Small group peer evaluations will assess your participation in your group.
+
+<br>
+
+**Labs (50%)**
+- Weekly lab builds and participation in lab section comprise 50% of course grade.
+- There are 8 "regular" lab assignments, and two instrument build/composition assignments.
+- Each regular lab assignment is graded out of three points:
+  - 1 point for attempting the lab  
+  - 1 point for completing the lab and submitting all deliverables on time
+  - 1 point for participating in lab section
+- Each of the two instrument builds is graded out of 13 points:
+  - The rubric for each instrument build and composition assignment will be detailed in the assignment prompts.
+- There are up to 4 bonus ponts available for exceptional lab assignment submissions that go "above and beyond" expectations, given at the discretion of the staff.
+
+<br>
+
+**Final Project (30%)**
+- The final project comprises 30% of your course grade.
+- This will consist of a preliminary project proposal, a final project submission, and participation in 1080 Fest. The rubric for the Final Project will be detailed in the assignment prompt.
+
+<br>
+
+### Late Policy
+- All lab assignments are due 11:59pm EST on the Sunday following the synchronous lab session, unless otherwise specified.
+- All lab assignments will be posted on Canvas and will require an upload that will be timestamped.
+- All students get a total of four late days they can bank over the course of the semester. If you anticipate being late completing a lab assignment, please notify your lab TF in advance.
+- If your assignments are, in aggregate, more than four days late, subsequent late assignments will not be considered complete and will carry a maximum score of 2pts (i.e., if the lab was attempted and submitted, and if you participated in the synchronous lab activity).
+- Banked late assignments can be used for any assignment **except for the final project**.
+- If you have extenuating circumstances that will cause you to have more than four late days (aggregated), please contact a member of the course staff to discuss alternate arrangements.
 
 <br>
 
@@ -502,9 +550,9 @@ Side A (Class)
 - **Track 4 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Prototyping II: Machining and 3D Printing" lab assignment (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** your lab section on Zoom (on Thursday or Friday)  
+- **Track 1 - [Build](https://canvas.harvard.edu/courses/75224/assignments/392132)** "Prototyping II: Machining and 3D Printing" lab assignment, and take the [safety quiz](https://canvas.harvard.edu/courses/75224/quizzes/184888) (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** your lab section on Zoom (on Thursday or Friday)  
 
 <br>
 
@@ -530,15 +578,16 @@ Week 5 (9/28 - 10/2)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Vocalization" (over the weekend)  
-- **Track 2 - Watch** "How Do We Hear?" (over the weekend)  
-- **Track 3 - Read** "Vocal and Auditory Systems in Humans and Animals" (over the weekend)  
-- **Track 4 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8211ab5e-1ff0-4ed0-82c9-ac33013c560f)** "Voice as an Instrument" (over the weekend)  
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dc0626b-6772-4d26-94b8-abf900f25894)** "How Do We Hear?" (over the weekend)
+- **Track 3 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a91d4c7-ba92-4069-ab06-ac1d016989f3)** "Animal Acoustics?" (over the weekend)  
+- **Track 4 - [Read](https://drive.google.com/file/d/1jNOtivPkrc6e1V1K2SZFB5ra6L5bsYQL/view)** "Psychophysical Basis of Sound" (this is *supplemental* and ties this week's topic to our previous discussions on sound and pitch perception)  
+- **Track 5 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Start Building** your Acoustic Instrument and Composition (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** lab section on Zoom (end of the week)  
+- **Track 1 - Start Building** your [Acoustic Instrument](https://canvas.harvard.edu/courses/75224/assignments/392132#acoustic-instrument-project-proposal) and [Composition](https://canvas.harvard.edu/courses/75224/assignments/392133) (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** your lab section on Zoom (on Thursday or Friday)  
 
 <br>
 
@@ -550,28 +599,29 @@ Week 6 (10/5 - 10/9)
 
 <br>
 
-**How is sound produced acoustically?** An exploration of the vibrations of plates, harmonic vs. inharmonic instruments, and the motion of air in pipes. This module will allow us to extend our previous analysis of one-dimensional systems into 2D and will build on our discussion of the human vocal system.
+**How do pipe organs, flutes, and percussion instruments work?** An exploration of the vibrations of plates, harmonic vs. inharmonic instruments, and the motion of air in pipes. This week extends our previous analysis of one-dimensional systems into 2D and includes four very special guests.
 
 <br>
 
 #### **Calendar and Announcements**  
--  Acoustic Instrument and Composition due by the beginning of lab section
+-  Acoustic Instrument and Composition due Sunday October 11th by 11:59pm
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Pipes" (over the weekend)
-- **Track 2 - Watch** "Plates" (over the weekend)  
-- **Track 3 - Read** "Wind and Percussion Instruments" (over the weekend)  
-- **Track 4 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98abb010-54d5-4e4f-9bf5-ac4800ec839b)** "Pipes I" (over the weekend)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ef5e326-ec47-4cb1-a4a0-ac4801033f49)** "Pipes II" (over the weekend)  
+- **Track 3 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bd9c0d3-2aaa-4506-abdb-ac470115a98c)** "Plates" (over the weekend)  
+- **Track 4 - [Read](https://drive.google.com/file/d/1ZK1FJbWcIOvgPA_Xm5wKjr-eEfhYBMon/view)** "Pipes and Plates" (this is *supplemental*)   
+- **Track 5 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)
 
 Side B (Lab)  
-- **Track 1 - Finish Building** your Acoustic Instrument and Composition (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Upload** your Acoustic Instrument and Composition assignment (by the beginning of lab section)
-- **Track 4 - Join** lab section on Zoom (end of the week)  
+- **Track 1 - Continue Building** your Acoustic Instrument and Composition (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** lab section on Zoom (end of the week)  
+- **Track 4 - Upload** your Acoustic Instrument and Composition (by 11:59pm on Sunday, October 11th)
 
 <br>
 
