@@ -405,7 +405,7 @@ Students needing academic adjustments or accommodations should speak with the co
 <br>
 
 **Electronics**
-- [Week 8 - Microphones and Pickups (Transducers)](#microphones-and-pickups-transducers)
+- [Week 8 - Microphones and Pickups (Transducers)](#microphones-and-pickups-transducers-)
 - [Week 9 - Circuits and Synthesizers](#circuits-and-synthesizers)
 - [Week 10 - Signals and Electronic Effects](#signals-and-electronic-effects)
 - [Week 11 - Audio Storage and Transmission](#audio-storage-and-transmission)
@@ -604,7 +604,7 @@ Week 6 (10/5 - 10/9)
 <br>
 
 #### **Calendar and Announcements**  
--  Acoustic Instrument and Composition due Sunday October 11th by 11:59pm
+-  Acoustic Instrument and Composition due Monday October 12th by 11:59pm
 
 <br>
 
@@ -620,8 +620,8 @@ Side A (Class)
 Side B (Lab)  
 - **Track 1 - Continue Building** your Acoustic Instrument and Composition (early/mid-week)  
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** lab section on Zoom (end of the week)  
-- **Track 4 - Upload** your Acoustic Instrument and Composition (by 11:59pm on Sunday, October 11th)
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (end of the week)  
+- **Track 4 - Upload** your Acoustic Instrument and Composition (by 11:59pm on Monday, October 12th)
 
 <br>
 
@@ -642,22 +642,20 @@ Week 7 (10/12 - 10/16)
 
 #### **Calendar and Announcements**  
 - Columbus Day Holiday Mon 10/12
-- Room Acoustics Assignment announced
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Room Acoustics" (over the weekend)  
-- **Track 2 - Watch** "Speculative Systems" (over the weekend)  
-- **Track 3 - Join** class on Zoom (alternate schedule)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0805998f-2db3-4a53-865f-ac4c00219de2)** "Room Acoustics" (over the weekend)  
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7155c15-62fc-4258-bb92-ac3301086938)** "Speculative Systems" (over the weekend)  
+- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** our (optional) Class meeting (Wednesday at 9am)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Sound, Electricity, and the Piezoelectric Effect" lab assignment (early/mid-week)
-- **Track 2 - Work on** Room Acoustics Assignment (early/mid-week)
-- **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 4 - Join** "Sound, Electricity, and the Piezoelectric Effect" lab section on Zoom (end of the week)  
+- **Track 1 - [Build](https://canvas.harvard.edu/courses/75224/assignments/392134)** "Sound, Electricity, and the Piezoelectric Effect" lab assignment (early/mid-week)
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** "Sound, Electricity, and the Piezoelectric Effect" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -675,22 +673,21 @@ Week 8 (10/19 - 10/23)
 <br>
 
 #### **Calendar and Announcements**  
--  Room Acoustics Assignment due by the beginning of lab section
+-  Normal week schedule
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Transducers" (over the weekend)  
-- **Track 2 - Read** "Sound Transducers" (over the weekend)  
-- **Track 3 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5274dff2-36b2-4f95-879d-abfb0188fe7d)** "Transducers" (over the weekend)  
+- **Track 2 - [Read](https://drive.google.com/file/d/11iZ-3R0_0PHU8jXRsigsWrx7_BFdUnc2/view)** "Sound Transducers" (this is *supplemental*)   
+- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Build** "Arduino Sound Synthesizer" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Finish and Upload** Room Acoustics Assignment (by the beginning of lab section)
-- **Track 4 - Join** "Arduino Sound Synthesizer" lab section on Zoom (end of the week)  
+- **Track 3 - Join** "Arduino Sound Synthesizer" lab section on Zoom (end of the week)  
 
 <br>
 
