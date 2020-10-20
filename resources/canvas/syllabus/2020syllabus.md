@@ -705,7 +705,7 @@ Week 9 (10/26 - 10/30)
 <br>
 
 #### **Calendar and Announcements**  
--  Final Project and Preliminary Proposal announced
+-  Normal week schedule.
 
 <br>
 
@@ -719,9 +719,8 @@ Side A (Class)
 
 Side B (Lab)  
 - **Track 1 - Build** "MIDI & Arduino" lab assignment (early/mid-week)  
-- **Track 2 - Work on** your Final Project Preliminary Proposal (early/mid-week)
-- **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 4 - Join** "MIDI & Arduino" lab section on Zoom (end of the week)  
+- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - Join** "MIDI & Arduino" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -739,7 +738,7 @@ Week 10 (11/2 - 11/6)
 <br>
 
 #### **Calendar and Announcements**  
--  Final Project Preliminary Proposal due (by the beginning of lab section)
+-  Normal week schedule.
 
 <br>
 
@@ -754,8 +753,7 @@ Side A (Class)
 Side B (Lab)  
 - **Track 1 - Build** "Analog Synthesizers & Max/MSP" lab assignment (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Upload** your Final Project Preliminary Proposal (by the beginning of lab section)
-- **Track 4 - Join** "Analog Synthesizers & Max/MSP" lab section on Zoom (end of the week)  
+- **Track 3 - Join** "Analog Synthesizers & Max/MSP" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -784,7 +782,7 @@ Week 11 (11/9 - 11/13)
 Side A (Class)  
 - **Track 1 - Watch** "How Music is Stored" (over the weekend)
 - **Track 2 - Watch** "How Music is Transmitted" (over the weekend)  
-- **Track 3 - Read** "" (over the weekend)  
+- **Track 3 - Read** "Audio Storage and Transmission" (over the weekend)  
 - **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
@@ -808,7 +806,7 @@ Week 12 (11/16 - 11/20)
 <br>
 
 #### **Calendar and Announcements**  
--  Normal week schedule
+-  Final Project Announced, and Preliminary Proposal due this week
 
 <br>
 
@@ -821,9 +819,10 @@ Side A (Class)
 - **Track 4 - Join** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Start Building** your Electronic Instrument and Composition (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** lab section on Zoom (end of the week)  
+- **Track 1 - Start Building** your Electronic Instrument and Composition (early/mid-week)
+- **Track 2 - Work on** your Final Project Preliminary Proposal (due Sunday)  
+- **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
+- **Track 4 - Join** lab section on Zoom (end of the week)  
 
 <br>
 
@@ -842,7 +841,7 @@ Week description coming soon!
 
 #### **Calendar and Announcements**  
 - Thanksgiving Recess Wed-Sun 11/25-11/29
-- Electronic Instrument and Composition due by the end of the day Friday
+- Electronic Instrument and Composition due by the end of the day Sunday
 
 <br>
 
@@ -856,7 +855,7 @@ Side A (Class)
 Side B (Lab)  
 - **Track 1 - Finish Building** your Electronic Instrument and Composition (early/mid-week)  
 - **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Upload** your Electronic Instrument and Composition assignment (by the end of the day Friday)
+- **Track 3 - Upload** your Electronic Instrument and Composition assignment (by the end of the day Sunday)
 
 <br>
 
