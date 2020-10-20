@@ -685,9 +685,9 @@ Side A (Class)
 - **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Arduino Sound Synthesizer" lab assignment (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Arduino Sound Synthesizer" lab section on Zoom (end of the week)  
+- **Track 1 - [Build](https://canvas.harvard.edu/courses/75224/assignments/392136)** "Arduino Sound Synthesizer" lab assignment (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** "Arduino Sound Synthesizer" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -712,9 +712,10 @@ Week 9 (10/26 - 10/30)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Circuits for Musicians" (over the weekend)  
-- **Track 2 - Read** "Circuit Analysis" (over the weekend)  
-- **Track 3 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=107a65fa-fe42-485e-a7e6-ac400153237c)** "Circuits for Musicians I" (over the weekend)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80d416c4-f583-461d-8f17-ac400154255e)** "Circuits for Musicians II" (over the weekend)  
+- **Track 2 - [Read](https://drive.google.com/file/d/15AkU6XWuyT-QOp0-5ze9unNtk24-UUm7/view)** "Circuit Analysis" (this is *supplemental*)  
+- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Build** "MIDI & Arduino" lab assignment (early/mid-week)  
