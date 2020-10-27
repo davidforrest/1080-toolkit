@@ -39,7 +39,7 @@ In this lab, we will be wiring up a MIDI instrument to transmit what sounds we w
 
 In our setup, the Arduino MKRZero and buttons function as the MIDI instrument. The Arduino MKRZero generates MIDI commands that are sent through the MIDI-USB cable into a port on your computer. These MIDI commands are then interpreted by the VCV Rack software to synthesize sound!
 
-![image15](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image15.png)
+![image15](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image15.png)
 
 **IMPORTANT!** Do NOT plug the USB MIDI cable or Arduino into your computer at this point!
 
@@ -53,24 +53,24 @@ Follow the circuit building instructions carefully and check with your TF when f
 
 NOTE: The diagram below shows the MIDI connector jack facing toward you, HOWEVER, in your circuit, it should be facing away from you! This allows us to easily make connections between the breadboard and the three relevant pins on the back of the MIDI connector. You can see the correct configuration in the circuit photos that follow.
 
-![image2](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image2.png)
+![image2](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image2.png)
 ##### Fig. 1: Midi Instrument (MIDI OUT - Transmits/sends MIDI Data).
 
 Connect the VCC and GND connections from the MKRZero to the bottom red and blue rails of the breadboard, respectively. For this lab, be sure to orient your breadboard so the topmost rail on the top row is blue, and the bottom most row on the bottom row is red. This will allow us to more easily make the connections for the MIDI connector.
 
 Correct orientation:
-![image8](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image8.png)
+![image8](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image8.png)
 
 Incorrect orientation:
-![image7](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image7.png)
+![image7](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image7.png)
 
 Wire up three push buttons as we did in lab 7. The pulldown resistor values should all be 10K Ohm (brown-black-orange). Connect the three push buttons to the digital pins D1, D6, and D7 on the Arduino, respectively.
 
-![image1](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image1.png)
+![image1](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image1.png)
 
-![image6](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image6.png)
+![image6](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image6.png)
 
-![image21](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image21.png)
+![image21](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image21.png)
 
 For the MIDI connector, place it in the breadboard so the jack faces away from you. Notice that there is a row of five pins (slightly offset from one another), and a row of two pins. The row of two pins should be connected to the top ground (blue) rail, and the other five pins should be connected to five separate rows on the breadboard.
 
@@ -79,11 +79,11 @@ For the MIDI connector, place it in the breadboard so the jack faces away from y
 - The second-from-the-right pin (or the 4th pin from left) of the MIDI connector should connect to a 10 Ohm (brown-black-black) resistor, which then connects to pin 14 (also labelled as “TX” here) of the Arduino.
 - Finally, jump the ground rail from the bottom of the breadboard to the top of the breadboard. This grounds the two pins of the MIDI connector to prevent noise from interfering with the MIDI codes being sent.
 
-![image17](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image17.png)
+![image17](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image17.png)
 
-![image4](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image4.png)
+![image4](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image4.png)
 
-![image13](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image13.png)
+![image13](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image13.png)
 
 Double check the wiring to make sure everything is correct (especially for the MIDI connector!)  Ask your TF to check **before** plugging the Arduino into your computer or the USB MIDI cable into your computer.
 
@@ -91,7 +91,7 @@ Double check the wiring to make sure everything is correct (especially for the M
 
 Use the Arduino Library Manager (Sketch > Include Library > Manage Libraries) to install the MIDI library. Search for “MIDI I/Os for Arduino” (with Type set to “Contributed” and Topic set to “Communication”) and select the library named “MIDI Library”, as pictured below. Use the current install version, 5.0.2 (it should already be selected in the dropdown menu).
 
-![image11](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image11.png)
+![image11](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image11.png)
 
 - Code files are on Canvas, under the folder [Lab 8 Code](https://canvas.harvard.edu/courses/75224/files/folder/Lab%208%20Code)
 - Connect your Arduino MKRZero to your computer and upload the provided code.
@@ -125,18 +125,18 @@ Open up Rack.
 
 In the MIDI-CV module, click the 1st line and select Computer keyboard, and click on the 2nd line and select QWERTY keyboard:
 
-![image14](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image14.png)
+![image14](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image14.png)
 
 Then, in the AUDIO-8 module, click the 1st line and select your computer’s audio driver, and click on the 2nd line and select your computer audio device that is active/in-use:
 
 **Windows:**  
-![image12](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image12.png)
+![image12](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image12.png)
 
 **Mac:**  
-![image16](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image16.png)
+![image16](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image16.png)
 
 **Linux:**  
-![image3](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image3.png)
+![image3](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image3.png)
 
 ou can keep the default settings for all the other Rack modules for now.
 
@@ -151,7 +151,7 @@ Now press “z x c v b” on your computer keyboard – you should hear somethin
 - Connect the USB MIDI cable (the USB end)  to your computer.
 - Connect your Arduino to your computer via USB.
 
-![image9](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image9.png)
+![image9](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image9.png)
 
 Once you’re all plugged in, launch Rack, and configure VCV Rack to use the MIDI device you just built (instead of your computer’s keyboard) as an input device:
 
@@ -159,13 +159,13 @@ Once you’re all plugged in, launch Rack, and configure VCV Rack to use the MID
 
 In the MIDI-CV module, choose Windows MIDI, USB MIDI Interface (this will have a number corresponding to your device), and MIDI Channels: All channels
 
-![image22](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image22.png)
+![image22](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image22.png)
 
 **For Mac:**
 
 In the MIDI-CV module, choose Core MIDI, USB MIDI Interface (this will have a number corresponding to your device), and MIDI Channels: All channels
 
-![image19](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image19.png)
+![image19](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image19.png)
 
 **For Linux:**
 
@@ -173,11 +173,11 @@ On a Linux system, the port should already be recognized natively. To check that
 
 Additionally, you can see when MIDI commands are being issued by the Arduino by running  `aseqdump -p 20` while pressing buttons to issue MIDI commands with the Arduino (after you’ve flashed the Arduino firmware above). You should see commands like the following, which indicates that the Arduino is emitting MIDI commands correctly:
 
-![image18](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image18.png)
+![image18](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image18.png)
 
 Open up Rack, and update the MIDI-CV settings so that , “**ALSA**” (on **Linux**) is the MIDI driver, and “USB MIDI Interface” is the MIDI device. You can keep the MIDI Channel as “**All Channels**”.
 
-![image20](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image20.png)
+![image20](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image20.png)
 
 **Make some music!**
 
@@ -209,9 +209,9 @@ If not, troubleshoot/debug, figure out why, and retest. Feel free to ask for hel
 
 Now return to work on the electronic piano, using the concepts you learned about buttons, switches, and resistors in circuits from the last lab. Below is an example wiring for the Arduino synth (music plays out of the breadboard speaker):
 
-![image10](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image10.png)
+![image10](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image10.png)
 
-![image5](https://gened1080.https://gened1080.bok.tools/resources/canvas/assignments/MIdi-and-Arduino/images/image5.png)
+![image5](https://gened1080.bok.tools/resources/canvas/assignments/MIDI-and-Arduino/images/image5.png)
 
 **Electronic Piano**
 
