@@ -747,13 +747,13 @@ Week 10 (11/2 - 11/6)
 Side A (Class)  
 - **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=929c3d05-980c-4b33-aef3-ac400154acf6)** "Signals & Systems (Continuous)" (over the weekend)
 - **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b73681d-fb38-42fd-87e5-ac330107e910)** "Signals & Systems (DSP)" (over the weekend)  
-- **Track 2 - [Read](https://drive.google.com/file/d/12LVXPf7H_2PAKFEf8C29T7AONE_PXSnD/view)** "Analog Synthesizer Building Blocks" (this is *supplemental*)  
+- **Track 3 - [Read](https://drive.google.com/file/d/12LVXPf7H_2PAKFEf8C29T7AONE_PXSnD/view)** "Analog Synthesizer Building Blocks" (this is *supplemental*)  
 - **Track 4 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)
 
 Side B (Lab)  
-- **Track 1 - Build** "Analog Synthesizers & Max/MSP" lab assignment (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Analog Synthesizers & Max/MSP" lab section on Zoom (end of the week)  
+- **Track 1 - [Build](https://canvas.harvard.edu/courses/75224/assignments/392138)** "Modular Synthesizers & VCV Rack" lab assignment (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** "Modular Synthesizers & VCV Rack" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -780,10 +780,11 @@ Week 11 (11/9 - 11/13)
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "How Music is Stored" (over the weekend)
-- **Track 2 - Watch** "How Music is Transmitted" (over the weekend)  
-- **Track 3 - Read** "Sampling and Audio to Digital Conversion (ADC)" (over the weekend)  
-- **Track 4 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f59dc89-c420-4b39-8251-ac330107cd71)** "Analog Storage" (over the weekend)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4448f6-b092-4d16-af9d-ac330107b4ba)** "Digital Storage" (over the weekend)  
+- **Track 3 - [Read](https://drive.google.com/file/d/1mOS00PwGjGdV83UWRYyQrqRcdAkiiRSZ/view)** "Analog to Digital Conversion (ADC)" (this is *supplemental*)
+- **Track 4 - [Read](https://drive.google.com/file/d/1oWjkudyUgOYfaDFUwVS5mBzet5QONiFY/view)** "Digital to Analog Conversion (DAC)" (this is *supplemental*)  
+- **Track 5 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Build** "Electronic Effects" lab assignment (early/mid-week)  
