@@ -1,0 +1,217 @@
+<h3 id="objectives">Objectives</h3>
+<p>The main goal of this lab is to gain experience with synthesizer modules--the different categories they fall into, and how they chain together to modify an audio signal.</p>
+<p>The second goal is to understand the relationship of hardware and software--how software can <em>represent</em> hardware, and also how hardware and software can control one another to (arguably) musical ends.</p>
+<p>And so, this lab will comprise the following:</p>
+<ul>
+  <li>Some history of modular synths</li>
+  <li>An introduction to the idealized world of <strong>module types</strong> vs the messy and wonderful world of <strong>module implementations</strong></li>
+  <li>The opportunity to build your own (virtual) modular synth rack using VCV Rack</li>
+  <li>The opportunity to (optionally) control your setup with the hardware you've already built.</li>
+</ul>
+<p>Your <strong>deliverable</strong> will be a video recording of your custom rack setup making noise (or music?), and a paragraph describing your most interesting discovery during the building process, to be done <strong>before your lab section</strong>.</p>
+<p>During lab section, we'll share, discuss, and expand our setups, steal cool ideas our labmates came up with, and make weird and glorious noises.</p>
+<p>&nbsp;</p>
+<h3 id="overview">Overview</h3>
+<p>Electronic synthesizers were first developed in the 1960s as a way for musicians to create instruments that are not tied to the physical constraints of acoustic instruments. These devices were enabled by newly available (at the time) electronic
+  components and although the implementation of these instruments is dramatically different between the <a href="https://www.moogmusic.com/news/early-years-moog-synthesizer">first Moog</a> and the Rack software you will explore in this lab, the
+  fundamental pieces remain quite similar.</p>
+<p>In the 1970s Modular synthesizers gained popularity due to their flexibility and customizability (foreshadowing the complex effects pedals that are now standard in many rock guitar kits--stay tuned for more next week). The Serge synthesizer that
+  Prof. Tutschku demonstrated in his lecture is one of the first examples of a modular synthesizer, and we can recreate many, if not all, of these features virtually with computer software. Using computer software allows us to expand beyond the
+  limits of electronic implementations, allowing even more "far-out" sounds and musical experiments. Although often there are idiosyncracies of hardware components that software never quite recreates exactly, and so there remains a growing community
+  of hardware synth builders, collectors, and enthusiasts.</p>
+<p><a href="https://www.synthesizers.com/begin.html">Here's a resource</a> from a purveyor of fine synthesizers that gives a nice overview of the various components of a modular synthesizer.</p>
+<p>&nbsp;</p>
+<h3 id="module-types-implementations">Module Types &amp; Implementations</h3>
+<p>Happily, you've already gone quite deeply into the idea of module types in <a href="https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b73681d-fb38-42fd-87e5-ac330107e910">this week's lecture video</a> with Prof. Hans Tutschku, and
+  also in <a href="https://learningsynths.ableton.com/">Ableton's synth explorable</a> from Monday's class. You've also already installed and made a some noise with <a href="https://vcvrack.com/">VCV Rack</a> in last week's MIDI lab, so we're
+  hitting the ground running!</p>
+<p>Synths and synth modules come in all shapes and sizes, and tinkerers, designers, engineers, musicians, mad-scientists, and artists the world over have been inventing synths of different shapes, sizes, layouts, and sonic capabilities for over half
+  a century. Thinking in terms of some basic module types, or categories, gives us a reliable way to navigate this ever-changing wilderness. Some such module types we've already discussed in this class are:</p>
+<ul>
+  <li><strong>Oscillators</strong> (sine, square, triangle, sawtooth, LFOs...)</li>
+  <li><strong>Envelopes</strong> (Ampliude modulation: Attack, Decay, Sustain, Release)</li>
+  <li><strong>Filters</strong> (low pass, high pass, band pass...)</li>
+  <li><strong>Effects</strong> (distortion, reverb, compression, delay...)</li>
+</ul>
+<p>Our goal now is to expand these categories, and to look at some of the different forms they take in the wild. Do you remember the VCV Rack setup Prof. Hans Tutschku used to improvise at the end of his lecture?</p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/13.png" alt="13" /></p>
+<p>Woah! How will we begin to make sense of this web of cables and knobs and buttons?! Let's start by taking a look at VCV Rack's <strong>Library Page:</strong></p>
+<p><a href="https://library.vcvrack.com/"></a><a href="https://library.vcvrack.com/">https://library.vcvrack.com/</a></p>
+<p>From this page, you can explore all the different modules that various people in the VCV Rack community have created. Near the upper right of the page, you'll see a dropdown menu called "Tag" and When you click on it, you'll see the following
+  list:</p>
+<p><img style="max-width: 200px;" src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/tags.png" alt="image12" /></p>
+<p>As you glance down this list of tags, you'll see some familiar words, like <em>Distortion, Effect, Envelope, Filter, MIDI, Oscillator, and Reverb</em>. Some of these are broad categories (like "<em>Effect</em>"), while others are a little more
+  specific (like "<em>Reverb</em>", which is a type of effect).</p>
+<p>We can use these VCV Rack tags to expand our list of module types. This isn't an exact science, because you might use the same module for different musical purposes. But nonetheless, the tags might fall into groupings as follows:</p>
+<p>&nbsp;</p>
+<p>To generate and modify signals:</p>
+<ul>
+  <li><strong>Signal Generators</strong>
+    <ul>
+      <li>Oscillator, Function Generator, Low-frequency oscillator, Noise, Sampler, Sample and hold</li>
+    </ul>
+  </li>
+  <li><strong>Effects</strong>
+    <ul>
+      <li>Chorus, Compressor, Expander (opposite of compression), Delay, Distortion, Flanger, Limiter, Phaser, Reverb, Ring modulator, Waveshaper (changes the shape of a waveform)</li>
+    </ul>
+  </li>
+  <li><strong>Envelope</strong>
+    <ul>
+      <li>Envelope generator, envelope follower</li>
+    </ul>
+  </li>
+  <li><strong>Filter</strong>
+    <ul>
+      <li>Low-pass gate, Equalizer</li>
+    </ul>
+  </li>
+  <li><strong>Pitch Control</strong>
+    <ul>
+      <li>Tuner, Slew limiter (often used to create a "slide" between pitches), Quantizer ("quantizes" the frequency spectrum into different scales, etc)</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>To trigger and program events:</p>
+<ul>
+  <li><strong>Controller</strong></li>
+  <li><strong>MIDI</strong>
+    <ul>
+      <li>Clock generator, clock modulator</li>
+    </ul>
+  </li>
+  <li><strong>Sequencer</strong>
+    <ul>
+      <li>Sequencer, Arpeggiator, Random (randomizes events), Logic</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>And some broader categories:</p>
+<ul>
+  <li><strong>Audio Routing &amp; Amplitude</strong>
+    <ul>
+      <li>Mixer, Switch, Panning, Voltage-controlled amplifier, Attenuator (the opposite of an amplifier), Dynamics (affects the amplitude)</li>
+    </ul>
+  </li>
+  <li><strong>Recording</strong></li>
+  <li><strong>General Descriptors</strong>
+    <ul>
+      <li>Digital, Drum, Dual (stereo), Quad, External, Granular, Hardware clone, Multiple, Physical modeling, Polyphonic, Visual</li>
+    </ul>
+  </li>
+  <li><strong>Instrument types</strong>
+    <ul>
+      <li>Synth voice, Vocoder</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>You can also type in a search term and see what kinds of modules turn up. If you find yourself wondering, for example "what the heck is a <em>slew limiter</em>?!" here is <a href="https://learningmodular.com/glossary/">a helpful glossary</a>
+  where you can look it (and any other mysterious synth term) up!</p>
+<p>&nbsp;</p>
+<h3 id="build-your-rack">Build Your Rack</h3>
+<p><strong>Adding Modules</strong></p>
+<p>To add modules to your rack, you will first need to <a href="https://vcvrack.com/login">register</a> with VCV Rack using an email address and password. This will allow you to link the modules you choose in the Library to your VCV Rack software,
+  so you'll only install the modules you actually want to use! Once you've registered, sign in to your new account from the "Library" menu in the VCV Rack software, and your library preferences and software will be connected.</p>
+<p>You can click on any module you find in the VCV Rack Library to go to its info page, which often contains a description of the module, and often links to a detailed manual or external resources. As Prof. Hans Tutschku rightly said, you could
+  spend the rest of the semester--or the rest of your life (!) exploring these modules...</p>
+<p>When you find a module you like, you will see an option to <strong>Subscribe</strong> to that module. Subscribing to a module means adding it to the collection of modules you'll use in your rack. Once subscribed, you can select Library &gt;
+  <strong>Update</strong> within the VCV Rack software, and all your subscribed modules will be available for use.</p>
+<p>Finally, to place a module in your rack, control+click your rack, and the modules library popup will appear, allowing you to choose the module you want to add. Similarly, to remove a module, control+click the module itself and choose "delete."</p>
+<p><strong>Connecting Modules</strong></p>
+<p>Connecting modules of a modular synth together is called "patching," and in the hardware world, this is done using patch cables. In VCV Rack, you can click and drag between two terminals to create a <em>virtual</em> patch cable between two
+  modules. Through patching, you can route your initial signal through all the various modules in your rack, and the final sound is the result of all the different ways your modules have successively modified the initial sound.</p>
+<p><strong>Go for it!</strong></p>
+<p>Building your rack will take a lot of (very fun and noisy) exploration and experimentation.</p>
+<p>To make sure you're exploring broadly, see that your final rack includes, at a minimum:</p>
+<ul>
+  <li>one module type that generates sound</li>
+  <li>three different module types that modify your initial sound</li>
+  <li>one module type that triggers events in time, such as a controller, sequencer, or randomizer</li>
+  <li>one module from a category that's completely new to you! (what's a waveshaper? or a Vocoder?)</li>
+</ul>
+<p>Once you've found a configuration you like, you can save your rack as a <code>.vcv</code> file by choosing File &gt; Save As. Saving regularly is always a good idea, so you won't accidentally lose your soniferous work!</p>
+<p>&nbsp;</p>
+<h3 id="hardware-controllers">Hardware Controllers</h3>
+<p>VCV Rack emulates hardware synthesizers using software, but if you're tired of <em>everything</em> being so virtual these days, hardware control brings your virtual rack into the physical world.</p>
+<p>You can very easily assign any button, knob, slider, or other part of a virtual Rack module to the hardware controller of your choice. Check out the first minute or so of this video to see how:</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="width: 640px; height: 480px;" title="Midi Mapping in VCV Rack 1.0" src="https://www.youtube-nocookie.com/embed/Dd0EESJhPZA?start=37;feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen"
+    webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *"></iframe></p>
+<p>&nbsp;</p>
+<p>Prof. Hans Tutschku used a controller very much like the one in this video during his improvisation. And as luck would have it, you built your very own Arduino MIDI controller in lab last week! You've even used to control VCV Rack!</p>
+<p>Try using the method in the video to assign the buttons of your MIDI controller to different controls on your custom Rack setup. It's also worth noting that the leftmost button in the three-button controller you built last week works as a type of
+  sequencer--it plays a programmed sequence of ascending notes, whereas the middle and right buttons more immediately capture your realtime musical performance.</p>
+<p><strong>Continuous Control</strong></p>
+<p>As incredibly cool as your Arduino MIDI controller is, it has one very significant limitation: it is made entirely of buttons!</p>
+<p>Buttons are great for controlling things that are either "on" or "off," but what if you want to control something more variable, like realtime volume, or a filter sweep, or, well, anything that you can't control with a button?!</p>
+<p>There are all kinds of electronic components that can give you this kind of control, from gyroscopes and accelerometers (which measure when you tilt or move your hardware) to photo sensors (which measure light levels), and many more. But perhaps
+  the most common such component on synthesizers is the <em>potentiometer</em>, which most often takes the form of knobs and slders.</p>
+<p>Your lab kit contains potentiometers that look like little blue knobs. This next part is entirely <strong>optional</strong>, but if you'd like to wire one up and give it a try (it only takes mere moments!), here's what to do:</p>
+<ul>
+  <li>The potentiometer in your kit has three pins. Connect the left pin to ground, and the right pin to VCC (see the photos below).</li>
+  <li>Connect the middle pin to "A1" on the Arduino (this is an "Analog" pin that supports continuous control).</li>
+  <li>Download the example Arduino code from the <a href="https://canvas.harvard.edu/courses/75224/files/folder/Lab%209%20Code">Lab 9 Folder</a> on Canvas and upload the code to your Arduino.</li>
+</ul>
+<p>Now, when you press the middle button of your 3-note controller, you can adjust the pitch continuously by turning the potentiometer! 🤯</p>
+<p>This is just to spark your imagination about ways you can expand your hardware controller. Take a peek at the Arduino code to see what it's doing, tinker around, and talk with your Lab TF if you think you might want to incorporate some expanded
+  hardware control into your upcoming electronic instrument build!</p>
+<p><img src="https://gened1080.bok.tools/resources/canvas//assignments/Analog-Synths/images/pot.jpeg" alt="potentiometer" /></p>
+<h6 id="the-blue-potentiometer-added-to-last-week-s-3-note-midi-controller-">The blue potentiometer added to last week's 3-note MIDI controller.</h6>
+<p>&nbsp;</p>
+<h3 id="deliverables">Deliverables</h3>
+<ol>
+  <li>
+    <p>Once you've built your rack, choose File &gt; Save As to save it as a <code>.vcv</code> file, and upload that file to Canvas.</p>
+  </li>
+  <li>
+    <p>Then, make a short recording of your setup in action. You can do this with a screen recording, or with your phone, or with one of the <em>Recording</em> modules within Rack itself, or by another means of your choosing. Upload this recording
+      to Canvas as well.</p>
+  </li>
+  <li>
+    <p>Finally, write a paragraph describing your most interesting discovery while you were building your rack. Perhaps it was a module that behaved differently than you expected it to, or perhaps it was an unexpected sound that emerged from the
+      combination of two or more different modules? This is wide open, and will no doubt lead to some great discussion with your labmates and TF!</p>
+  </li>
+</ol>
+<p>&nbsp;</p>
+<h3 id="some-rack-modules-to-explore">Some Rack modules to explore</h3>
+<p>Just to break the ice, here are screenshots of the Rack configurations from lab, and from Prof. Hans Tutschku's lecture. You might start by finding some of the modules used in these setups, and by looking at how they're patched together. This is
+  only a suggestion, so feel free to start off on your own as well!</p>
+<p>Default Rack configuration from Lab:</p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/0.png" alt="0" /></p>
+<p>Configurations Prof. Hans Tutschku used in order (feel free to refer back to the video itself for more details!):</p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/1.png" alt="1" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/2.png" alt="2" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/3.png" alt="3" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/4.png" alt="4" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/5.png" alt="5" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/6.png" alt="6" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/8.png" alt="8" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/9.png" alt="9" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/10.png" alt="10" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/11.png" alt="11" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/12.png" alt="12" /></p>
+<p><img src="https://gened1080.bok.tools/resources/canvas/assignments/Analog-Synths/images/13.png" alt="13" /></p>
+<p>&nbsp;</p>
+<h3 id="a-final-thought">A Final Thought</h3>
+<p>If, in your musical adventures, you've encountered a piece of music creation software such as:</p>
+<ul>
+  <li>GarageBand</li>
+  <li>Ableton Live</li>
+  <li>Logic</li>
+  <li>Fruity Loops</li>
+  <li>Pro Tools...</li>
+</ul>
+<p>...and many others, these are all examples of "Digital Audio Workstations" (DAWs), and you can understand each of these, also, as collections of modules all working together to musical ends.</p>
+<p>For example, GarageBand has a library of built-in instruments, as well as a library of loops, and a way to record music step by step, layer by layer.</p>
+<p>The instruments in a program like GarageBand are either synths (made up of a series of oscillators, filters, and so forth), or sample-based instruments (which use an audio recording rather than an oscillator as the initial signal).</p>
+<p>The loops are a programmed sequence of events sent to the instruments, and these can, in turn, become a higher level sequence of events, arranged into a song. Both are sequencers!</p>
+<p>In short, you can begin to discover the similarities, and the different design choices in each piece of musical software you use, by applying the same kind of thinking it takes to construct and analyze modular synths.</p>
+<p>And while DAWs generally focus on a higher level of abstraction from modular synths, there are also programs that focus even more closely on the details of patching between modular objects. For example, the visual programming languages <a href="https://cycling74.com/get-started">Max/MSP</a>
+  and <a href="https://puredata.info/">Pure Data</a> (both invented by the same electronic composer) operate by connecting programmatic objects together using virtual patch cables--just like a synth--but allow you to build your modules from smaller
+  ingredients, as though you were building a circuit.</p>
+<p>So adding an effect within a DAW, or adding an effect module to a modular synth, or patching a source to an effects object in code are all different ways of incorporating the same engineering concept into your creative musical process. This
+  applies in the world of hardware as well--like plugging your guitar into an effects pedal--as we will discover in more detail next week!</p>
