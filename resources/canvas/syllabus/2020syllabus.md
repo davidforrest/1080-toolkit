@@ -537,7 +537,7 @@ Week 4 (9/21 - 9/25)
 <br>
 
 #### **Calendar and Announcements**  
--  Acoustic Instrument and Composition Announced
+-  [Acoustic Instrument and Composition](https://canvas.harvard.edu/courses/75224/assignments/392133) Announced
 
 <br>
 
@@ -604,7 +604,7 @@ Week 6 (10/5 - 10/9)
 <br>
 
 #### **Calendar and Announcements**  
--  Acoustic Instrument and Composition due Monday October 12th by 11:59pm
+-  [Acoustic Instrument and Composition](https://canvas.harvard.edu/courses/75224/assignments/392133) due Monday October 12th by 11:59pm
 
 <br>
 
@@ -621,7 +621,7 @@ Side B (Lab)
 - **Track 1 - Continue Building** your Acoustic Instrument and Composition (early/mid-week)  
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
 - **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (end of the week)  
-- **Track 4 - Upload** your Acoustic Instrument and Composition (by 11:59pm on Monday, October 12th)
+- **Track 4 - [Upload](https://canvas.harvard.edu/courses/75224/assignments/392133)** your Acoustic Instrument and Composition (by 11:59pm on Monday, October 12th)
 
 <br>
 
@@ -773,7 +773,7 @@ Week 11 (11/9 - 11/13)
 <br>
 
 #### **Calendar and Announcements**  
--  Electronic Instrument and Composition announced
+-  [Electronic Instrument Build](https://canvas.harvard.edu/courses/75224/assignments/392140) and [Final Project](https://canvas.harvard.edu/courses/75224/assignments/392141) announced.
 
 <br>
 
@@ -787,9 +787,9 @@ Side A (Class)
 - **Track 5 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Build** "Electronic Effects" lab assignment (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** "Electronic Effects" lab section on Zoom (end of the week)  
+- **Track 1 - [Build](https://canvas.harvard.edu/courses/75224/assignments/392139)** "Electronic Effects" lab assignment (early/mid-week)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** "Electronic Effects" lab section on Zoom (end of the week)  
 
 <br>
 
@@ -807,23 +807,23 @@ Week 12 (11/16 - 11/20)
 <br>
 
 #### **Calendar and Announcements**  
--  Final Project Announced, and Preliminary Proposal due this week
+-  [Final Project Preliminary Proposal](https://canvas.harvard.edu/courses/75224/assignments/392141) due Sunday.
 
 <br>
 
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Playback I (Amplification)" (over the weekend)
-- **Track 2 - Watch** "Playback II (Speakers)" (over the weekend)  
-- **Track 3 - Read** "Amplifiers" (over the weekend)  
-- **Track 4 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=616411c0-84f5-44c3-9353-ac330107811f)** "Playback I (Amplification)" (over the weekend)
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ffdd622-5aa1-457c-8092-ac3301075d88)** "Playback II (Speakers)" (over the weekend)  
+- **Track 3 - [Read](https://drive.google.com/file/d/10R8offantW01COoF301sbxFD0OxPWPoH/view)** "Understanding Amplifiers" (this is *supplemental*)  
+- **Track 4 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Start Building** your Electronic Instrument and Composition (early/mid-week)
-- **Track 2 - Work on** your Final Project Preliminary Proposal (due Sunday)  
-- **Track 3 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 4 - Join** lab section on Zoom (end of the week)  
+- **Track 1 - [Start Building](https://canvas.harvard.edu/courses/75224/assignments/392140)** your Electronic Instrument and Composition (early/mid-week)
+- **Track 2 - [Finish up](https://canvas.harvard.edu/courses/75224/assignments/392141)** your Final Project Preliminary Proposal (due Sunday)  
+- **Track 3 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 4 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (end of the week)  
 
 <br>
 
@@ -940,7 +940,7 @@ This week you'll put the finishing touches on your Final Project and we'll have 
 #### **Track List**
 
 - **Track 1 - Upload** your Final Project (due date and time TBA)
-- **Track 2 - Come to** 1080 Fest! (date and time TBA)
+- **Track 2 - Come to** 1080 Fest! (Mon 12/14 at 9am)
 
 <br>
 
