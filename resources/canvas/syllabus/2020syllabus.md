@@ -836,7 +836,7 @@ Week 13 (11/23 - 11/27)
 
 <br>
 
-Week description coming soon!
+How does Shazam know what song is playing, and does it also know if two songs are similar? How do we decide what attributes contribute to similarity, and can we model these attributes algorithmically? What significance does similarity have to music recommender systems like Spotify, or to music copyright infringement cases, or to the idea of a musical composition itself?
 
 <br>
 
@@ -849,14 +849,13 @@ Week description coming soon!
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "How Music is Transmitted" (over the weekend)  
-- **Track 2 - Read** "Audio Fingerprinting and Music Copyright" (over the weekend)  
-- **Track 3 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f34c5d5-3315-4801-991a-ac7401575103)** "Transmission, Fingerprinting, and Copyright" (over the weekend)  
+- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Finish Building** your Electronic Instrument and Composition (early/mid-week)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Upload** your Electronic Instrument and Composition assignment (by the end of the day Sunday)
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
+- **Track 3 - [Finish and Upload](https://canvas.harvard.edu/courses/75224/assignments/392140)** your Electronic Instrument and Composition assignment (by the end of the day Sunday)
 
 <br>
 
