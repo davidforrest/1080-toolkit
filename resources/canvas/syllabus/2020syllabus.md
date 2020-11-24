@@ -850,12 +850,13 @@ How does Shazam know what song is playing, and does it also know if two songs ar
 
 Side A (Class)  
 - **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f34c5d5-3315-4801-991a-ac7401575103)** "Transmission, Fingerprinting, and Copyright" (over the weekend)  
-- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
+- **Track 2 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
 - **Track 1 - Finish Building** your Electronic Instrument and Composition (early/mid-week)  
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)  
 - **Track 3 - [Finish and Upload](https://canvas.harvard.edu/courses/75224/assignments/392140)** your Electronic Instrument and Composition assignment (by the end of the day Sunday)
+- **Track 4 - [Sign Up](https://docs.google.com/spreadsheets/d/1zCnd4ULSRAwQxOPpJ-MvFtCzwAkB37kdFAfUqCD0QVU/edit)** to share your personal musical background or practice in class on Monday! (by Tuesday 11/24)
 
 <br>
 
@@ -867,7 +868,7 @@ Week 14 (11/30 - 12/4) Final week of lectures
 
 <br>
 
-Week description coming soon!
+What is the relationship between developing technical craft and creating personal, musical meaning? How do the topics we've explored in this class relate to musical cultures and traditions more broadly?
 
 <br>
 
@@ -880,13 +881,14 @@ Week description coming soon!
 #### **Track List**
 
 Side A (Class)  
-- **Track 1 - Watch** "Engineering in Music Culture and Practice" (over the weekend)  
-- **Track 2 - Join** class on Zoom (on Monday)  
+- **Track 1 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=422f85c6-07df-4396-9c30-ac3301072940)** "Music Culture and Practice I (Yo Yo Ma)" (over the weekend)  
+- **Track 2 - [Watch](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71d11ef8-e441-4ca3-b124-ac33010742f2)** "Music Culture and Practice II (Susan Rogers)" (over the weekend)  
+- **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - Work on** your Final Project (all week!)  
-- **Track 2 - Check in** with your friends and TF on Slack (early/mid-week)  
-- **Track 3 - Join** lab section on Zoom (no Friday labs this week, but feel free to come to a Thursday lab instead)  
+- **Track 1 - [Work on](https://canvas.harvard.edu/courses/75224/assignments/392141 )** your Final Project (all week!)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)    
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (no Friday labs this week, but feel free to come to a Thursday lab instead)
 
 <br>
 
