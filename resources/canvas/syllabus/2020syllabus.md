@@ -888,7 +888,7 @@ Side A (Class)
 Side B (Lab)  
 - **Track 1 - [Work on](https://canvas.harvard.edu/courses/75224/assignments/392141 )** your Final Project (all week!)  
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)    
-- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (no Friday labs this week, but feel free to come to a Thursday lab instead)
+- **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (labs are optional this week, but TFs will hold office hours during all normal Thursday and Friday lab times if you'd like to discuss or troubleshoot your final project)
 
 <br>
 
@@ -913,8 +913,8 @@ This week is dedicated to continuing work on your Final Project.
 
 #### **Track List**
 
-- **Track 1 - Work on** your Final Project (all week!)  
-- **Track 2 - Check in** with your friends and TF on Slack (any time!, all the time!)   
+- **Track 1 - [Work on](https://canvas.harvard.edu/courses/75224/assignments/392141 )** your Final Project (all week!)  
+- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (any time!, all the time!)   
 
 <br>
 
@@ -933,15 +933,15 @@ This week you'll put the finishing touches on your Final Project and we'll have 
 
 #### **Calendar and Announcements**  
 - Final Project due
-- 1080 Fest! (Date TBA)
+- 1080 Fest! (Monday 12/14 10am-12pm)
 - Final Exam Period ends Sat 12/19
 
 <br>
 
 #### **Track List**
 
-- **Track 1 - Upload** your Final Project (due date and time TBA)
-- **Track 2 - Come to** 1080 Fest! (Mon 12/14 at 9am)
+- **Track 1 - Upload** your Final Project Report and Presentation (before the beginning of 1080 Fest)
+- **Track 2 - Come to** 1080 Fest! (Monday 12/14 10am-12pm)
 
 <br>
 
