@@ -199,7 +199,7 @@ I am trained as a roboticist and have taught courses in Electrical Engineering, 
 <img src="https://gened1080.bok.tools/resources/canvas/media/staff_photos/kelly.jpg" width="50"/>  
 <a href="mailto:kmiller@seas.harvard.edu">kmiller@seas.harvard.edu</a>  
 
-Virtual Office Hours: **Tuesdays 11am-12pm EST** [here](https://harvard.zoom.us/j/9022808955) on Zoom, and by appointment.
+Virtual Office Hours: **Tuesdays 11am-12pm EST** [here](https://harvard.zoom.us/j/9022808955?pwd=UkpvMlhoNGRSOXlaUm4wMVhBTGZWUT09) on Zoom, and by appointment.
 
 Hi, I’m Kelly - my research interests are the role of both project based learning and technology in improving STEM education. I am not very musical but have had a lot of fun learning about music through the student projects in AP50 (which is what I usually teach). I am looking forward to learning more from the students in this course - I look forward to meeting all of you!
 
