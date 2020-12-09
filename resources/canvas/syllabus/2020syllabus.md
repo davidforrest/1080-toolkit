@@ -886,7 +886,7 @@ Side A (Class)
 - **Track 3 - [Join](https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09)** class on Zoom (on Monday)  
 
 Side B (Lab)  
-- **Track 1 - [Work on](https://canvas.harvard.edu/courses/75224/assignments/392141 )** your Final Project (all week!)  
+- **Track 1 - [Work on](https://canvas.harvard.edu/courses/75224/assignments/392141)** your Final Project (all week!)  
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)    
 - **Track 3 - [Join](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab section on Zoom (labs are optional this week, but TFs will hold office hours during all normal Thursday and Friday lab times if you'd like to discuss or troubleshoot your final project)
 
@@ -914,7 +914,8 @@ This week is dedicated to continuing work on your Final Project.
 #### **Track List**
 
 - **Track 1 - [Work on](https://canvas.harvard.edu/courses/75224/assignments/392141 )** your Final Project (all week!)  
-- **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (any time!, all the time!)   
+- **Track 2 - [Fill out](https://forms.gle/u82Zj2gLqzKPmaWe7)** the 1080Fest planning survey (by Wednesday)
+- **Track 3 - [Stop by](https://canvas.harvard.edu/courses/75224/external_tools/53531)** lab office hours on Zoom (TFs will hold office hours during all normal Thursday and Friday lab times if you'd like to discuss or troubleshoot your final project)  
 
 <br>
 
@@ -940,7 +941,7 @@ This week you'll put the finishing touches on your Final Project and we'll have 
 
 #### **Track List**
 
-- **Track 1 - Upload** your Final Project Report and Presentation (before the beginning of 1080 Fest)
+- **Track 1 - [Upload](https://canvas.harvard.edu/courses/75224/assignments/392141)** your Final Project Report and Presentation (before the beginning of 1080 Fest)
 - **Track 2 - Come to** 1080 Fest! (Monday 12/14 10am-12pm)
 
 <br>
