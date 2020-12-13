@@ -8,8 +8,8 @@
 <p>...and give the bouncer your password:<br /><code>1080FestRocks</code></p>
 <p>And you're in!</p>
 <p><em>Note: Gather doesn't work on mobile devices, so be sure to join the 'Fest from your laptop or desktop!</em></p>
-<p>Feel free to stop by the venue in advance to get oriented &amp; test out the space and your presentation. If you have any questions about Gather or how to present (that's not already answered below), don't hesitate to ask a member of the course staff!</p>
-<p>Below you'll find:</p>
+<p>Feel free to stop by the venue in advance to get oriented &amp; test out the space and your presentation. If you have any questions about Gather or how to present (that are not already answered below), don't hesitate to ask a member of the course staff!</p>
+<p><strong>Below you'll find:</strong></p>
 <ul>
 <li><a href="#big-picture-overview">An overview of 1080Fest</a></li>
 <li><a href="#the-schedule">The Presentation Schedule</a></li>
@@ -25,7 +25,7 @@
 <p>Within Gather, we have a large space for poster-style presentations, and two small performance spaces:</p>
 <ul>
 <li><strong>Poster Sessions</strong> will be held outdoors at <em>Red Rocks Amphitheater</em>&nbsp;in Colorado. Your avatar can set up on a picnic blanket, and people will stroll by to check out your presentation.</li>
-<li><strong>Performances</strong> will be held at both the <em>Bluebird Cafe</em> in Nashville, and at <em>Long Pond Studio</em> in New York. There are magic portals to these venues from the main poster session.✨</li>
+<li><strong>Performances</strong> will be held at both the <em>Bluebird Cafe</em> in Nashville, and at <em>Long Pond Studio</em> in New York. There are ✨magic portals✨ to these venues from the main poster session.</li>
 </ul>
 <p><em>*bonus: in Gather, you don't have to stay 6-feet apart or wear a mask!</em></p>
 <p><img src="https://raw.githubusercontent.com/davidforrest/1080-toolkit/master/resources/canvas/assignments/1080Fest_Program/media/venues.png" alt="1080Fest Venues" width="600" /></p>
@@ -40,7 +40,10 @@
 <p>When you're not presenting or performing, you can walk around, talk to groups that are presenting, and watch performances. A whopping 2/3 of your time at the 'Fest will be spent wandering around checking out other projects!</p>
 <p>&nbsp;</p>
 <h2 id="the-schedule">The Schedule</h2>
-<p>The 'Fest is 2 hours long (10am-12pm). During that time, you'll present your project during one of three 30-minute sessions, listed below. If you signed up to perform, your performance will take place during that same session.</p>
+<p>The 'Fest is 2 hours long (10am-12pm). During that time, you'll present your project during <strong>one of three 30-minute sessions</strong>, listed below. If you signed up to perform, your performance will take place during that same session.</p>
+<p>&nbsp;</p>
+<p><strong>Welcome by Prof. Wood - Main Stage</strong>&nbsp;(10:00-10:10)</p>
+<p>&nbsp;</p>
 <h3 id="poster-style-presentations">Poster-Style Presentations</h3>
 <p><strong>Session 1</strong> (10:10-10:40)<br />*indicates presenters who are also performing (see the <a href="#live-performances">performance schedule</a> below)</p>
 <table>
@@ -170,6 +173,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p><strong>5-minute break</strong> (11:40-11:45)</p>
 <p>&nbsp;</p>
 <p><strong>Session 2</strong> (10:45-11:15)<br />*indicates presenters who are also performing (see the <a href="#live-performances">performance schedule</a> below)</p>
 <table>
@@ -249,7 +253,7 @@
 <tr>
 <td>14</td>
 <td>Lily Brunelle</td>
-<td>Ukulele and Arduino Xylopone Composition</td>
+<td><span>Keep the Beet</span></td>
 </tr>
 <tr>
 <td>15</td>
@@ -294,11 +298,12 @@
 <tr>
 <td>23</td>
 <td>Tran Nguyen</td>
-<td>Ukulele and Arduino Xylopone Composition</td>
+<td><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Xylophone Beat Saber&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Xylophone Beat Saber</span></td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p><strong>5-minute break</strong> (11:15-11:20)</p>
 <p>&nbsp;</p>
 <p><strong>Session 3</strong> (11:20-11:50)<br />*indicates presenters who are also performing (see the <a href="#live-performances">performance schedule</a> below)</p>
 <table>
@@ -313,7 +318,7 @@
 <tr>
 <td style="width: 105px;">1</td>
 <td style="width: 236px;">*Eliot Min</td>
-<td style="width: 215px;">Rack Sax</td>
+<td style="width: 215px;">Rack Track</td>
 </tr>
 <tr>
 <td style="width: 105px;">2</td>
@@ -322,8 +327,8 @@
 </tr>
 <tr>
 <td style="width: 105px;">3</td>
-<td style="width: 236px;">*Danielle Davis &amp; Nicole Jarmula</td>
-<td style="width: 215px;">Electronic Wind Chimes</td>
+<td style="width: 236px;">Danielle Davis &amp; Nicole Jarmula</td>
+<td style="width: 215px;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Electrachime&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Electrachime</span></td>
 </tr>
 <tr>
 <td style="width: 105px;">4</td>
@@ -418,6 +423,8 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p><strong>Wrap up by Prof. Wood - Main Stage</strong> (11:50-12:00)</p>
+<p>&nbsp;</p>
 <h3 id="live-performances">Live Performances</h3>
 <table>
 <thead>
@@ -460,12 +467,12 @@
 </tr>
 <tr>
 <td><strong>11:10-11:20</strong></td>
-<td>Eliot Min - Rack Sax</td>
+<td>Eliot Min - Rack Track</td>
 <td>Anthony DeFalco - Electric Xylophone</td>
 </tr>
 <tr>
 <td><strong>11:20-11:30</strong></td>
-<td>Danielle Davis &amp; Nicole Jarmula - Electronic Wind Chimes</td>
+<td>TBD</td>
 <td>Nikhil Behari - The Touch of Music</td>
 </tr>
 <tr>
@@ -482,11 +489,11 @@
 </table>
 <p>&nbsp;</p>
 <h2 id="some-logistics">Some Logistics</h2>
-<p><strong>What to do when you enter 'Fest:</strong></p>
+<p><strong>What to do when you enter the 'Fest:</strong></p>
 <ul>
-<li>Style your avatar, of course! You'll see a menu of icons at the bottom center of the screen, one of which is your customizable character!</li>
-<li>There's also a "map" icon that shows you an overview map of the 1080Fest space.</li>
-<li>Check the schedule above.👆If you're performing, note the time and place. Then, for your poster session, note which session you're in, as well as your picnic blanket number.</li>
+<li>Style your <strong>avatar</strong>, of course! You'll see a menu of icons at the bottom center of the screen, one of which is your customizable character!</li>
+<li>There's also a <strong>"map"</strong> icon that shows you an overview map of the 1080Fest space.</li>
+<li>Check the <strong>schedule</strong> above👆. If you're performing, note the time and place. Then, for your poster session, note which session you're in, as well as your picnic blanket number.</li>
 </ul>
 <p>Check out "<a href="https://drive.google.com/file/d/1FGDyjc1Z7zYctYNwzkUeZ5YZ9qap0iN8/view">Gather 101</a>," a brief orientation to the Gather platform.</p>
 <p>&nbsp;</p>
@@ -502,7 +509,7 @@
 <ul>
 <li>If you're performing, your presentation is scheduled <strong>during your presentation session</strong> (in most cases!).</li>
 <li>Performance spots are 10 minutes, but you don't have to use all of your time. If you run overtime, you can invite your audience back to your picnic blanket to continue chatting.</li>
-<li>If you're not performing, take a look at the performance schedule 👆to see if there are any performances you'd especially like to go to!</li>
+<li>If you're not performing, take a look at the performance schedule 👆to see if there are any performances you don't want to miss!</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>The Main Stage:</strong></p>
