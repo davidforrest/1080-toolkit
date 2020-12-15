@@ -507,7 +507,7 @@
 <p>&nbsp;</p>
 <h4><strong>How performances will work:</strong></h4>
 <ul>
-<li>If you're performing, your performance is scheduled <strong>during your presentation session</strong>. So you're onstage for part of your&nbsp;</li>
+<li>If you're performing, your performance is scheduled <strong>during your presentation session</strong>. So you're onstage for part of your presentation session, and hanging out at your picnic blanket for the rest.</li>
 <li>Performance spots are 10 minutes, but you don't have to use all of your time. If you run overtime, you can invite your audience back to your picnic blanket to continue chatting.</li>
 <li>If you're not performing, take a look at the performance schedule 👆to see if there are any performances you don't want to miss!</li>
 </ul>
