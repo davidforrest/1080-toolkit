@@ -40,7 +40,7 @@
 <p>When you're not presenting or performing, you can walk around, talk to groups that are presenting, and watch performances. A whopping 2/3 of your time at the 'Fest will be spent wandering around checking out other projects!</p>
 <p>&nbsp;</p>
 <h2 id="the-schedule">The Schedule</h2>
-<p>The 'Fest is 2 hours long (10am-12pm). During that time, you'll present your project during <strong>one of three 30-minute sessions</strong>, listed below. If you signed up to perform, your performance will take place during that same session.</p>
+<p>The 'Fest is 2 hours long (10am-12pm). During that time, you'll present your project during <strong>one of three 30-minute sessions</strong>, listed below. If you signed up to perform, you'll play onstage for &lt;10 minutes of that session, and chat with people about your project for the other 20 minutes.</p>
 <p>&nbsp;</p>
 <p><strong>Welcome by Prof. Wood - Main Stage</strong>&nbsp;(10:00-10:10)</p>
 <p>&nbsp;</p>
@@ -282,8 +282,8 @@
 </tr>
 <tr>
 <td>20</td>
-<td>Dara Badon &amp; Luke Walker</td>
-<td>Electronic &amp; Acoustic Exploration</td>
+<td>*Dara Badon &amp; Luke Walker</td>
+<td><span>Don&rsquo;t Attack!</span></td>
 </tr>
 <tr>
 <td>21</td>
@@ -373,12 +373,12 @@
 <tr>
 <td style="width: 105px;">12</td>
 <td style="width: 236px;">Sandy Koenig</td>
-<td style="width: 215px;">Synthesized Banjo</td>
+<td style="width: 215px;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Electronic Banjo Effects&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Electronic Banjo Effects</span></td>
 </tr>
 <tr>
 <td style="width: 105px;">13</td>
 <td style="width: 236px;">*Piper Winkler</td>
-<td style="width: 215px;">History of Soviet Synths</td>
+<td style="width: 215px;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Back in the ADSR: History of Soviet Synths&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Back in the ADSR: History of Soviet Synths</span></td>
 </tr>
 <tr>
 <td style="width: 105px;">14</td>
@@ -472,7 +472,7 @@
 </tr>
 <tr>
 <td><strong>11:20-11:30</strong></td>
-<td>TBD</td>
+<td>Dara Badon &amp; Luke Walker - Don't Attack!</td>
 <td>Nikhil Behari - The Touch of Music</td>
 </tr>
 <tr>
@@ -489,7 +489,7 @@
 </table>
 <p>&nbsp;</p>
 <h2 id="some-logistics">Some Logistics</h2>
-<p><strong>What to do when you enter the 'Fest:</strong></p>
+<h4><strong>What to do when you enter the 'Fest:</strong></h4>
 <ul>
 <li>Style your <strong>avatar</strong>, of course! You'll see a menu of icons at the bottom center of the screen, one of which is your customizable character!</li>
 <li>There's also a <strong>"map"</strong> icon that shows you an overview map of the 1080Fest space.</li>
@@ -497,29 +497,48 @@
 </ul>
 <p>Check out "<a href="https://drive.google.com/file/d/1FGDyjc1Z7zYctYNwzkUeZ5YZ9qap0iN8/view">Gather 101</a>," a brief orientation to the Gather platform.</p>
 <p>&nbsp;</p>
-<p><strong>How presentations will work:</strong></p>
+<h4><strong>How presentations will work:</strong></h4>
 <ul>
 <li>During your scheduled poster session time, <strong>both members</strong> of your group should be at your assigned picnic blanket.</li>
 <li>People will stop by, and you'll tell them about your project!</li>
 <li>Presentations are informal, so you can just chat, show your video, answer questions, and so on. There's nothing to prepare beyond having made your project.</li>
-<li>If you see or hear people on the next blanket over, you can shorten your <strong>interaction distance</strong> using the icon that looks like little concentric circles. The default distance to see/hear another person is 5 steps, but you can change it to as few as 1 step.</li>
+<li>The default distance to see/hear another person is 5 steps away, so keep this in mind if you start to see or hear people on the next blanket over!</li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>How performances will work:</strong></p>
+<h4><strong>How performances will work:</strong></h4>
 <ul>
-<li>If you're performing, your presentation is scheduled <strong>during your presentation session</strong> (in most cases!).</li>
+<li>If you're performing, your performance is scheduled <strong>during your presentation session</strong>. So you're onstage for part of your&nbsp;</li>
 <li>Performance spots are 10 minutes, but you don't have to use all of your time. If you run overtime, you can invite your audience back to your picnic blanket to continue chatting.</li>
 <li>If you're not performing, take a look at the performance schedule 👆to see if there are any performances you don't want to miss!</li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>The Main Stage:</strong></p>
+<h4><strong>The Main Stage:</strong></h4>
 <ul>
-<li>There is a main stage in each of the three spaces. The main stage broadcasts to everyone in the space. Prof. Wood and the staff will open and close the 'Fest, and <strong>announce session switches</strong> from the Main Stage of the Red Rocks Amphitheater.</li>
+<li>There is a stage in each of the three spaces. The stage broadcasts to everyone in the space. Prof. Wood and the staff will open and close the 'Fest, and will <strong>announce the start of each new session</strong> from the Main Stage of Red Rocks Amphitheater.</li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>Staying in touch:</strong></p>
+<h4 id="share-computer-sound"><strong>How to share computer sound:</strong></h4>
+<p>Unlike Zoom, Gather does not have a built-in option to share your computer's sound. This won&rsquo;t be an issue if you&rsquo;re just talking, playing your instrument live, or sharing your screen without audio. But if you do want to share computer sound, here's how to do it inside inside of Gather:</p>
+<p><strong>For Mac users</strong></p>
+<p>You can use Zoom's audio device inside of Gather:</p>
+<ol>
+<li>Open an empty Zoom meeting and share your screen with computer sound.</li>
+<li>In Gather, go to settings (the gear icon) and, under the "User" tab, change the sound input to "ZoomAudioDevice."</li>
+<li>You can now hear computer sound in Gather, but you'll have to <strong>switch back to your default input</strong> for your microphone to work again!</li>
+</ol>
+<p><strong>For Windows 10 users</strong></p>
+<p>You can use a virtual audio device inside of Gather:</p>
+<ol>
+<li>Download and install Virtual Audio Cable application (<a href="https://vac.muzychenko.net/en/download.htm">Virtual Audio Cable - Downloads (muzychenko.net)</a>). Self-installing EXE option is recommended (you can uninstall after 1080 Fest).</li>
+<li>During installation, make sure to re-select your computer's speakers and microphone as the default options when prompted.</li>
+<li>When ready to share audio, click on the speakers icon in your taskbar and switch output to "Line 1 (Virtual Audio Cable)". You will no longer be able to hear sound from your PC until you switch back to your speakers.</li>
+<li>Back in Gather, click your name at the bottom of the screen, then click "Video and Audio Settings". Change your Microphone input to "Line 1 (Virtual Audio Player)".</li>
+<li>You can now hear computer sound in Gather, but you'll have to <strong>switch back to your default input</strong> for your microphone to work again!</li>
+</ol>
+<p>&nbsp;</p>
+<h4><strong>Staying in touch:</strong></h4>
 <ul>
-<li><strong>Keep Slack open</strong> during the 'Fest. If the staff needs to get a message out to everyone and is unable to do so through Gather, this communication will be via Slack.</li>
+<li><strong>Keep Slack open</strong> throughout the 'Fest. If the staff needs to get a message out to everyone and is unable to do so through Gather, this communication will be via Slack.</li>
 <li>If, for any reason, the Gather platform becomes unusable, we will reconvene in our usual Monday <a href="https://harvard.zoom.us/j/93996838627?pwd=QjI3R1c1eU40VjMxKy9QUjVPejZkUT09">class Zoom link</a>.</li>
 </ul>
 <p>&nbsp;</p>
