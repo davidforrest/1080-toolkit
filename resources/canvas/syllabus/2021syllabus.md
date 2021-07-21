@@ -394,36 +394,36 @@ Students needing academic adjustments or accommodations should speak with the co
 
 
 **Acoustics**
-- [Week 1 - Introduction and Physics of Sound](#introduction-and-physics-of-sound)
-- [Week 2 - Modeling Sound](#modeling-sound)
-- [Week 3 - String Instruments and the Harmonic Series](#string-instruments-and-the-harmonic-series)
-- [Week 4 - Frequency Analysis and Music Composition](#frequency-analysis-and-music-composition)
-- [Week 5 - Vocal and Auditory Systems in Humans and Animals](#vocal-and-auditory-systems-in-humans-and-animals)
-- [Week 6 - Wind and Percussion Instruments](#wind-and-percussion-instruments)
-- [Week 7 - Room Acoustics and Speculative Systems](#room-acoustics-and-speculative-systems)
+- [Week 1 (Aug 30) - Introduction and Physics of Sound](#introduction-and-physics-of-sound)
+- [Week 2 (Sep 6) - Modeling Sound](#modeling-sound)
+- [Week 3 (Sep 13) - String Instruments and the Harmonic Series](#string-instruments-and-the-harmonic-series)
+- [Week 4 (Sep 20) - Frequency Analysis and Music Composition](#frequency-analysis-and-music-composition)
+- [Week 5 (Sep 27) - Vocal and Auditory Systems in Humans and Animals](#vocal-and-auditory-systems-in-humans-and-animals)
+- [Week 6 (Oct 4) - Wind and Percussion Instruments](#wind-and-percussion-instruments)
+- [Week 7 (Oct 11) - Room Acoustics and Speculative Systems](#room-acoustics-and-speculative-systems)
 
 <br>
 
 **Electronics**
-- [Week 8 - Microphones and Pickups (Transducers)](#microphones-and-pickups-transducers-)
-- [Week 9 - Circuits and Synthesizers](#circuits-and-synthesizers)
-- [Week 10 - Signals and Electronic Effects](#signals-and-electronic-effects)
-- [Week 11 - Audio Storage and Transmission](#audio-storage-and-transmission)
-- [Week 12 - Amplifiers and Speakers](#amplifiers-and-speakers)
-- [Week 13 - Audio Fingerprinting and Music Copyright](#audio-fingerprinting-and-music-copyright)
-- [Week 14 - Engineering in Music Culture and Practice](#engineering-in-music-culture-and-practice)
+- [Week 8 (Oct 18) - Microphones and Pickups (Transducers)](#microphones-and-pickups-transducers-)
+- [Week 9 (Oct 25) - Circuits and Synthesizers](#circuits-and-synthesizers)
+- [Week 10 (Nov 1) - Signals and Electronic Effects](#signals-and-electronic-effects)
+- [Week 11 (Nov 8) - Audio Storage and Transmission](#audio-storage-and-transmission)
+- [Week 12 (Nov 15) - Amplifiers and Speakers](#amplifiers-and-speakers)
+- [Week 13 (Nov 22) - Audio Fingerprinting and Music Copyright](#audio-fingerprinting-and-music-copyright)
+- [Week 14 (Nov 29) - Engineering in Music Culture and Practice](#engineering-in-music-culture-and-practice)
 
 <br>
 
 **Final Project**
-- [Week 15 - Reading Week](#reading-week)
-- [Week 16 - 1080 Fest](#1080-fest)
+- [Week 15 (Dec 6) - Reading Week](#reading-week)
+- [Week 16 (Dec 13) - 1080 Fest](#1080-fest)
 
 ---
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week1.png" width="75" />
 
 ### Introduction and Physics of Sound
-Week 1 (8/31 - 9/4)</p>
+Week 1 (Aug 30 - Sep 3)</p>
 
 <br>
 
@@ -431,12 +431,10 @@ Week 1 (8/31 - 9/4)</p>
 
 Then we'll dive right in to a discussion of sound waves and the universal wave equation, as well as some properties of sound propagation, like the speed of sound, refraction, reflection, and diffraction. We'll also go over some history of how we've come to understand these phenomena and how they have been exploited throughout human history.
 
-There's lots to watch before we meet on Wednesday, so take a look early and be sure to give yourself enough time!
-
 <br>
 
 #### **Calendar and Announcements**
-- Fall semester begins Weds 9/2 (Monday schedule)
+- Fall semester begins Weds 9/1 (Monday schedule)
 - No lab meetings this week
 
 <br>
@@ -461,7 +459,7 @@ For Wednesday's Class
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week2.png" width="75" />
 
 ### Modeling Sound
-Week 2 (9/7 - 9/11)
+Week 2 (Sep 6 - 10)
 
 <br>
 
@@ -474,10 +472,9 @@ Finally, **lab sections begin this week**, so be sure to check my.harvard for yo
 <br>
 
 #### **Calendar and Announcements**
-- Labor Day Holiday Monday 9/7 (no Class Meeting)
+- Labor Day Holiday Monday 9/6 (no Class Meeting)
 - Optional Class Meeting Wednesday 9/9
-- Course Registration Deadline Weds 9/9
-- Lab Sections begin this Thurs 9/10 and Friday 9/11
+- Lab Sections begin this week
 
 <br>
 
@@ -496,7 +493,7 @@ Finally, **lab sections begin this week**, so be sure to check my.harvard for yo
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week3.png" width="75" />
 
 ### String Instruments and the Harmonic Series
-Week 3 (9/14 - 9/18)
+Week 3 (Sep 13 - 17)
 
 <br>
 
@@ -528,7 +525,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week4.png" width="75" />
 
 ### Frequency Analysis and Music Composition
-Week 4 (9/21 - 9/25)
+Week 4 (Sep 20 - 24)
 
 <br>
 
@@ -560,7 +557,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week5.png" width="75" />
 
 ### Vocal and Auditory Systems in Humans and Animals
-Week 5 (9/28 - 10/2)
+Week 5 (Sep 27 - Oct 1)
 
 <br>
 
@@ -595,7 +592,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week6.png" width="75" />
 
 ### Wind and Percussion Instruments
-Week 6 (10/5 - 10/9)
+Week 6 (Oct 4 - 8)
 
 <br>
 
@@ -604,7 +601,7 @@ Week 6 (10/5 - 10/9)
 <br>
 
 #### **Calendar and Announcements**
--  [Acoustic Instrument and Composition](https://canvas.harvard.edu/courses/75224/assignments/392133) due Monday October 12th by 11:59pm
+-  [Acoustic Instrument and Composition](https://canvas.harvard.edu/courses/75224/assignments/392133) due Monday October 11th by 11:59pm
 
 <br>
 
@@ -630,7 +627,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week7.png" width="75" />
 
 ### Room Acoustics and Speculative Systems
-Week 7 (10/12 - 10/16)
+Week 7 (Oct 11 - 15)
 
 <br>
 
@@ -641,7 +638,7 @@ Week 7 (10/12 - 10/16)
 <br>
 
 #### **Calendar and Announcements**
-- Columbus Day Holiday Mon 10/12
+- Columbus Day Holiday Mon 10/11
 
 <br>
 
@@ -664,7 +661,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week8.png" width="75" />
 
 ### Microphones and Pickups (Transducers)
-Week 8 (10/19 - 10/23)
+Week 8 (Oct 18 - 22)
 
 <br>
 
@@ -696,7 +693,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week9.png" width="75" />
 
 ### Circuits and Synthesizers
-Week 9 (10/26 - 10/30)
+Week 9 (Oct 25 - 29)
 
 <br>
 
@@ -729,7 +726,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week10.png" width="75" />
 
 ### Signals and Electronic Effects
-Week 10 (11/2 - 11/6)
+Week 10 (Nov 1 - 5)
 
 <br>
 
@@ -762,7 +759,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week11.png" width="75" />
 
 ### Audio Storage and Transmission
-Week 11 (11/9 - 11/13)
+Week 11 (Nov 8 - 12)
 
 <br>
 
@@ -798,7 +795,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week12.png" width="75" />
 
 ### Amplifiers and Speakers
-Week 12 (11/16 - 11/20)
+Week 12 (Nov 15 - 19)
 
 <br>
 
@@ -832,7 +829,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week13.png" width="75" />
 
 ### Audio Fingerprinting and Music Copyright
-Week 13 (11/23 - 11/27)
+Week 13 (Nov 22 - 26)
 
 <br>
 
@@ -841,7 +838,7 @@ How does Shazam know what song is playing, and does it also know if two songs ar
 <br>
 
 #### **Calendar and Announcements**
-- Thanksgiving Recess Wed-Sun 11/25-11/29
+- Thanksgiving Recess Wed-Sun 11/24-11/28
 - Electronic Instrument and Composition due by the end of the day Sunday
 
 <br>
@@ -856,7 +853,7 @@ Side B (Lab)
 - **Track 1 - Finish Building** your Electronic Instrument and Composition (early/mid-week)
 - **Track 2 - [Check in](https://canvas.harvard.edu/courses/75224/external_tools/63266)** with your friends and TF on Slack (early/mid-week)
 - **Track 3 - [Finish and Upload](https://canvas.harvard.edu/courses/75224/assignments/392140)** your Electronic Instrument and Composition assignment (by the end of the day Sunday)
-- **Track 4 - [Sign Up](https://docs.google.com/spreadsheets/d/1zCnd4ULSRAwQxOPpJ-MvFtCzwAkB37kdFAfUqCD0QVU/edit)** to share your personal musical background or practice in class on Monday! (by Tuesday 11/24)
+- **Track 4 - [Sign Up](https://docs.google.com/spreadsheets/d/1zCnd4ULSRAwQxOPpJ-MvFtCzwAkB37kdFAfUqCD0QVU/edit)** to share your personal musical background or practice in class on Monday! (by Tuesday 11/23)
 
 <br>
 
@@ -864,7 +861,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week14.png" width="75" />
 
 ### Engineering in Music Culture and Practice
-Week 14 (11/30 - 12/4) Final week of lectures
+Week 14 (Nov 29 - Dec 3) Final week of lectures
 
 <br>
 
@@ -873,8 +870,8 @@ What is the relationship between developing technical craft and creating persona
 <br>
 
 #### **Calendar and Announcements**
-- Last Day of Classes Thurs 12/3
-- Reading Period Begins Fri 12/4
+- Last Day of Classes Thurs 12/2
+- Reading Period Begins Fri 12/3
 
 <br>
 
@@ -897,7 +894,7 @@ Side B (Lab)
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week15.png" width="75" />
 
 ### Reading Week
-Week 15 (12/7 - 12/11)
+Week 15 (Dec 6 - Dec 10)
 
 <br>
 
@@ -906,8 +903,8 @@ This week is dedicated to continuing work on your Final Project.
 <br>
 
 #### **Calendar and Announcements**
-- Reading Period through Weds 12/9
-- Final Exam Period begins Thurs 12/10
+- Reading Period through Weds 12/8
+- Final Exam Period begins Thurs 12/9
 
 <br>
 
@@ -924,7 +921,7 @@ This week is dedicated to continuing work on your Final Project.
 <img src="https://gened1080.bok.tools/resources/canvas/media/record_weeks/week16.png" width="75" />
 
 ### 1080 Fest
-Week 16 (12/14 - 12/18)
+Week 16 (Dec 13 - 17)
 
 <br>
 
@@ -934,15 +931,15 @@ This week you'll put the finishing touches on your Final Project and we'll have 
 
 #### **Calendar and Announcements**
 - Final Project due
-- 1080 Fest! (Monday 12/14 10am-12pm)
-- Final Exam Period ends Sat 12/19
+- 1080 Fest! (Monday 12/13 10am-12pm)
+- Final Exam Period ends Sat 12/18
 
 <br>
 
 #### **Track List**
 
 - **Track 1 - [Upload](https://canvas.harvard.edu/courses/75224/assignments/392141)** your Final Project Report and Presentation (before the beginning of 1080 Fest)
-- **Track 2 - Come to** 1080 Fest! (Monday 12/14 10am-12pm)
+- **Track 2 - Come to** 1080 Fest! (Monday 12/13 10am-12pm)
 
 <br>
 
